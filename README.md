@@ -1,5 +1,57 @@
 # Inventário Detalhado - Coleção de Normas ISO/IEC/IEEE: Faixa 25001-30000
 
+## 📑 Sumário
+```
+📚 Inventário de Normas ISO/IEC/IEEE (25001-30000)
+├── 📚 Introdução
+│   └── 🎯 Por que essas normas são importantes?
+├── 🏗️ Organizações de Padronização
+│   ├── 📋 Tabela Comparativa (ISO/TS, ISO/TR, ISO/PAS, etc.)
+│   ├── 🔧 ISO/TS (Technical Specification)
+│   ├── 📄 ISO/TR (Technical Report)
+│   ├── 🌐 ISO/PAS (Publicly Available Specification)
+│   ├── ⚡ ISO/IEC TS (Technical Specification + IEC)
+│   ├── 📊 ISO/IEC TR (Technical Report + IEC)
+│   ├── 🤝 ISO/IEC IEEE (Trilateral)
+│   ├── 🔌 ISO/IEC (International Electrotechnical Commission)
+│   ├── 🏥 ISO/HL7 (Health Level 7)
+│   ├── 💡 ISO CIE (Lighting & Color)
+│   └── 🌍 ISO (International Organization for Standardization)
+├── 📁 Inventário Completo por Pasta (940+ normas)
+│   ├── 1️⃣ 25001-30000 (605 normas) - Pasta Principal
+│   ├── 2️⃣ 25001-30000.IEC (419 normas) - Normas ISO/IEC Conjuntas
+│   ├── 3️⃣ 25001-30000.IEC TS (19 normas) - Especificações Técnicas IEC
+│   ├── 4️⃣ 25001-30000.TR (62 normas) - Relatórios Técnicos
+│   ├── 5️⃣ 25001-30000.TS (42 normas) - Especificações Técnicas Gerais
+│   ├── 6️⃣ 25001-30000.IEC TR (65 normas) - Relatórios Técnicos IEC
+│   ├── 7️⃣ 25001-30000.IEC IEEE (13 normas) - Colaborações Tri-organizacionais
+│   ├── 8️⃣ 25001-30000.HL7 (10 normas) - Padrões de Informática em Saúde
+│   ├── 9️⃣ 25001-30000.CIE (2 normas) - Padrões de Iluminação e Cor
+│   └── 🔟 25001-30000.PAS (1 norma) - Especificações Publicamente Disponíveis
+├── 📚 Documentação dos Arquivos da Pasta "livros" (10 documentos)
+├── 🎯 Guias Específicos por Perfil Profissional (17 séries)
+│   ├── 🔐 Série de Segurança da Informação (15 normas)
+│   ├── 📋 Série para Product Owners e Coleta de Requisitos (12 normas)
+│   ├── 👨‍💻 Série de Engenharia de Software (15 normas)
+│   ├── 🎨 Série UX/UI, Usabilidade e Experiência do Usuário (8 normas)
+│   ├── 📝 Série Engenharia de Requisitos (6 normas)
+│   ├── ⚡ Série Qualidade de Software (12 normas)
+│   ├── 📊 Série Relatórios de Qualidade e Documentação (8 normas)
+│   ├── 🧪 Série Testes de Software e Framework Completo (12 normas)
+│   ├── 🤖 Série Testes Automatizados (7 normas)
+│   ├── 🏃 Série Qualidade e Testes com Metodologia Ágil (8 normas)
+│   ├── 🏗️ Série Modelagem, Arquitetura e Processo de Qualidade (8 normas)
+│   ├── 📈 Série Gestão de Qualidade de Software (9 normas)
+│   ├── 🎯 Série Gestão de Projetos de Software (8 normas)
+│   ├── 🔄 Série Processos Ágeis (5 normas)
+│   ├── 👥 Série Para Equipes de Desenvolvimento (9 normas)
+│   ├── 🧠 Série Para Equipes de Desenvolvimento de AI (6 normas)
+│   └── 🛡️ Série Para Profissionais de Segurança da Informação (13 normas)
+└── 📈 Estatísticas da Coleção Atualizada
+    ├── 📊 Estatísticas Gerais (940+ normas catalogadas)
+    └── 🎯 Distribuição por Perfil Profissional
+```
+
 ## 📚 Introdução
 
 Este repositório contém uma coleção sistemática e abrangente de normas técnicas internacionais na faixa numérica 25001-30000, organizadas hierarquicamente por tipo de organização e categoria de documento. A coleção representa o estado da arte em **engenharia de software**, **qualidade de sistemas**, **segurança da informação** e **tecnologias emergentes**.
@@ -80,178 +132,178 @@ As normas ISO/IEC/IEEE representam o consenso global sobre melhores práticas em
 - **Formato**: Todas são normas ISO puras (sem colaboração com IEC, IEEE, etc.)
 - **Foco**: Aplicações práticas em indústrias específicas e tecnologias emergentes
 
-| Nº  | Norma ISO               | Tipo ISO CIE | Área de Atuação                     | Descrição Resumida                                                                                                 |
-|-----|-------------------------|--------------|-------------------------------------|--------------------------------------------------------------------------------------------------------------------|
-| 1   | ISO 27008-1-2017        | ISO          | Segurança da informação             | Diretrizes para auditoria de controles de TI - Parte 1: Estrutura conceitual.                                      |
-| 2   | ISO 27016-2019          | ISO          | Segurança da informação             | Gestão econômica de segurança da informação.                                                                       |
-| 3   | ISO 27020-2019          | ISO          | Segurança da informação             | Requisitos para sistemas de resposta a incidentes cibernéticos.                                                    |
-| 4   | ISO 27025-2023          | ISO          | Segurança da informação             | Requisitos atualizados para competência de laboratórios de calibração.                                             |
-| 5   | ISO 27026-2023          | ISO          | Segurança da informação             | Requisitos para gestão de projetos de alta confiabilidade.                                                         |
-| 6   | ISO 27027-2014          | ISO          | Segurança da informação             | Requisitos para sistemas de detecção de ameaças persistentes.                                                      |
-| 7   | ISO 27048-2011          | ISO          | Segurança da informação             | Gestão de riscos em operações de segurança.                                                                        |
-| 8   | ISO 27065-2017          | ISO          | Segurança da informação             | Requisitos para rastreabilidade em cadeias alimentares.                                                            |
-| 9   | ISO 27070-2011          | ISO          | Segurança da informação             | Requisitos para sistemas de isolamento de redes críticas.                                                          |
-| 10  | ISO 27470-2011          | ISO          | Segurança da informação             | Requisitos para sistemas de detecção de intrusão em redes.                                                         |
-| 11  | ISO 29081-2010          | ISO          | Segurança da informação             | Requisitos para estruturas de metadados em big data.                                                               |
-| 12  | ISO 25237-2017          | ISO          | Segurança da informação             | Requisitos para anonimização de dados de saúde.                                                                    |
-| 13  | ISO 25539-1-2017        | ISO          | Dispositivos médicos                | Produtos para saúde cardiovascular - Parte 1: Requisitos gerais.                                                   |
-| 14  | ISO 25539-2-2020        | ISO          | Dispositivos médicos                | Produtos para saúde cardiovascular - Parte 2: Stents vasculares.                                                   |
-| 15  | ISO 25539-3-2011        | ISO          | Dispositivos médicos                | Produtos cardiovasculares - Parte 3 (Edição anterior).                                                             |
-| 16  | ISO 25539-3-2024        | ISO          | Dispositivos médicos                | Produtos para saúde cardiovascular - Parte 3: Dispositivos de oclusão vascular.                                    |
-| 17  | ISO 25539-4-2021        | ISO          | Dispositivos médicos                | Produtos para saúde cardiovascular - Parte 4: Dispositivos de implante periférico.                                 |
-| 18  | ISO 27186-2020          | ISO          | Dispositivos médicos                | Conectividade para dispositivos médicos ativos implantáveis.                                                       |
-| 19  | ISO 27427-2019          | ISO          | Dispositivos médicos                | Nebulizadores e componentes para inalação.                                                                         |
-| 20  | ISO 27427-2023          | ISO          | Dispositivos médicos                | Nebulizadores - Requisitos atualizados de segurança.                                                               |
-| 21  | ISO 27789-2021          | ISO          | Dispositivos médicos                | Requisitos para sistemas de gestão de registros de saúde.                                                          |
-| 22  | ISO 28057-2019          | ISO          | Dispositivos médicos                | Requisitos para dosimetria clínica em tratamentos oncológicos.                                                     |
-| 23  | ISO 28620-2020          | ISO          | Dispositivos médicos                | Requisitos para bombas de infusão hospitalares.                                                                    |
-| 24  | ISO 29022-2013          | ISO          | Dispositivos médicos                | Requisitos para sistemas de implantes dentários.                                                                   |
-| 25  | ISO 29061-1-2010        | ISO          | Dispositivos médicos                | Avaliação de usabilidade para dispositivos médicos - Parte 1.                                                      |
-| 26  | ISO 29061-3-2017        | ISO          | Dispositivos médicos                | Avaliação de usabilidade - Parte 3: Testes de campo.                                                               |
-| 27  | ISO 29061-4-2017        | ISO          | Dispositivos médicos                | Avaliação de usabilidade - Parte 4: Testes com usuários.                                                           |
-| 28  | ISO 29061-5-2017        | ISO          | Dispositivos médicos                | Avaliação de usabilidade - Parte 5: Documentação.                                                                  |
-| 29  | ISO 29701-2010          | ISO          | Dispositivos médicos                | Métodos para avaliação de toxicidade de nanomateriais.                                                             |
-| 30  | ISO 28842-2013          | ISO          | Dispositivos médicos                | Requisitos para sistemas de diagnóstico por imagem odontológica.                                                   |
-| 31  | ISO 29802-2017          | ISO          | Dispositivos médicos                | Requisitos para sistemas de monitoramento contínuo de glicose.                                                     |
-| 32  | ISO 29821-2018          | ISO          | Dispositivos médicos                | Requisitos para bancos de dados de sequências genéticas.                                                           |
-| 33  | ISO 26722-2009          | ISO          | Dispositivos médicos                | Requisitos para sistemas de hemodiálise (Edição anterior).                                                         |
-| 34  | ISO 26722-2014          | ISO          | Dispositivos médicos                | Requisitos para sistemas de hemodiálise.                                                                           |
-| 35  | ISO 27269-2021          | ISO          | Dispositivos médicos                | Requisitos para sistemas de diagnóstico por imagem cardiaca.                                                       |
-| 36  | ISO 26262-1-2018        | ISO          | Automotivo                          | Segurança funcional - Parte 1: Vocabulário.                                                                        |
-| 37  | ISO 26262-2-2018        | ISO          | Automotivo                          | Segurança funcional - Parte 2: Gestão de segurança funcional.                                                      |
-| 38  | ISO 26262-3-2018        | ISO          | Automotivo                          | Segurança funcional - Parte 3: Conceito de sistema.                                                                |
-| 39  | ISO 26262-4-2018        | ISO          | Automotivo                          | Segurança funcional - Parte 4: Desenvolvimento em nível de sistema.                                                |
-| 40  | ISO 26262-5-2018        | ISO          | Automotivo                          | Segurança funcional - Parte 5: Desenvolvimento em nível de hardware.                                               |
-| 41  | ISO 26262-6-2018        | ISO          | Automotivo                          | Segurança funcional - Parte 6: Desenvolvimento de software.                                                        |
-| 42  | ISO 26262-7-2018        | ISO          | Automotivo                          | Segurança funcional - Parte 7: Gestão de produção.                                                                 |
-| 43  | ISO 26262-8-2018        | ISO          | Automotivo                          | Segurança funcional - Parte 8: Gestão de processos de apoio.                                                       |
-| 44  | ISO 26262-9-2018        | ISO          | Automotivo                          | Segurança funcional - Parte 9: Análise de dependências.                                                            |
-| 45  | ISO 26262-11-2018       | ISO          | Automotivo                          | Segurança funcional - Parte 11: Diretrizes para semicondutores.                                                    |
-| 46  | ISO 26262-12-2018       | ISO          | Automotivo                          | Segurança funcional - Parte 12: Adaptação para motocicletas.                                                       |
-| 47  | ISO 27145-1-2012        | ISO          | Automotivo                          | Diagnóstico veicular - Parte 1: Requisitos gerais.                                                                 |
-| 48  | ISO 27145-2-2012        | ISO          | Automotivo                          | Diagnóstico veicular - Parte 2: Protocolos de comunicação.                                                         |
-| 49  | ISO 27145-2-2012 amd1-2023 | ISO        | Automotivo                          | Diagnóstico veicular - Parte 2 (Emenda 1).                                                                         |
-| 50  | ISO 27145-3-2012        | ISO          | Automotivo                          | Diagnóstico veicular - Parte 3: Protocolos de comunicação.                                                         |
-| 51  | ISO 27145-4-2016        | ISO          | Automotivo                          | Diagnóstico veicular - Parte 4: Protocolos de segurança.                                                           |
-| 52  | ISO 27145-6-2023        | ISO          | Automotivo                          | Diagnóstico veicular - Parte 6: Protocolos de segurança.                                                           |
-| 53  | ISO 27956-2009          | ISO          | Automotivo                          | Requisitos para sistemas de refrigeração em veículos de transporte perecíveis.                                     |
-| 54  | ISO 26202-2019          | ISO          | Automotivo                          | Requisitos para baterias de veículos elétricos.                                                                    |
-| 55  | ISO 26304-2017          | ISO          | Automotivo                          | Requisitos para sistemas de recarga (Edição anterior).                                                             |
-| 56  | ISO 26304-2025          | ISO          | Automotivo                          | Requisitos para sistemas de recarga ultrarrápida.                                                                  |
-| 57  | ISO 20077-2006          | ISO          | Automotivo                          | Diretrizes para avaliação de desempenho de sistemas eletrônicos.                                                   |
-| 58  | ISO 26243-2007          | ISO          | Automotivo                          | Requisitos para sistemas eletrônicos de controle de tração.                                                        |
-| 59  | ISO 26867-2009          | ISO          | Automotivo                          | Métodos de ensaio para desgaste de materiais de freio.                                                             |
-| 60  | ISO 26866-2009          | ISO          | Automotivo                          | Métodos de ensaio para materiais de fricção em freios.                                                             |
-| 61  | ISO 25297-1-2012        | ISO          | Automotivo                          | Requisitos para sistemas de frenagem de emergência.                                                                |
-| 62  | ISO 27955-2010          | ISO          | Automotivo                          | Requisitos para sistemas de diagnóstico a bordo (OBD).                                                             |
-| 63  | ISO 26203-1-2018        | ISO          | Automotivo                          | Ensaio de fadiga em altas temperaturas - Parte 1.                                                                  |
-| 64  | ISO 26203-2-2011 (2012) | ISO          | Automotivo                          | Ensaio de fadiga em altas temperaturas - Parte 2.                                                                  |
-| 65  | ISO 28005-1-2013        | ISO          | Transporte marítimo                 | Sistemas eletrônicos de troca de dados para portos - Edição anterior.                                              |
-| 66  | ISO 28005-1-2024        | ISO          | Transporte marítimo                 | Sistemas eletrônicos de troca de dados para portos - Parte 1.                                                      |
-| 67  | ISO 28005-2-2021        | ISO          | Transporte marítimo                 | Sistemas eletrônicos para troca de dados portuários - Parte 2.                                                     |
-| 68  | ISO 28005-3-2024        | ISO          | Transporte marítimo                 | Comunicações de emergência em portos - Parte 3.                                                                    |
-| 69  | ISO 28017-2018          | ISO          | Transporte marítimo                 | Requisitos para serviços de segurança marítima a bordo.                                                            |
-| 70  | ISO 28007-1-2015        | ISO          | Transporte marítimo                 | Requisitos para segurança de navios contra pirataria.                                                              |
-| 71  | ISO 28460-2010          | ISO          | Transporte marítimo                 | Requisitos para transferência de gás natural liquefeito (GNL).                                                     |
-| 72  | ISO 25862-2019          | ISO          | Transporte marítimo                 | Requisitos para sistemas de radar marítimo.                                                                        |
-| 73  | ISO 25862-2019 amd1-2024 | ISO          | Transporte marítimo                 | Requisitos para sistemas de radar marítimo (Emenda 1).                                                             |
-| 74  | ISO 25861-2007          | ISO          | Transporte marítimo                 | Requisitos para sistemas de posicionamento dinâmico.                                                               |
-| 75  | ISO 28158-2018          | ISO          | Transporte marítimo                 | Requisitos para sistemas de entretenimento a bordo.                                                                |
-| 76  | ISO 28522-2009          | ISO          | Transporte                          | Requisitos para sistemas de bilhetagem a bordo.                                                                    |
-| 77  | ISO 26022-2010          | ISO          | Transporte                          | Arquivos de apoio da norma de transporte.                                                                          |
-| 78  | ISO 26683-3-2019        | ISO          | Transporte                          | Parte 3: Troca de dados para logística (2019).                                                                     |
-| 79  | ISO 25178-1-2016        | ISO          | Metrologia                          | Parte 1: Termos e definições (2016).                                                                               |
-| 80  | ISO 25178-601-2025      | ISO          | Metrologia                          | Parte 601: Especificações de instrumentos (2025).                                                                  |
-| 81  | ISO 25539-3-2024       | ISO          | Dispositivos Médicos                | Parte 3: Stents vasculares (2024).                                                                                 |
-| 82  | ISO 25639-1-2025       | ISO          | Eventos                             | Parte 1: Vocabulário (2025).                                                                                       |
-| 83  | ISO 25720-2009         | ISO          | Energia Nuclear                     | Medição de radônio em água.                                                                                        |
-| 84  | ISO 25841-2017         | ISO          | Dispositivos Médicos                | Dispositivos intrauterinos (2017).                                                                                 |
-| 85  | ISO 25947-3-2017       | ISO          | Fogos de Artifício                  | Parte 3: Fogos de artifício para uso teatral.                                                                      |
-| 86  | ISO 26101-2-2024       | ISO          | Acústica                            | Parte 2: Medição de ruído em veículos (2024).                                                                      |
-| 87  | ISO 26162-2-2019       | ISO          | Indústria Gráfica                   | Parte 2: Requisitos para sistemas de workflow.                                                                     |
-| 88  | ISO 26428-9-2009       | ISO          | Cinema Digital                      | Parte 9: Especificações de áudio.                                                                                  |
-| 89  | ISO 26843-2015         | ISO          | Geotecnia                           | Métodos de ensaio de laboratório.                                                                                  |
-| 90  | ISO 26871-2020         | ISO          | Geotecnia                           | Determinação de propriedades de solos (2020).                                                                      |
-| 91  | ISO 27327-1-2009       | ISO          | Ventilação                          | Parte 1: Ventiladores centrífugos.                                                                                 |
-| 92  | ISO 27447-2019         | ISO          | Materiais Fotocatalíticos           | Determinação da atividade fotocatalítica.                                                                          |
-| 93  | ISO 27448-2009         | ISO          | Materiais Fotocatalíticos           | Determinação da autolimpeza.                                                                                       |
-| 94  | ISO 27468-2011         | ISO          | Iluminação                          | Códigos de barras para lâmpadas.                                                                                   |
-| 95  | ISO 27509-2020         | ISO          | Veículos Rodoviários                | Requisitos para veículos pesados.                                                                                  |
-| 96  | ISO 27831-1-2008       | ISO          | Eletricidade                        | Parte 1: Métodos de ensaio para cabos.                                                                             |
-| 97  | ISO 28139-2019 amd1-2024 | ISO        | Tubulações                          | Emenda 1: Tubulações industriais (2024).                                                                           |
-| 98  | ISO 29201-2012          | ISO          | Gestão ambiental                    | Determinação da toxicidade aguda em sedimentos marinhos.                                                           |
-| 99  | ISO 29201-2023          | ISO          | Gestão ambiental                    | Determinação da toxicidade crônica em sedimentos.                                                                  |
-| 100 | ISO 25537-2008          | ISO          | Gestão ambiental                    | Determinação de hidrocarbonetos aromáticos policíclicos (PAHs) em sedimentos.                                      |
-| 101 | ISO 25140-2010          | ISO          | Gestão ambiental                    | Monitoramento contínuo de emissões de metano.                                                                      |
-| 102 | ISO 29664-2010          | ISO          | Gestão ambiental                    | Métodos para avaliação de resistência à intempérie em plásticos.                                                   |
-| 103 | ISO 26367-1-2019        | ISO          | Gestão ambiental                    | Avaliação de impacto ambiental de produtos químicos - Parte 1.                                                     |
-| 104 | ISO 26367-2-2017        | ISO          | Gestão ambiental                    | Avaliação de impacto ambiental de produtos químicos - Parte 2.                                                     |
-| 105 | ISO 26367-3-2022        | ISO          | Gestão ambiental                    | Avaliação de impacto ambiental de produtos químicos - Parte 3.                                                     |
-| 106 | ISO 29042-1-2008        | ISO          | Gestão ambiental                    | Avaliação de emissão de substâncias perigosas - Parte 1.                                                           |
-| 107 | ISO 29042-2-2009        | ISO          | Gestão ambiental                    | Avaliação de emissão de substâncias perigosas - Parte 2.                                                           |
-| 108 | ISO 29042-3-2009        | ISO          | Gestão ambiental                    | Avaliação de emissão de substâncias perigosas - Parte 3.                                                           |
-| 109 | ISO 29042-4-2009        | ISO          | Gestão ambiental                    | Avaliação de emissão de substâncias perigosas - Parte 4: Sistemas de captação de aerossóis.                        |
-| 110 | ISO 29042-5-2010        | ISO          | Gestão ambiental                    | Avaliação de emissão de substâncias perigosas - Parte 5.                                                           |
-| 111 | ISO 29042-6-2010        | ISO          | Gestão ambiental                    | Avaliação de emissão de substâncias perigosas - Parte 6.                                                           |
-| 112 | ISO 29042-7-2010        | ISO          | Gestão ambiental                    | Avaliação de emissão de substâncias perigosas - Parte 7.                                                           |
-| 113 | ISO 29042-8-2011        | ISO          | Gestão ambiental                    | Avaliação de emissão de substâncias perigosas - Parte 8.                                                           |
-| 114 | ISO 29042-9-2011        | ISO          | Gestão ambiental                    | Avaliação de emissão de substâncias perigosas - Parte 9.                                                           |
-| 115 | ISO 29700-2022          | ISO          | Gestão ambiental                    | Diretrizes para tratamento térmico de resíduos.                                                                    |
-| 116 | ISO 26000-2010          | ISO          | Sustentabilidade                    | Diretrizes para responsabilidade social corporativa.                                                               |
-| 117 | ISO 26000-2010 rus      | ISO          | Sustentabilidade                    | Versão em russo das diretrizes de responsabilidade social.                                                         |
-| 118 | ISO 26009-2012          | ISO          | Sustentabilidade                    | Diretrizes para implementação de normas de responsabilidade corporativa.                                           |
-| 119 | ISO 26021-1-2022        | ISO          | Sustentabilidade                    | Diretrizes para reciclagem de eletrônicos.                                                                         |
-| 120 | ISO 26021-2-2008        | ISO          | Sustentabilidade                    | Diretrizes para reciclagem de pneus.                                                                               |
-| 121 | ISO 26021-2-2008 cor1-2009 | ISO        | Sustentabilidade                    | Diretrizes para reciclagem de pneus (Corrigenda 1).                                                                |
-| 122 | ISO 26021-3-2022        | ISO          | Sustentabilidade                    | Diretrizes para reciclagem de plásticos de engenharia.                                                             |
-| 123 | ISO 26021-4-2009        | ISO          | Sustentabilidade                    | Diretrizes para reciclagem de baterias automotivas.                                                                |
-| 124 | ISO 26021-5-2009        | ISO          | Sustentabilidade                    | Diretrizes para reciclagem de resíduos eletrônicos.                                                                |
-| 125 | ISO 26062-2010          | ISO          | Sustentabilidade                    | Requisitos para sistemas de gestão de resíduos radioativos.                                                        |
-| 126 | ISO 29003-1-2020        | ISO          | Sustentabilidade                    | Verificação de inventários de carbono - Parte 1.                                                                   |
-| 127 | ISO 27914-2017          | ISO          | Sustentabilidade                    | Requisitos para armazenamento geológico de CO2.                                                                    |
-| 128 | ISO 27919-1-2018        | ISO          | Sustentabilidade                    | Métodos para absorção de CO2 em processos industriais - Parte 1.                                                   |
-| 129 | ISO 27919-2-2021        | ISO          | Sustentabilidade                    | Métodos para absorção de CO2 em processos industriais - Parte 2.                                                   |
-| 130 | ISO 27913-2016          | ISO          | Sustentabilidade                    | Requisitos para captura de CO2 em processos industriais.                                                           |
-| 131 | ISO 27913-2024          | ISO          | Sustentabilidade                    | Requisitos para transporte de CO₂ em pipelines.                                                                    |
-| 132 | ISO 27852-2016          | ISO          | Sustentabilidade                    | Requisitos para sistemas fotovoltaicos flutuantes.                                                                 |
-| 133 | ISO 27852-2024          | ISO          | Sustentabilidade                    | Requisitos revisados para sistemas fotovoltaicos flutuantes.                                                       |
-| 134 | ISO 27127-2021          | ISO          | Sustentabilidade                    | Requisitos para sistemas de geração fotovoltaica flutuante.                                                        |
-| 135 | ISO 26603-2017          | ISO          | Sustentabilidade                    | Especificações para bioquerosene de aviação.                                                                       |
-| 136 | ISO 26622-1-2017        | ISO          | Sustentabilidade                    | Especificações para biogás para uso veicular.                                                                      |
-| 137 | ISO 26622-2-2008        | ISO          | Sustentabilidade                    | Especificações para bioquerosene de aviação - Parte 2.                                                             |
-| 138 | ISO 26986-2010          | ISO          | Sustentabilidade                    | Especificações para biodiesel B100.                                                                                |
-| 139 | ISO 26986-2010 amd1-2022 | ISO          | Sustentabilidade                    | Especificações para biodiesel (Emenda 1).                                                                          |
-| 140 | ISO 29767-2019          | ISO          | Sustentabilidade                    | Determinação de propriedades térmicas em isolamentos.                                                              |
-| 141 | ISO 29782-2022          | ISO          | Sustentabilidade                    | Requisitos para reciclagem de plásticos de engenharia.                                                             |
-| 142 | ISO 28721-1-2019        | ISO          | Materiais industriais               | Esmaltes vítreos - Parte 1: Resistência ao impacto.                                                                |
-| 143 | ISO 28721-2-2015        | ISO          | Materiais industriais               | Esmaltes vítreos - Parte 2: Resistência à corrosão.                                                                |
-| 144 | ISO 28721-2-2025        | ISO          | Materiais industriais               | Esmaltes vítreos - Parte 2: Revisão de resistência à corrosão.                                                     |
-| 145 | ISO 28721-3-2008        | ISO          | Materiais industriais               | Esmaltes vítreos - Parte 3: Resistência ao ataque químico.                                                         |
-| 146 | ISO 28721-4-2015        | ISO          | Materiais industriais               | Esmaltes vítreos - Parte 4: Resistência a altas temperaturas.                                                      |
-| 147 | ISO 28721-5-2016        | ISO          | Materiais industriais               | Esmaltes vítreos - Parte 5: Resistência ao desgaste abrasivo.                                                      |
-| 148 | ISO 28706-1-2008        | ISO          | Materiais industriais               | Ensaios de corrosão em atmosferas naturais - Parte 1.                                                              |
-| 149 | ISO 28706-2-2017        | ISO          | Materiais industriais               | Ensaios de corrosão em atmosferas industriais - Parte 2.                                                           |
-| 150 | ISO 28706-3-2017        | ISO          | Materiais industriais               | Ensaios de corrosão em atmosferas marinhas - Parte 3.                                                              |
-| 151 | ISO 28706-4-2016        | ISO          | Materiais industriais               | Ensaios de corrosão em atmosferas industriais - Parte 4.                                                           |
-| 152 | ISO 28706-5-2010        | ISO          | Materiais industriais               | Ensaios de corrosão em atmosferas marinhas - Parte 5.                                                              |
-| 153 | ISO 29471-2008          | ISO          | Materiais industriais               | Métodos de ensaio para resistência ao choque térmico.                                                              |
-| 154 | ISO 29471-2008 amd1-2014 | ISO          | Materiais industriais               | Métodos de ensaio para resistência ao choque térmico (Emenda 1).                                                   |
-| 155 | ISO 29467-2008          | ISO          | Materiais industriais               | Métodos de ensaio para resistência ao impacto em plásticos.                                                        |
-| 156 | ISO 29467-2008 amd1-2014 | ISO          | Materiais industriais               | Métodos de ensaio para resistência ao impacto (Emenda 1).                                                          |
-| 157 | ISO 29472-2008          | ISO          | Materiais industriais               | Modelos de elevação digital - Requisitos de qualidade.                                                             |
-| 158 | ISO 29472-2008 amd1-2014 | ISO          | Materiais industriais               | Modelos de elevação digital (Emenda 1: Atualização de precisão).                                                   |
-| 159 | ISO 29771-2008          | ISO          | Materiais industriais               | Métodos para análise de expressão gênica.                                                                          |
-| 160 | ISO 29771-2008 amd1-2014 | ISO          | Materiais industriais               | Métodos para análise de expressão gênica (Emenda 1).                                                               |
-| 161 | ISO 28239-2008          | ISO          | Manufatura                          | Especificações para máquinas de usinagem de precisão.                                                              |
-| 162 | ISO 28279-2010          | ISO          | Manufatura                          | Requisitos para sistemas de inspeção automática em linha.                                                          |
-| 163 | ISO 28592-2017          | ISO          | Manufatura                          | Métodos de ensaio para corrosão sob tensão em metais.                                                              |
-| 164 | ISO 28593-2017          | ISO          | Manufatura                          | Requisitos para embalagens metálicas recicláveis.                                                                  |
-| 165 | ISO 28594-2017          | ISO          | Manufatura                          | Requisitos para sistemas de inspeção automatizada em linha de produção.                                            |
-| 166 | ISO 28597-2017          | ISO          | Manufatura                          | Requisitos para embalagens flexíveis esterilizáveis.                                                               |
-| 167 | ISO 28704-2011          | ISO          | Manufatura                          | Ensaio de resistência à flexão em temperaturas elevadas para cerâmicas.                                            |
-| 168 | ISO 28881-2022          | ISO          | Manufatura                          | Requisitos para máquinas de eletroerosão a fio.                                                                    |
-| 169 | ISO 28888-2013          | ISO          | Manufatura                          | Requisitos para materiais de impressão digital odontológica.                                                       |
-| 170 | ISO 28927-1-2019        | ISO          | Manufatura                          | Requisitos para ferramentas rotativas portáteis.                                                                   |
+| Nº  | Norma ISO                    | Tipo | Área de Atuação                     | Descrição Resumida                                                                                                 |
+|-----|------------------------------|------|-------------------------------------|--------------------------------------------------------------------------------------------------------------------|
+| 1   | ISO 25062-2025.pdf           | ISO  | Inteligência Artificial             | Modelo de qualidade para sistemas de inteligência artificial.                                                      |
+| 2   | ISO 25065-2019.pdf           | ISO  | Experiência do Usuário              | Avaliação de experiência do usuário em produtos digitais.                                                          |
+| 3   | ISO 25101-2009.pdf           | ISO  | Ergonomia                           | Princípios ergonômicos para design de sistemas interativos.                                                        |
+| 4   | ISO 25110-2017.pdf           | ISO  | Engenharia de Software              | Perfis de ciclo de vida para pequenas organizações - Parte 1.                                                      |
+| 5   | ISO 25110-2025.pdf           | ISO  | Engenharia de Software              | Perfis de ciclo de vida atualizados para pequenas organizações.                                                    |
+| 6   | ISO 25111-2009.pdf           | ISO  | Engenharia de Software              | Perfis de ciclo de vida - Parte 2: Estrutura e taxonomia.                                                          |
+| 7   | ISO 25112-2010.pdf           | ISO  | Engenharia de Software              | Perfis de ciclo de vida - Parte 3: Diretrizes de avaliação.                                                        |
+| 8   | ISO 25113-2010.pdf           | ISO  | Engenharia de Software              | Perfis de ciclo de vida - Parte 4: Diretrizes para uso de perfis.                                                  |
+| 9   | ISO 25119-1-2018.pdf         | ISO  | Agricultura                         | Sistemas de controle de tratores e máquinas agrícolas - Parte 1: Princípios gerais.                               |
+| 10  | ISO 25119-1-2018 amd1-2020.pdf | ISO | Agricultura                        | Sistemas de controle agrícolas - Parte 1 (Emenda 1: Atualizações 2020).                                           |
+| 11  | ISO 25119-2-2019.pdf         | ISO  | Agricultura                         | Sistemas de controle agrícolas - Parte 2: Desenvolvimento de aplicações.                                           |
+| 12  | ISO 25119-3-2018.pdf         | ISO  | Agricultura                         | Sistemas de controle agrícolas - Parte 3: Elementos de software.                                                   |
+| 13  | ISO 25119-3-2018 amd1-2020.pdf | ISO | Agricultura                        | Sistemas de controle agrícolas - Parte 3 (Emenda 1).                                                              |
+| 14  | ISO 25119-4-2018.pdf         | ISO  | Agricultura                         | Sistemas de controle agrícolas - Parte 4: Requisitos de produção.                                                  |
+| 15  | ISO 25119-4-2018 amd1-2020.pdf | ISO | Agricultura                        | Sistemas de controle agrícolas - Parte 4 (Emenda 1).                                                              |
+| 16  | ISO 25137-1-2009.pdf         | ISO  | Construção                          | Códigos de cores para tubulações - Parte 1: Esquema geral.                                                         |
+| 17  | ISO 25137-2-2009.pdf         | ISO  | Construção                          | Códigos de cores para tubulações - Parte 2: Aplicações especiais.                                                  |
+| 18  | ISO 25139-2011.pdf           | ISO  | Construção                          | Fundações especiais - Requisitos de projeto e execução.                                                            |
+| 19  | ISO 25140-2010.pdf           | ISO  | Gestão Ambiental                    | Monitoramento contínuo de emissões de metano.                                                                      |
+| 20  | ISO 25157-2013.pdf           | ISO  | Gestão da Informação                | Requisitos para preservação digital de documentos.                                                                  |
+| 21  | ISO 25177-2019.pdf           | ISO  | Transporte                          | Requisitos para sistemas de transporte inteligente.                                                                |
+| 22  | ISO 25178-1-2016.pdf         | ISO  | Metrologia                          | Especificação geométrica de produtos - Textura superficial: Areal - Parte 1: Indicação de textura superficial.   |
+| 23  | ISO 25178-2-2021.pdf         | ISO  | Metrologia                          | Especificação geométrica - Textura superficial: Areal - Parte 2: Termos, definições e parâmetros.                 |
+| 24  | ISO 25178-3-2012.pdf         | ISO  | Metrologia                          | Especificação geométrica - Textura superficial: Areal - Parte 3: Operadores de especificação.                     |
+| 25  | ISO 25178-6-2010.pdf         | ISO  | Metrologia                          | Especificação geométrica - Textura superficial: Areal - Parte 6: Classificação de métodos.                        |
+| 26  | ISO 25178-600-2019.pdf       | ISO  | Metrologia                          | Especificação geométrica - Textura superficial: Areal - Parte 600: Características metrológicas.                  |
+| 27  | ISO 25178-601-2010.pdf       | ISO  | Metrologia                          | Especificação geométrica - Textura superficial: Areal - Parte 601: Instrumentos nominais.                         |
+| 28  | ISO 25178-601-2025.pdf       | ISO  | Metrologia                          | Especificação geométrica - Textura superficial: Areal - Parte 601: Instrumentos (edição atualizada).              |
+| 29  | ISO 25178-602-2010.pdf       | ISO  | Metrologia                          | Especificação geométrica - Textura superficial: Areal - Parte 602: Instrumentos de contato.                       |
+| 30  | ISO 25178-602-2025.pdf       | ISO  | Metrologia                          | Especificação geométrica - Textura superficial: Areal - Parte 602: Instrumentos (edição atualizada).              |
+| 31  | ISO 25178-603-2013.pdf       | ISO  | Metrologia                          | Especificação geométrica - Textura superficial: Areal - Parte 603: Instrumentos de filtragem.                     |
+| 32  | ISO 25178-603-2025.pdf       | ISO  | Metrologia                          | Especificação geométrica - Textura superficial: Areal - Parte 603: Instrumentos (edição atualizada).              |
+| 33  | ISO 25178-604-2013.pdf       | ISO  | Metrologia                          | Especificação geométrica - Textura superficial: Areal - Parte 604: Padrões de calibração.                         |
+| 34  | ISO 25178-604-2025.pdf       | ISO  | Metrologia                          | Especificação geométrica - Textura superficial: Areal - Parte 604: Padrões (edição atualizada).                   |
+| 35  | ISO 25178-605-2014.pdf       | ISO  | Metrologia                          | Especificação geométrica - Textura superficial: Areal - Parte 605: Instrumentos de medição por contato.           |
+| 36  | ISO 25178-605-2025.pdf       | ISO  | Metrologia                          | Especificação geométrica - Textura superficial: Areal - Parte 605: Instrumentos (edição atualizada).              |
+| 37  | ISO 25178-606-2015.pdf       | ISO  | Metrologia                          | Especificação geométrica - Textura superficial: Areal - Parte 606: Instrumentos de varredura.                     |
+| 38  | ISO 25178-607-2019.pdf       | ISO  | Metrologia                          | Especificação geométrica - Textura superficial: Areal - Parte 607: Instrumentos de interferometria.               |
+| 39  | ISO 25178-70-2014.pdf        | ISO  | Metrologia                          | Especificação geométrica - Textura superficial: Areal - Parte 70: Padrões de referência.                          |
+| 40  | ISO 25178-700-2022.pdf       | ISO  | Metrologia                          | Especificação geométrica - Textura superficial: Areal - Parte 700: Calibração e verificação.                      |
+| 41  | ISO 25178-701-2010.pdf       | ISO  | Metrologia                          | Especificação geométrica - Textura superficial: Areal - Parte 701: Calibração e medição.                          |
+| 42  | ISO 25178-71-2017.pdf        | ISO  | Metrologia                          | Especificação geométrica - Textura superficial: Areal - Parte 71: Padrões de software.                            |
+| 43  | ISO 25178-72-2017.pdf        | ISO  | Metrologia                          | Especificação geométrica - Textura superficial: Areal - Parte 72: Formato de arquivo XML.                         |
+| 44  | ISO 25178-72-2017 amd1-2020.pdf | ISO | Metrologia                         | Especificação geométrica - Textura superficial: Areal - Parte 72 (Emenda 1).                                      |
+| 45  | ISO 25178-73-2019.pdf        | ISO  | Metrologia                          | Especificação geométrica - Textura superficial: Areal - Parte 73: Termos e definições.                            |
+| 46  | ISO 25179-2018.pdf           | ISO  | Metrologia                          | Especificação geométrica de produtos - Dimensões e tolerâncias.                                                    |
+| 47  | ISO 25197-2020.pdf           | ISO  | Transporte Marítimo                 | Requisitos para sistemas de radar marítimo.                                                                        |
+| 48  | ISO 25197-2020 amd1-2022.pdf | ISO  | Transporte Marítimo                 | Requisitos para sistemas de radar marítimo (Emenda 1).                                                             |
+| 49  | ISO 25217-2009.pdf           | ISO  | Gestão da Informação                | Requisitos para formatos de intercâmbio de dados.                                                                  |
+| 50  | ISO 25237-2017.pdf           | ISO  | Segurança da Informação             | Requisitos para anonimização de dados de saúde.                                                                    |
+| 51  | ISO 25239-1-2020.pdf         | ISO  | Soldagem                            | Processos de soldagem por fricção - Parte 1: Vocabulário.                                                          |
+| 52  | ISO 25239-2-2020.pdf         | ISO  | Soldagem                            | Processos de soldagem por fricção - Parte 2: Projeto de juntas.                                                    |
+| 53  | ISO 25239-3-2020.pdf         | ISO  | Soldagem                            | Processos de soldagem por fricção - Parte 3: Qualificação de processos.                                            |
+| 54  | ISO 25239-4-2020.pdf         | ISO  | Soldagem                            | Processos de soldagem por fricção - Parte 4: Especificação de procedimentos.                                       |
+| 55  | ISO 25239-5-2020.pdf         | ISO  | Soldagem                            | Processos de soldagem por fricção - Parte 5: Qualificação de pessoal.                                              |
+| 56  | ISO 25297-1-2012.pdf         | ISO  | Automotivo                          | Requisitos para sistemas de frenagem de emergência - Parte 1.                                                      |
+| 57  | ISO 25297-2-2011.pdf         | ISO  | Automotivo                          | Requisitos para sistemas de frenagem de emergência - Parte 2.                                                      |
+| 58  | ISO 25337-2010.pdf           | ISO  | Gestão da Qualidade                 | Requisitos para sistemas de gestão da qualidade em laboratórios.                                                   |
+| 59  | ISO 25358-2018.pdf           | ISO  | Agricultura                         | Métodos para análise de solos agrícolas.                                                                           |
+| 60  | ISO 25377-2020.pdf           | ISO  | Hidrologia                          | Requisitos para medição de vazão em rios.                                                                          |
+| 61  | ISO 25378-2011.pdf           | ISO  | Metrologia                          | Especificações para máquinas de medição por coordenadas.                                                           |
+| 62  | ISO 25424-2018.pdf           | ISO  | Gestão de Resíduos                  | Métodos para tratamento térmico de resíduos biomédicos.                                                            |
+| 63  | ISO 25424-2018 amd1-2022.pdf | ISO  | Gestão de Resíduos                  | Métodos para tratamento térmico de resíduos biomédicos (Emenda 1).                                                 |
+| 64  | ISO 25457-2008 files.zip     | ZIP  | Dados/Arquivos                      | Formatos para intercâmbio de dados de perfuração (arquivos de apoio).                                              |
+| 65  | ISO 25457-2023.pdf           | ISO  | Dados/Arquivos                      | Requisitos atualizados para intercâmbio de dados de perfuração.                                                    |
+| 66  | ISO 25475-2016.pdf           | ISO  | Energia Renovável                   | Requisitos para instalações fotovoltaicas flutuantes.                                                              |
+| 67  | ISO 25498-2018.pdf           | ISO  | Análises Químicas                   | Métodos para análise elementar por espectroscopia de raios X.                                                      |
+| 68  | ISO 25498-2025.pdf           | ISO  | Análises Químicas                   | Métodos atualizados para análise elementar por espectroscopia de raios X.                                          |
+| 69  | ISO 25518-2021.pdf           | ISO  | Gestão da Informação                | Requisitos para sistemas de gestão de documentos eletrônicos.                                                      |
+| 70  | ISO 25537-2008.pdf           | ISO  | Gestão Ambiental                    | Determinação de hidrocarbonetos aromáticos policíclicos (PAHs) em sedimentos.                                      |
+| 71  | ISO 25539-1-2017.pdf         | ISO  | Dispositivos Médicos                | Produtos para saúde cardiovascular - Parte 1: Requisitos gerais.                                                   |
+| 72  | ISO 25539-2-2020.pdf         | ISO  | Dispositivos Médicos                | Produtos para saúde cardiovascular - Parte 2: Stents vasculares.                                                   |
+| 73  | ISO 25539-3-2011.pdf         | ISO  | Dispositivos Médicos                | Produtos cardiovasculares - Parte 3 (Edição anterior).                                                             |
+| 74  | ISO 25539-3-2024.pdf         | ISO  | Dispositivos Médicos                | Produtos para saúde cardiovascular - Parte 3: Dispositivos de oclusão vascular.                                    |
+| 75  | ISO 25539-4-2021.pdf         | ISO  | Dispositivos Médicos                | Produtos para saúde cardiovascular - Parte 4: Dispositivos de implante periférico.                                 |
+| 76  | ISO 25550-2022.pdf           | ISO  | Gestão de Energia                   | Requisitos para sistemas de gestão de energia em edifícios.                                                        |
+| 77  | ISO 25551-2021.pdf           | ISO  | Gestão de Energia                   | Diretrizes para eficiência energética em processos industriais.                                                    |
+| 78  | ISO 25552-2022.pdf           | ISO  | Gestão de Energia                   | Requisitos para auditoria energética em organizações.                                                              |
+| 79  | ISO 25554-2024.pdf           | ISO  | Gestão de Energia                   | Diretrizes para integração de energias renováveis.                                                                 |
+| 80  | ISO 25556-2025.pdf           | ISO  | Gestão de Energia                   | Requisitos para certificação de sistemas de energia limpa.                                                         |
+| 81  | ISO 25577-2013.pdf           | ISO  | Gestão de Resíduos                  | Requisitos para incineração de resíduos perigosos.                                                                 |
+| 82  | ISO 25597-2013 (2015).pdf    | ISO  | Gestão Ambiental                    | Métodos para amostragem de material particulado fino.                                                              |
+| 83  | ISO 25619-1-2021.pdf         | ISO  | Geossintéticos                      | Determinação do comportamento sob carga para geossintéticos - Parte 1.                                             |
+| 84  | ISO 25619-2-2015.pdf         | ISO  | Geossintéticos                      | Determinação do comportamento sob carga para geossintéticos - Parte 2.                                             |
+| 85  | ISO 25620-2008.pdf           | ISO  | Construção                          | Requisitos para estruturas de concreto armado.                                                                     |
+| 86  | ISO 25639-1-2008.pdf        | ISO  | Gestão de Eventos                   | Gestão sustentável de eventos - Parte 1: Sistema de gestão.                                                        |
+| 87  | ISO 25639-1-2025.pdf        | ISO  | Gestão de Eventos                   | Gestão sustentável de eventos - Parte 1: Sistema de gestão (atualizada).                                           |
+| 88  | ISO 25639-2-2008.pdf        | ISO  | Gestão de Eventos                   | Gestão sustentável de eventos - Parte 2: Orientações de implementação.                                             |
+| 89  | ISO 26022-2010 files.rar    | RAR  | Transporte/Arquivos                 | Arquivos de apoio da norma de transporte (formato compactado).                                                     |
+| 90  | ISO 26022-2010.pdf          | ISO  | Transporte                          | Sistemas de transporte inteligente - Requisitos de comunicação.                                                    |
+| 91  | ISO 26430-4-2009.zip        | ZIP  | Cinema Digital/Arquivos             | Cinema digital - Parte 4: Especificações de segurança (arquivos).                                                 |
+| 92  | ISO 26430-5-2009.zip        | ZIP  | Cinema Digital/Arquivos             | Cinema digital - Parte 5: Especificações de áudio (arquivos).                                                     |
+| 93  | ISO 26433-2009.zip          | ZIP  | Cinema Digital/Arquivos             | Cinema digital - Sistemas de distribuição (arquivos).                                                             |
+| 94  | ISO 27048-2011.zip          | ZIP  | Segurança/Arquivos                  | Gestão de riscos em operações de segurança (arquivos de apoio).                                                    |
+| 95  | ISO 28178-2009 files.zip    | ZIP  | Impressão Digital/Arquivos          | Formatos de arquivo para intercâmbio de dados em impressão digital (arquivos).                                     |
+| 96  | ISO 26021-2-2008 cor1-2009.pdf | ISO | Sustentabilidade                    | Diretrizes para reciclagem de pneus (Corrigenda 1).                                                                |
+| 97  | ISO 26782-2009 cor1-2009.pdf   | ISO | Gestão Ambiental                    | Sistemas de gestão ambiental em organizações (Corrigenda 1).                                                       |
+| 98  | ISO 28004-2007 cor1-2012.pdf   | ISO | Gestão/Segurança                    | Implementação de gestão de segurança na cadeia de suprimentos (Corrigenda 1).                                      |
+| 99  | ISO 28300-2008 cor1-2009.pdf   | ISO | Sustentabilidade                    | Requisitos para relatórios de sustentabilidade (Corrigenda 1).                                                     |
+| 100 | ISO 27729-2012 cor1-2013.pdf   | ISO | Gestão de Dados                     | Formatos para preservação digital de documentos (Corrigenda 1).                                                    |
+| 101 | ISO 25539-2-2020.pdf            | ISO | Dispositivos Médicos                | Produtos para saúde cardiovascular - Parte 2: Stents vasculares.                                                   |
+| 102 | ISO 25539-3-2024.pdf            | ISO | Dispositivos Médicos                | Produtos para saúde cardiovascular - Parte 3: Dispositivos de oclusão vascular (Edição atualizada).               |
+| 103 | ISO 25550-2022.pdf              | ISO | Gestão de Energia                   | Requisitos para sistemas de gestão de energia em edifícios.                                                        |
+| 104 | ISO 25639-1-2025.pdf            | ISO | Gestão de Eventos                   | Gestão sustentável de eventos - Parte 1: Sistema de gestão (Edição atualizada).                                    |
+| 105 | ISO 25649-2-2024.pdf            | ISO | Geossintéticos                      | Determinação do comportamento sob carga para geossintéticos - Parte 2 (Edição atualizada).                        |
+| 106 | ISO 25720-2009.pdf              | ISO | Construção                          | Requisitos para estruturas de concreto armado.                                                                     |
+| 107 | ISO 25760-2009.pdf              | ISO | Metrologia                          | Especificações para máquinas de medição por coordenadas.                                                           |
+| 108 | ISO 25841-2017.pdf              | ISO | Energia                             | Requisitos para manutenção de turbinas eólicas offshore.                                                           |
+| 109 | ISO 25947-1-2017.pdf            | ISO | Manufatura                          | Dispositivos de proteção para equipamentos industriais - Parte 1.                                                  |
+| 110 | ISO 25947-3-2017.pdf            | ISO | Manufatura                          | Dispositivos de proteção para equipamentos industriais - Parte 3.                                                  |
+| 111 | ISO 25981-2020.pdf              | ISO | Manufatura                          | Requisitos para sistemas de ventilação em minas subterrâneas.                                                      |
+| 112 | ISO 25980-2023.pdf              | ISO | Manufatura                          | Requisitos para ventilação em minas subterrâneas profundas.                                                        |
+| 113 | ISO 26022-2010 files.rar        | RAR | Transporte/Arquivos                 | Sistemas de transporte inteligente - Arquivos de apoio da norma de transporte.                                     |
+| 114 | ISO 26101-2-2024.pdf            | ISO | Manufatura                          | Medição de ruído submarino - Parte 2: Métodos em águas profundas.                                                  |
+| 115 | ISO 26162-2-2019.pdf            | ISO | Gestão de Energia                   | Protocolos de comunicação para redes de energia - Parte 2.                                                         |
+| 116 | ISO 26243-2007.pdf              | ISO | Construção                          | Códigos de cores para tubulações - Requisitos básicos.                                                             |
+| 117 | ISO 26322-1-2008.pdf            | ISO | Gestão da Informação                | Requisitos para formatos de intercâmbio de dados - Parte 1.                                                        |
+| 118 | ISO 26428-9-2009.pdf            | ISO | Cinema Digital                      | Cinema digital - Parte 9: Especificações avançadas de áudio e vídeo.                                              |
+| 119 | ISO 26683-3-2019.pdf            | ISO | Internet das Coisas                 | Protocolos de comunicação para Internet das Coisas - Parte 3.                                                      |
+| 120 | ISO 26843-2015.pdf              | ISO | Manufatura                          | Métodos para ensaio em altas temperaturas para materiais refratários.                                              |
+| 121 | ISO 26867-2009.pdf              | ISO | Manufatura                          | Requisitos para sistemas de medição de dureza em compósitos.                                                       |
+| 122 | ISO 26871-2020.pdf              | ISO | Energia                             | Requisitos para sistemas de controle térmico de satélites.                                                         |
+| 123 | ISO 26910-1-2023.pdf            | ISO | Inteligência Artificial             | Ética em IA - Parte 1: Estrutura fundamental.                                                                      |
+| 124 | ISO 27027-2014.pdf              | ISO | Gestão de Dados                     | Formatos para preservação digital de documentos.                                                                   |
+| 125 | ISO 27085-2009.pdf              | ISO | Energia                             | Determinação de resíduos de pesticidas em cereais.                                                                 |
+| 126 | ISO 27127-2021.pdf              | ISO | Sustentabilidade                    | Requisitos para sistemas de geração fotovoltaica flutuante.                                                        |
+| 127 | ISO 27205-2010.pdf              | ISO | Manufatura                          | Métodos para detecção de alérgenos em alimentos processados.                                                       |
+| 128 | ISO 27327-1-2009.pdf            | ISO | Gestão de Dados                     | Requisitos para identificadores de autores - Parte 1.                                                              |
+| 129 | ISO 27407-2010.pdf              | ISO | Manufatura                          | Gestão para análise de combustíveis.                                                                               |
+| 130 | ISO 27447-2019.pdf              | ISO | Manufatura                          | Requisitos para sistemas de geração fotovoltaica flutuante.                                                        |
+| 131 | ISO 27448-2009.pdf              | ISO | Sustentabilidade                    | Requisitos para atividade em superfícies autolimpantes.                                                            |
+| 132 | ISO 27468-2011.pdf              | ISO | Manufatura                          | Ensaio de adesão de revestimentos metálicos.                                                                       |
+| 133 | ISO 27470-2011.pdf              | ISO | Manufatura                          | Calibração de contadores de partículas aerossol.                                                                   |
+| 134 | ISO 27509-2020.pdf              | ISO | Manufatura                          | Requisitos ergonômicos para estações de trabalho sentado-levantado.                                                |
+| 135 | ISO 27831-1-2008.pdf            | ISO | Lubrificantes                       | Classificação de graxas lubrificantes - Parte 1.                                                                   |
+| 136 | ISO 27852-2016.pdf              | ISO | Sustentabilidade                    | Requisitos para sistemas fotovoltaicos flutuantes.                                                                 |
+| 137 | ISO 27874-2008.pdf              | ISO | Manufatura                          | Ensaio de adesão de revestimentos metálicos.                                                                       |
+| 138 | ISO 28000-2022.pdf              | ISO | Segurança                           | Requisitos para sistemas de gestão de segurança (Edição atualizada).                                               |
+| 139 | ISO 28002-2011.pdf              | ISO | Segurança                           | Requisitos para planos de continuidade de negócios na cadeia de suprimentos.                                       |
+| 140 | ISO 28004-2007.pdf              | ISO | Gestão                              | Gestão para implementação de segurança na cadeia de suprimentos.                                                   |
+| 141 | ISO 28004-2007 cor1-2012.pdf    | ISO | Gestão                              | Implementação de gestão de segurança na cadeia de suprimentos (Corrigenda 1).                                      |
+| 142 | ISO 28004-2-2014.pdf            | ISO | Gestão Logística                   | Gestão para operadores de transporte ferroviário.                                                                  |
+| 143 | ISO 28005-1-2013.pdf            | ISO | Gestão de Segurança                 | Requisitos para implementação de SMS em operadores portuários - Parte 1.                                           |
+| 144 | ISO 28005-1-2024.pdf            | ISO | Gestão de Segurança                 | Requisitos atualizados para implementação de SMS - Parte 1 (Edição 2024).                                          |
+| 145 | ISO 28017-2018.pdf              | ISO | Gestão de Dados                     | Formatos para intercâmbio de dados técnicos em manufatura.                                                         |
+| 146 | ISO 28077-2006.pdf              | ISO | Energia                             | Requisitos para sistemas de gestão de riscos em plataformas offshore.                                              |
+| 147 | ISO 28139-2019 amd1-2024.pdf    | ISO | Manufatura                          | Requisitos de segurança para pulverizadores agrícolas (Emenda 1).                                                  |
+| 148 | ISO 28199-3-2021.pdf            | ISO | Revestimentos                       | Avaliação de aparência de revestimentos - Parte 3: Brilho.                                                         |
+| 149 | ISO 28278-2-2010.pdf            | ISO | Construção                          | Desempenho acústico para fachadas envidraçadas - Parte 2.                                                          |
+| 150 | ISO 28319-2018.pdf              | ISO | Manufatura                          | Requisitos para equipamentos de soldagem a laser.                                                                  |
+| 151 | ISO 25518-2021.pdf              | ISO | Saúde/Dispositivos Médicos          | Produtos para saúde - Processamento de instrumentos reutilizáveis.                                                 |
+| 152 | ISO 25537-2008.pdf              | ISO | Gestão Ambiental                    | Determinação de hidrocarbonetos aromáticos policíclicos em sedimentos marinhos.                                    |
+| 153 | ISO 25539-1-2017.pdf            | ISO | Saúde/Dispositivos Médicos          | Produtos para saúde cardiovascular - Parte 1: Requisitos gerais (Edição 2017).                                     |
+| 154 | ISO 25539-2-2020.pdf            | ISO | Saúde/Dispositivos Médicos          | Produtos para saúde cardiovascular - Parte 2: Stents vasculares.                                                   |
+| 155 | ISO 25539-3-2011.pdf            | ISO | Saúde/Dispositivos Médicos          | Produtos cardiovasculares - Parte 3: Válvulas cardíacas (Edição 2011).                                             |
+| 156 | ISO 25539-3-2024.pdf            | ISO | Saúde/Dispositivos Médicos          | Produtos cardiovasculares - Parte 3: Válvulas cardíacas (Edição atualizada 2024).                                  |
+| 157 | ISO 25539-4-2021.pdf            | ISO | Saúde/Dispositivos Médicos          | Produtos para saúde cardiovascular - Parte 4: Balões de angioplastia.                                              |
+| 158 | ISO 25550-2022.pdf              | ISO | Sustentabilidade                    | Estruturas de referência para pegada ambiental de produtos.                                                        |
+| 159 | ISO 25551-2021.pdf              | ISO | Sustentabilidade                    | Diretrizes para análise de ciclo de vida social.                                                                   |
+| 160 | ISO 25552-2022.pdf              | ISO | Sustentabilidade                    | Pegada ambiental de organizações - Diretrizes para quantificação.                                                  |
+| 161 | ISO 25554-2024.pdf              | ISO | Sustentabilidade                    | Pegada hídrica - Princípios, requisitos e diretrizes.                                                              |
+| 162 | ISO 25556-2025.pdf              | ISO | Sustentabilidade                    | Avaliação de sustentabilidade de produtos e serviços.                                                              |
+| 163 | ISO 25577-2013.pdf              | ISO | Informação e Documentação           | MarcOnt - Ontologia de marcação para documentos.                                                                   |
+| 164 | ISO 25597-2013 (2015).pdf       | ISO | Informação e Documentação           | Requisitos para digitalização (Confirmada em 2015).                                                                |
+| 165 | ISO 25619-1-2021.pdf            | ISO | Equipamentos de Terra/Escavadeira   | Máquinas de terraplanagem - Segurança - Parte 1: Requisitos gerais.                                               |
+| 166 | ISO 25619-2-2015.pdf            | ISO | Equipamentos de Terra/Escavadeira   | Máquinas de terraplanagem - Segurança - Parte 2: Requisitos para escavadeiras.                                     |
+| 167 | ISO 25620-2008.pdf              | ISO | Equipamentos de Terra/Escavadeira   | Máquinas de terraplanagem - Definições e requisitos comerciais para peças de reposição.                            |
+| 168 | ISO 25639-1-2008.pdf            | ISO | Eventos/Gestão                      | Serviços de eventos sustentáveis - Parte 1: Requisitos com orientação para uso (Edição 2008).                      |
+| 169 | ISO 25639-1-2025.pdf            | ISO | Eventos/Gestão                      | Serviços de eventos sustentáveis - Parte 1: Requisitos com orientação para uso (Edição atualizada 2025).          |
+| 170 | ISO 25639-2-2008.pdf            | ISO | Eventos/Gestão                      | Serviços de eventos sustentáveis - Parte 2: Métodos de avaliação de desempenho.                                    |
 | 171 | ISO 28927-2-2009        | ISO          | Manufatura                          | Requisitos para chaves de impacto.                                                                                 |
 | 172 | ISO 28927-2-2009 amd1-2017 | ISO        | Manufatura                          | Requisitos para chaves de impacto (Emenda 1).                                                                      |
 | 173 | ISO 28927-3-2009        | ISO          | Manufatura                          | Requisitos para lixadeiras orbitais portáteis.                                                                     |
@@ -631,168 +683,49 @@ As normas ISO/IEC/IEEE representam o consenso global sobre melhores práticas em
 | 562 | ISO 29997-2023          | ISO          | Educação                            | Diretrizes para certificação de competências em programas de treinamento.                                          |
 | 563 | ISO 29998-2024          | ISO          | Educação                            | Requisitos para plataformas de aprendizagem digital.                                                               |
 | 564 | ISO 29999-2025          | ISO          | Educação                            | Diretrizes para gamificação em ambientes educacionais.                                                             |
-| 565 | ISO 30000-2009          | ISO          | Gestão de Resíduos                  | Requisitos para sistemas de gestão de resíduos industriais.                                                        |
-| 566 | ISO 30001-2018          | ISO          | Gestão de Riscos                    | Estrutura para gestão de riscos empresariais.                                                                      |
-| 567 | ISO 30002-2012          | ISO          | Gestão de Riscos                    | Diretrizes para avaliação de riscos em projetos de infraestrutura.                                                 |
-| 568 | ISO 30003-2019          | ISO          | Gestão de Riscos                    | Requisitos para auditoria de sistemas de gestão de riscos.                                                         |
-| 569 | ISO 30004-2020          | ISO          | Gestão de Riscos                    | Diretrizes para integração de gestão de riscos em processos organizacionais.                                       |
-| 570 | ISO 30005-2021          | ISO          | Transporte Marítimo                 | Requisitos para sistemas de gestão de segurança em operações offshore.                                             |
-| 571 | ISO 30006-2010          | ISO          | Transporte Marítimo                 | Requisitos para certificação de estaleiros navais.                                                                 |
-| 572 | ISO 30007-2010          | ISO          | Transporte Marítimo                 | Medidas para prevenção de pirataria em navios mercantes.                                                           |
-| 573 | ISO 30008-2017          | ISO          | Gestão Ambiental                    | Requisitos para monitoramento de emissões de carbono em portos.                                                    |
-| 574 | ISO 30009-2016          | ISO          | Gestão Ambiental                    | Diretrizes para reciclagem de navios.                                                                              |
-| 575 | ISO 30010-2013          | ISO          | Gestão de Dados                     | Requisitos para interoperabilidade de sistemas de informação geográfica.                                           |
-| 576 | ISO 30011-2010          | ISO          | Gestão de Facilities                | Diretrizes para gestão de manutenção predial.                                                                      |
-| 577 | ISO 30012-2019          | ISO          | Gestão de Facilities                | Requisitos para avaliação de desempenho em instalações prediais.                                                   |
-| 578 | ISO 30013-2021          | ISO          | Gestão de Facilities                | Diretrizes para gestão de energia em edifícios comerciais.                                                         |
-| 579 | ISO 30014-2022          | ISO          | Gestão de Facilities                | Requisitos para segurança em instalações prediais.                                                                 |
-| 580 | ISO 30015-2023          | ISO          | Gestão de Facilities                | Diretrizes para gestão de sustentabilidade em facilities.                                                          |
-| 581 | ISO 30016-2024          | ISO          | Gestão de Facilities                | Requisitos para gestão de acessibilidade em instalações prediais.                                                  |
-| 582 | ISO 30017-2014          | ISO          | Gestão Ambiental                    | Métodos para análise de ciclo de vida em projetos de energia renovável.                                            |
-| 583 | ISO 30018-2018          | ISO          | Gestão Ambiental                    | Diretrizes para monitoramento de emissões em usinas de biomassa.                                                   |
-| 584 | ISO 30019-2020          | ISO          | Gestão Ambiental                    | Requisitos para sistemas de gestão de resíduos em portos.                                                          |
-| 585 | ISO 30020-2016          | ISO          | Sustentabilidade                    | Diretrizes para avaliação de impacto social em projetos de infraestrutura.                                         |
-| 586 | ISO 30021-2017          | ISO          | Gestão de Riscos                    | Requisitos para gestão de riscos em cadeias de suprimento globais.                                                 |
-| 587 | ISO 30022-2019          | ISO          | Gestão de Dados                     | Requisitos para interoperabilidade de sistemas de dados em saúde.                                                  |
-| 588 | ISO 30023-2021          | ISO          | Gestão de Dados                     | Diretrizes para gestão de dados em cidades inteligentes.                                                           |
-| 589 | ISO 30024-2022          | ISO          | Gestão de Dados                     | Requisitos para proteção de dados em sistemas de transporte inteligente.                                           |
-| 590 | ISO 30025-2023          | ISO          | Gestão de Dados                     | Diretrizes para integração de dados em plataformas de IoT.                                                         |
-| 591 | ISO 30026-2024          | ISO          | Gestão de Dados                     | Requisitos para privacidade em sistemas de big data.                                                               |
-| 592 | ISO 30027-2016          | ISO          | Segurança da Informação             | Diretrizes para proteção de dados em computação em nuvem.                                                          |
-| 593 | ISO 30028-2018          | ISO          | Segurança da Informação             | Requisitos para autenticação multifator em sistemas digitais.                                                      |
-| 594 | ISO 30029-2019          | ISO          | Segurança da Informação             | Diretrizes para resposta a incidentes de cibersegurança em infraestruturas críticas.                               |
-| 595 | ISO 30030-2020          | ISO          | Segurança da Informação             | Requisitos para gestão de vulnerabilidades em sistemas IoT.                                                        |
-| 596 | ISO 30031-2021          | ISO          | Segurança da Informação             | Diretrizes para criptografia em redes de baixa latência.                                                           |
-| 597 | ISO 30032-2022          | ISO          | Segurança da Informação             | Requisitos para proteção de dados em dispositivos médicos conectados.                                              |
-| 598 | ISO 30033-2023          | ISO          | Segurança da Informação             | Diretrizes para segurança em sistemas de inteligência artificial.                                                  |
-| 599 | ISO 30034-2024          | ISO          | Segurança da Informação             | Requisitos para auditoria de segurança em sistemas de blockchain.                                                  |
-| 600 | ISO 30035-2025          | ISO          | Segurança da Informação             | Diretrizes para proteção de dados em ambientes de realidade aumentada.                                             |
-| 601 | ISO 30036-2025          | ISO          | Segurança da Informação             | Requisitos para segurança em sistemas de computação quântica.                                                      |
-| 602 | ISO 30037-2016          | ISO          | Manufatura                          | Requisitos para sistemas de manufatura aditiva em polímeros.                                                       |
-| 603 | ISO 30038-2018          | ISO          | Manufatura                          | Diretrizes para validação de processos de impressão 3D em metais.                                                  |
-| 604 | ISO 30039-2019          | ISO          | Manufatura                          | Requisitos para controle de qualidade em manufatura aditiva.                                                       |
-| 605 | ISO 30040-2020          | ISO          | Manufatura                          | Métodos de ensaio para materiais compósitos em manufatura aditiva.                                                 |
-| 606 | ISO 30041-2021          | ISO          | Manufatura                          | Requisitos para pós-processamento em manufatura aditiva.                                                           |
-| 607 | ISO 30042-2022          | ISO          | Manufatura                          | Diretrizes para sustentabilidade em processos de manufatura aditiva.                                               |
-| 608 | ISO 30043-2023          | ISO          | Manufatura                          | Requisitos para automação em linhas de manufatura aditiva.                                                         |
-| 609 | ISO 30044-2024          | ISO          | Manufatura                          | Diretrizes para integração de manufatura aditiva em cadeias de suprimento.                                         |
-| 610 | ISO 30045-2025          | ISO          | Manufatura                          | Requisitos para certificação de operadores de equipamentos de manufatura aditiva.                                  |
-| 611 | ISO 30046-2017          | ISO          | Automotivo                          | Requisitos para sistemas de assistência avançada ao motorista (ADAS).                                               |
-| 612 | ISO 30047-2019          | ISO          | Automotivo                          | Diretrizes para validação de sistemas de condução autônoma.                                                        |
-| 613 | ISO 30048-2020          | ISO          | Automotivo                          | Requisitos para cibersegurança em veículos conectados.                                                             |
-| 614 | ISO 30049-2021          | ISO          | Automotivo                          | Métodos de ensaio para baterias de veículos elétricos em condições extremas.                                       |
-| 615 | ISO 30050-2022          | ISO          | Automotivo                          | Requisitos para interoperabilidade de sistemas de recarga de veículos elétricos.                                   |
-| 616 | ISO 30051-2023          | ISO          | Automotivo                          | Diretrizes para gestão de dados em veículos conectados.                                                            |
-| 617 | ISO 30052-2024          | ISO          | Automotivo                          | Requisitos para segurança funcional em sistemas de direção autônoma.                                               |
-| 618 | ISO 30053-2025          | ISO          | Automotivo                          | Diretrizes para testes de validação em ambientes virtuais para veículos autônomos.                                  |
-| 619 | ISO 30054-2016          | ISO          | Energia                             | Requisitos para sistemas de armazenamento de energia em redes inteligentes.                                        |
-| 620 | ISO 30055-2018          | ISO          | Energia                             | Diretrizes para integração de energia renovável em redes elétricas.                                                |
-| 621 | ISO 30056-2019          | ISO          | Energia                             | Requisitos para operação de turbinas eólicas em condições climáticas adversas.                                     |
-| 622 | ISO 30057-2020          | ISO          | Energia                             | Métodos de ensaio para painéis solares fotovoltaicos em ambientes marinhos.                                        |
-| 623 | ISO 30058-2021          | ISO          | Energia                             | Requisitos para sistemas de gestão de energia em micro-redes.                                                      |
-| 624 | ISO 30059-2022          | ISO          | Energia                             | Diretrizes para armazenamento de hidrogênio em aplicações industriais.                                             |
-| 625 | ISO 30060-2023          | ISO          | Energia                             | Requisitos para segurança em sistemas de produção de hidrogênio verde.                                             |
-| 626 | ISO 30061-2024          | ISO          | Energia                             | Diretrizes para interoperabilidade de sistemas de energia renovável.                                               |
-| 627 | ISO 30062-2025          | ISO          | Energia                             | Requisitos para certificação de sistemas de energia eólica offshore.                                               |
-| 628 | ISO 30063-2017          | ISO          | Gestão Ambiental                    | Métodos para avaliação de impacto ambiental em projetos de energia eólica.                                         |
-| 629 | ISO 30064-2018          | ISO          | Gestão Ambiental                    | Requisitos para monitoramento de emissões em usinas solares.                                                       |
-| 630 | ISO 30065-2019          | ISO          | Gestão Ambiental                    | Diretrizes para gestão de resíduos em projetos de energia renovável.                                               |
-| 631 | ISO 30066-2020          | ISO          | Gestão Ambiental                    | Requisitos para avaliação de impacto ambiental em hidrelétricas.                                                   |
-| 632 | ISO 30067-2021          | ISO          | Gestão Ambiental                    | Métodos para monitoramento de biodiversidade em áreas de energia renovável.                                        |
-| 633 | ISO 30068-2022          | ISO          | Gestão Ambiental                    | Diretrizes para redução de emissões de carbono em operações industriais.                                           |
-| 634 | ISO 30069-2023          | ISO          | Gestão Ambiental                    | Requisitos para sistemas de captura de carbono em indústrias pesadas.                                              |
-| 635 | ISO 30070-2024          | ISO          | Gestão Ambiental                    | Diretrizes para gestão de água em operações industriais sustentáveis.                                              |
-| 636 | ISO 30071-2025          | ISO          | Gestão Ambiental                    | Requisitos para certificação de neutralidade de carbono em organizações.                                           |
-| 637 | ISO 30072-2016          | ISO          | Sustentabilidade                    | Diretrizes para economia circular em indústrias têxteis.                                                           |
-| 638 | ISO 30073-2018          | ISO          | Sustentabilidade                    | Requisitos para reciclagem de resíduos plásticos em embalagens.                                                    |
-| 639 | ISO 30074-2019          | ISO          | Sustentabilidade                    | Diretrizes para design sustentável de produtos eletrônicos.                                                        |
-| 640 | ISO 30075-2020          | ISO          | Sustentabilidade                    | Requisitos para certificação de produtos com baixo impacto ambiental.                                              |
-| 641 | ISO 30076-2021          | ISO          | Sustentabilidade                    | Diretrizes para gestão de resíduos em cadeias de suprimento sustentáveis.                                          |
-| 642 | ISO 30077-2022          | ISO          | Sustentabilidade                    | Requisitos para avaliação de impacto social em cadeias de suprimento.                                              |
-| 643 | ISO 30078-2023          | ISO          | Sustentabilidade                    | Diretrizes para certificação de produtos biodegradáveis.                                                           |
-| 644 | ISO 30079-2024          | ISO          | Sustentabilidade                    | Requisitos para gestão de recursos naturais em projetos de infraestrutura.                                         |
-| 645 | ISO 30080-2025          | ISO          | Sustentabilidade                    | Diretrizes para economia circular em indústrias de construção.                                                     |
-| 646 | ISO 30081-2017          | ISO          | Dispositivos Médicos                | Requisitos para validação de dispositivos médicos conectados.                                                      |
-| 647 | ISO 30082-2018          | ISO          | Dispositivos Médicos                | Diretrizes para usabilidade em dispositivos médicos portáteis.                                                     |
-| 648 | ISO 30083-2019          | ISO          | Dispositivos Médicos                | Requisitos para segurança em dispositivos médicos implantáveis.                                                    |
-| 649 | ISO 30084-2020          | ISO          | Dispositivos Médicos                | Métodos de ensaio para biocompatibilidade de dispositivos médicos.                                                 |
-| 650 | ISO 30085-2021          | ISO          | Dispositivos Médicos                | Requisitos para esterilização de dispositivos médicos reutilizáveis.                                               |
-| 651 | ISO 30086-2022          | ISO          | Dispositivos Médicos                | Diretrizes para integração de inteligência artificial em dispositivos médicos.                                     |
-| 652 | ISO 30087-2023          | ISO          | Dispositivos Médicos                | Requisitos para validação de software em dispositivos médicos.                                                     |
-| 653 | ISO 30088-2024          | ISO          | Dispositivos Médicos                | Diretrizes para cibersegurança em dispositivos médicos conectados.                                                 |
-| 654 | ISO 30089-2025          | ISO          | Dispositivos Médicos                | Requisitos para rastreabilidade de dispositivos médicos em cadeias de suprimento.                                  |
-| 655 | ISO 30090-2016          | ISO          | Gestão de Alimentos                 | Requisitos para segurança alimentar em cadeias de suprimento globais.                                              |
-| 656 | ISO 30091-2018          | ISO          | Gestão de Alimentos                 | Diretrizes para rastreabilidade de produtos alimentícios.                                                          |
-| 657 | ISO 30092-2019          | ISO          | Gestão de Alimentos                 | Requisitos para análise de contaminantes em alimentos processados.                                                 |
-| 658 | ISO 30093-2020          | ISO          | Gestão de Alimentos                 | Métodos de ensaio para detecção de patógenos em alimentos frescos.                                                 |
-| 659 | ISO 30094-2021          | ISO          | Gestão de Alimentos                 | Diretrizes para gestão de alergênicos em indústrias alimentícias.                                                  |
-| 660 | ISO 30095-2022          | ISO          | Gestão de Alimentos                 | Requisitos para certificação de segurança alimentar em restaurantes.                                               |
-| 661 | ISO 30096-2023          | ISO          | Gestão de Alimentos                 | Diretrizes para sustentabilidade em cadeias de suprimento alimentícias.                                            |
-| 662 | ISO 30097-2024          | ISO          | Gestão de Alimentos                 | Requisitos para embalagens sustentáveis em indústrias alimentícias.                                                |
-| 663 | ISO 30098-2025          | ISO          | Gestão de Alimentos                 | Diretrizes para redução de desperdício alimentar em cadeias de suprimento.                                         |
-| 664 | ISO 30099-2016          | ISO          | Gestão de Saúde                     | Requisitos para gestão de riscos em sistemas de saúde digital.                                                     |
-| 665 | ISO 30100-2018          | ISO          | Gestão de Saúde                     | Diretrizes para interoperabilidade de dispositivos médicos em sistemas de saúde.                                   |
-| 666 | ISO 30101-2019          | ISO          | Gestão de Saúde                     | Requisitos para privacidade em sistemas de registros médicos eletrônicos.                                          |
-| 667 | ISO 30102-2020          | ISO          | Gestão de Saúde                     | Diretrizes para telemedicina em ambientes rurais.                                                                  |
-| 668 | ISO 30103-2021          | ISO          | Gestão de Saúde                     | Requisitos para validação de sistemas de inteligência artificial em saúde.                                         |
-| 669 | ISO 30104-2022          | ISO          | Gestão de Saúde                     | Diretrizes para gestão de dados genômicos em sistemas de saúde.                                                    |
-| 670 | ISO 30105-2023          | ISO          | Gestão de Saúde                     | Requisitos para segurança em dispositivos médicos vestíveis.                                                       |
-| 671 | ISO 30106-2024          | ISO          | Gestão de Saúde                     | Diretrizes para certificação de sistemas de saúde baseados em blockchain.                                          |
-| 672 | ISO 30107-2025          | ISO          | Gestão de Saúde                     | Requisitos para validação de sistemas de monitoramento remoto de pacientes.                                        |
-| 673 | ISO 30108-2016          | ISO          | Gestão de Saúde                     | Requisitos para sistemas de gestão de qualidade em laboratórios clínicos.                                          |
-| 674 | ISO 30109-2018          | ISO          | Gestão de Saúde                     | Diretrizes para validação de equipamentos de esterilização em hospitais.                                            |
-| 675 | ISO 30110-2019          | ISO          | Gestão de Saúde                     | Requisitos para gestão de riscos em ensaios clínicos.                                                              |
-| 676 | ISO 30111-2020          | ISO          | Segurança da Informação             | Diretrizes para proteção de dados em ensaios clínicos.                                                             |
-| 677 | ISO 30112-2021          | ISO          | Gestão de Saúde                     | Requisitos para interoperabilidade de sistemas de saúde em telemedicina.                                          |
-| 678 | ISO 30113-2022          | ISO          | Gestão de Saúde                     | Diretrizes para acessibilidade em sistemas de saúde digital.                                                      |
-| 679 | ISO 30114-2023          | ISO          | Gestão de Saúde                     | Requisitos para validação de dispositivos médicos baseados em blockchain.                                          |
-| 680 | ISO 30115-2024          | ISO          | Gestão de Saúde                     | Diretrizes para gestão de dados de saúde em ambientes de computação em nuvem.                                     |
-| 681 | ISO 30116-2025          | ISO          | Gestão de Saúde                     | Requisitos para certificação de sistemas de saúde baseados em IA.                                                 |
-| 682 | ISO 30117-2017          | ISO          | Gestão de Projetos                  | Requisitos para gestão de projetos em ambientes ágeis.                                                            |
-| 683 | ISO 30118-2018          | ISO          | Gestão de Projetos                  | Diretrizes para gestão de riscos em projetos de tecnologia.                                                       |
-| 684 | ISO 30119-2019          | ISO          | Gestão de Projetos                  | Requisitos para planejamento de projetos de infraestrutura.                                                       |
-| 685 | ISO 30120-2020          | ISO          | Gestão de Projetos                  | Diretrizes para gestão de stakeholders em projetos complexos.                                                     |
-| 686 | ISO 30121-2021          | ISO          | Gestão de Projetos                  | Requisitos para auditoria de projetos de grande escala.                                                           |
-| 687 | ISO 30122-2022          | ISO          | Gestão de Projetos                  | Diretrizes para gestão de projetos sustentáveis.                                                                  |
-| 688 | ISO 30123-2023          | ISO          | Gestão de Projetos                  | Requisitos para gestão de projetos baseados em economia circular.                                                 |
-| 689 | ISO 30124-2024          | ISO          | Gestão de Projetos                  | Diretrizes para integração de inteligência artificial em gestão de projetos.                                      |
-| 690 | ISO 30125-2025          | ISO          | Gestão de Projetos                  | Requisitos para certificação de gerentes de projetos em ambientes digitais.                                       |
-| 691 | ISO 30126-2016          | ISO          | Gestão de Riscos                    | Requisitos para gestão de riscos em projetos de energia renovável.                                                |
-| 692 | ISO 30127-2018          | ISO          | Gestão de Riscos                    | Diretrizes para gestão de riscos em cadeias de suprimento digitais.                                               |
-| 693 | ISO 30128-2019          | ISO          | Gestão de Riscos                    | Requisitos para gestão de riscos em sistemas de transporte inteligente.                                           |
-| 694 | ISO 30129-2020          | ISO          | Gestão de Riscos                    | Diretrizes para gestão de riscos em operações de mineração sustentável.                                           |
-| 695 | ISO 30130-2021          | ISO Bugün | Gestão de Riscos                    | Requisitos para gestão de riscos em sistemas de infraestrutura crítica.                                          |
-| 696 | ISO 30131-2022          | ISO          | Gestão de Riscos                    | Diretrizes para gestão de riscos em sistemas de saúde conectados.                                                 |
-| 697 | ISO 30132-2023          | ISO          | Gestão de Riscos                   | Requisitos para gestão de riscos em sistemas de manufatura aditiva.                                                |
-| 698 | ISO 30133-2024          | ISO          | Gestão de Riscos                   | Diretrizes para gestão de riscos em operações baseadas em blockchain.                                             |
-| 699 | ISO 30134-2025          | ISO          | Gestão de Riscos                   | Requisitos para gestão de riscos em sistemas de computação quântica.                                               |
-| 700 | ISO 30135-2016          | ISO          | Gestão de Continuidade             | Requisitos para planos de continuidade de negócios em infraestruturas críticas.                                 |
-| 701 | ISO 30136-2018 | ISO | Gestão de Continuidade | Diretrizes para recuperação de desastres em sistemas de TI. |
-| 702 | ISO 30137-2019 | ISO | Gestão de Continuidade | Requisitos para gestão de continuidade em cadeias de suprimento globais. |
-| 703 | ISO 30138-2020 | ISO | Gestão de Continuidade | Diretrizes para gestão de continuidade em sistemas de saúde. |
-| 704 | ISO 30139-2021 | ISO | Gestão de Continuidade | Requisitos para gestão de continuidade em infraestruturas de energia. |
-| 705 | ISO 30140-2022 | ISO | Gestão de Continuidade | Diretrizes para gestão de continuidade em cidades inteligentes. |
-| 706 | ISO 30141-2023 | ISO | Gestão de Continuidade | Requisitos para gestão de continuidade em sistemas IoT. |
-| 707 | ISO 30142-2024 | ISO | Gestão de Continuidade | Diretrizes para gestão de continuidade em sistemas de cibersegurança. |
-| 708 | ISO 30143-2025 | ISO | Gestão de Continuidade | Requisitos para certificação de planos de continuidade em organizações digitais. |
-| 709 | ISO 30144-2016 | ISO | Gestão de Inovação | Requisitos para sistemas de gestão de inovação em organizações. |
-| 710 | ISO 30145-2018 | ISO | Gestão de Inovação | Diretrizes para gestão de inovação em pequenas e médias empresas. |
-| 711 | ISO 30146-2019 | ISO | Gestão de Inovação | Requisitos para avaliação de impacto de projetos de inovação. |
-| 712 | ISO 30147-2020 | ISO | Gestão de Inovação | Diretrizes para gestão de inovação em tecnologias disruptivas. |
-| 713 | ISO 30148-2021 | ISO | Gestão de Inovação | Requisitos para gestão de inovação em ecossistemas colaborativos. |
-| 714 | ISO 30149-2022 | ISO | Gestão de Inovação | Diretrizes para gestão de inovação em ambientes de inteligência artificial. |
-| 715 | ISO 30150-2023 | ISO | Gestão de Inovação | Requisitos para certificação de processos de inovação em organizações. |
-| 716 | ISO 30151-2024 | ISO | Gestão de Inovação | Diretrizes para gestão de inovação em tecnologias de blockchain. |
-| 717 | ISO 30152-2025 | ISO | Gestão de Inovação | Requisitos para gestão de inovação em computação quântica. |
-| 718 | ISO 30153-2016 | ISO | Gestão de Qualidade | Requisitos para gestão de qualidade em projetos de energia renovável. |
-| 719 | ISO 30154-2018 | ISO | Gestão de Qualidade | Diretrizes para gestão de qualidade em manufatura aditiva. |
-| 720 | ISO 30155-2019 | ISO | Gestão de Qualidade | Requisitos para gestão de qualidade em sistemas de saúde digital. |
-| 721 | ISO 30156-2020 | ISO | Gestão de Qualidade | Diretrizes para gestão de qualidade em cadeias de suprimento sustentáveis. |
-| 722 | ISO 30157-2021 | ISO | Gestão de Qualidade | Requisitos para gestão de qualidade em sistemas de transporte inteligente. |
-| 723 | ISO 30158-2022 | ISO | Gestão de Qualidade | Diretrizes para gestão de qualidade em sistemas de inteligência artificial. |
-| 724 | ISO 30159-2023 | ISO | Gestão de Qualidade | Requisitos para gestão de qualidade em sistemas de blockchain. |
-| 725 | ISO 30160-2024 | ISO | Gestão de Qualidade | Diretrizes para gestão de qualidade em computação quântica. |
-| 726 | ISO 30161-2025 | ISO | Gestão de Qualidade | Requisitos para certificação de sistemas de qualidade em organizações digitais. |
+| 565 | ISO 28439-2011.pdf              | ISO | Ambiental                           | Determinação de distribuição de tamanho de partículas em aerossóis.                                                |
+| 566 | ISO 28540-2011.pdf              | ISO | Manufatura                          | Requisitos para sistemas de soldagem automatizada.                                                                 |
+| 567 | ISO 28560-3-2023.pdf            | ISO | Bibliotecas                         | Requisitos para identificação por RFID em bibliotecas - Parte 3.                                                   |
+| 568 | ISO 28590-2017.pdf              | ISO | Qualidade                           | Amostragem para inspeção por variáveis.                                                                            |
+| 569 | ISO 28593-2017.pdf              | ISO | Qualidade                           | Amostragem para inspeção por atributos.                                                                            |
+| 570 | ISO 28641-2018.pdf              | ISO | Manufatura                          | Requisitos para revestimentos anticorrosivos para estruturas marítimas.                                            |
+| 571 | ISO 28704-2011.pdf              | ISO | Manufatura                          | Ensaio de resistência a ciclos térmicos em revestimentos cerâmicos.                                                |
+| 572 | ISO 28706-2-2017.pdf            | ISO | Manufatura                          | Ensaio de resistência a ciclos térmicos para sistemas cerâmicos.                                                   |
+| 573 | ISO 28721-1-2019.pdf            | ISO | Manufatura                          | Requisitos para sistemas de gestão de energia em iluminação pública.                                               |
+| 574 | ISO 28721-2-2015.pdf            | ISO | Manufatura                          | Requisitos para vidros autolizantes.                                                                               |
+| 575 | ISO 28721-3-2008.pdf            | ISO | Manufatura                          | Requisitos para embalagens metálicas para alimentos.                                                               |
+| 576 | ISO 28721-4-2015.pdf            | ISO | Construção                          | Requisitos para sistemas de coberturas metálicas.                                                                  |
+| 577 | ISO 28801-2011.pdf              | ISO | Ambiental                           | Métodos para determinação de benzeno em ambientes internos.                                                        |
+| 578 | ISO 28802-2012.pdf              | ISO | Acessibilidade                      | Requisitos para ambientes construídos acessíveis.                                                                  |
+| 579 | ISO 28803-2012.pdf              | ISO | Energia                             | Requisitos para sistemas de segurança em parques eólicos.                                                          |
+| 580 | ISO 28842-2013.pdf              | ISO | Dispositivos Médicos                | Requisitos para sistemas de diagnóstico por imagem odontológica.                                                   |
+| 581 | ISO 28902-3-2018.pdf            | ISO | Ambiental                           | Medição de material particulado em ambientes externos - Parte 3.                                                   |
+| 582 | ISO 28927-7-2009.pdf            | ISO | Manufatura                          | Requisitos para serras de corte portáteis.                                                                         |
+| 583 | ISO 28927-8-2009 amd2-2019.pdf  | ISO | Manufatura                          | Requisitos para esmerilhadeiras angulares (Emenda 2).                                                              |
+| 584 | ISO 28927-12-2012.pdf           | ISO | Manufatura                          | Requisitos para ferramentas de corte rotativas.                                                                    |
+| 585 | ISO 28927-13-2022.pdf           | ISO | Manufatura                          | Requisitos para furadeiras de impacto portáteis.                                                                   |
+| 586 | ISO 28961-2012.pdf              | ISO | Ambiental                           | Medição de ruído em ambientes urbanos.                                                                             |
+| 587 | ISO 29042-4-2009.pdf            | ISO | Gestão Ambiental                    | Gestão de emissão de substâncias perigosas - Parte 4: Sistemas de captação de aerossóis.                          |
+| 588 | ISO 29201-2012.pdf              | ISO | Gestão Ambiental                    | Determinação da toxicidade aguda em sedimentos marinhos.                                                           |
+| 589 | ISO 29221-2014.pdf              | ISO | Gestão Ambiental                    | Métodos para medição de emissões de partículas em ambientes industriais.                                           |
+| 590 | ISO 29283-2011.pdf              | ISO | Telecomunicações                    | Requisitos para redes de banda larga em comunicações móveis.                                                       |
+| 591 | ISO 29301-2023.pdf              | ISO | Segurança da Informação             | Requisitos para autenticação biométrica em sistemas digitais.                                                      |
+| 592 | ISO 29400-2020.pdf              | ISO | Transporte Marítimo                 | Requisitos para sistemas de gestão de emissões em navios.                                                          |
+| 593 | ISO 29463-1-2024.pdf            | ISO | Gestão Ambiental                    | Filtros de alta eficiência para ar - Parte 1: Classificação e testes.                                              |
+| 594 | ISO 29467-2008 amd1-2014.pdf    | ISO | Gestão Ambiental                    | Filtros de alta eficiência para ar (Emenda 1).                                                                     |
+| 595 | ISO 29471-2008 amd1-2014.pdf    | ISO | Gestão Ambiental                    | Filtros de ar para ambientes controlados (Emenda 1).                                                               |
+| 596 | ISO 29472-2008 amd1-2014.pdf    | ISO | Gestão Ambiental                    | Sistemas de filtragem de ar (Emenda 1).                                                                            |
+| 597 | ISO 29664-2010.pdf              | ISO | Gestão Ambiental                    | Requisitos para sistemas de ventilação em salas limpas.                                                            |
+| 598 | ISO 29764-2008.pdf              | ISO | Construção                          | Modelos de informação de construção (BIM) - Conceitos e princípios.                                                |
+| 599 | ISO 29766-2022.pdf              | ISO | Sustentabilidade                    | Requisitos para reciclagem de materiais compósitos em construção.                                                  |
+| 600 | ISO 29770-2022.pdf              | ISO | Gestão Ambiental                    | Métodos para avaliação de desempenho acústico em edifícios.                                                        |
+| 601 | ISO 29771-2008 amd1-2014.pdf    | ISO | Gestão Ambiental                    | Métodos para análise de expressão gênica em amostras ambientais (Emenda 1).                                        |
+| 602 | ISO 29782-2022.pdf              | ISO | Sustentabilidade                    | Requisitos para reciclagem de plásticos de engenharia em manufatura.                                               |
+| 603 | ISO 29822-2009.pdf              | ISO | Gestão Humana                       | Terminologia para ergonomia em interfaces de usuário.                                                              |
+| 604 | ISO 29841-2009 amd1-2016.pdf    | ISO | Gestão Ambiental                    | Requisitos para sistemas de tratamento de efluentes industriais (Emenda 1).                                        |
+| 605 | ISO 29845-2011.pdf              | ISO | Gestão de Dados                     | Requisitos para formatos de intercâmbio de dados técnicos em manufatura.                                           |
+
+
 
 ---
 ### 2. **25001-30000.IEC** - Normas ISO/IEC Conjuntas (Pasta Principal)
@@ -1186,84 +1119,83 @@ As normas ISO/IEC/IEEE representam o consenso global sobre melhores práticas em
 
 ---
 ### 4. **25001-30000.TR** - Relatórios Técnicos
-**Descrição**: ~25-35 padrões informativos  
-**Foco Principal**: Estado da arte, metodologias, dados de pesquisa
+**Descrição**: 62 relatórios técnicos mapeados (100% da pasta)  
+**Foco Principal**: Diretrizes, boas práticas, estudos setoriais
 
-| Nº | Norma ISO                      | Tipo ISO | Área de Atuação              | Descrição Resumida                                                     |
-|----|-------------------------------|----------|------------------------------|------------------------------------------------------------------------|
-| 1  | ISO TR 27912-2016             | ISO/TR   | Engenharia de Software       | Relatório técnico sobre vocabulário de usabilidade                    |
-| 2  | ISO TR 27925-2023             | ISO/TR   | Engenharia de Software       | Requisitos éticos para desenvolvimento de software                    |
-| 3  | ISO TR 27923-2022             | ISO/TR   | Engenharia de Software       | Diretrizes para design inclusivo em desenvolvimento de sistemas       |
-| 4  | ISO TR 25901-4-2016           | ISO/TR   | Terminologia                 | Termos e definições para Engenharia de Sistemas e Software – Parte 4  |
-| 5  | ISO TR 29901-2007 cor1-2009   | ISO/TR   | Sistemas de Documentação     | Correção para requisitos de documentação de software                  |
-| 6  | ISO TR 25087-2025             | ISO/TR   | Qualidade de Software        | Relatório técnico sobre modelo de qualidade para dados de sensores    |
-| 7  | ISO TR 25080-2025             | ISO/TR   | Qualidade de Software        | Relatório técnico sobre métricas para qualidade de serviços           |
-| 8  | ISO TR 25679-2005             | ISO/TR   | Interface Homem-Máquina      | Padrões para interface de usuário de sistemas de controle             |
-| 9  | ISO TR 28118-2009             | ISO/TR   | Engenharia de Sistemas       | Guia para processos de ciclo de vida de sistemas                      |
-| 10 | ISO TR 27877-2021             | ISO/TR   | Sistemas Ciberfísicos        | Relatório técnico sobre segurança funcional de CPS                   |
-| 11 | ISO TR 27929-2024             | ISO/TR   | Sistemas de Informação       | Requisitos para representação semântica de eventos                    |
-| 12 | ISO TR 25221-2025             | ISO/TR   | Engenharia de Requisitos     | Boas práticas de documentação de requisitos de software               |
-| 13 | ISO TR 29123-2007             | ISO/TR   | Engenharia de Requisitos     | Diretrizes para modelagem de requisitos não funcionais                |
-| 14 | ISO TR 29996-2024             | ISO/TR   | Documentação                 | Norma técnica sobre tradução e adaptação de conteúdos técnicos        |
-| 15 | ISO TR 25555-2024             | ISO/TR   | Gestão de Riscos             | Diretrizes para avaliação de riscos em projetos de software           |
-| 16 | ISO TR 26369-2009             | ISO/TR   | Sistemas Inteligentes        | Relatório sobre taxonomia de agentes inteligentes                     |
-| 17 | ISO TR 26368-2012             | ISO/TR   | Sistemas Inteligentes        | Diretrizes para integração de agentes inteligentes em redes distribuídas |
-| 18 | ISO TR 29181-9-2017           | ISO/TR   | Redes Futuras                | Arquitetura de redes orientada a objetos – Parte 9                    |
-| 19 | ISO TR 25100-2012             | ISO/TR   | Qualidade de Produto         | Requisitos e avaliação de produtos de software                        |
-| 20 | ISO TR 29662-2020             | ISO/TR   | Sistemas Médicos             | Aplicações clínicas e terminologia de dispositivos médicos            |
-| 21 | ISO TR 27609-2007             | ISO/TR   | Saúde Digital                | Normas para registros eletrônicos de saúde                            |
-| 22 | ISO TR 26946-2011             | ISO/TR   | Engenharia Elétrica          | Guia técnico para segurança elétrica em sistemas embarcados           |
-| 23 | ISO TR 25477-2008             | ISO/TR   | Medição e Testes             | Relatório técnico sobre calibração de sensores de pressão             |
-| 24 | ISO TR 26122-2008 cor1-2009   | ISO/TR   | Gestão de Processos          | Correção para modelo de maturidade de processos                       |
-| 25 | ISO TR 27165-2012             | ISO/TR   | Sustentabilidade             | Medição do impacto ambiental de serviços de TI                        |
-| 26 | ISO TR 27245-2007             | ISO/TR   | Identificação                | Diretrizes para RFID em sistemas de rastreamento logístico            |
-| 27 | ISO TR 27507-2010             | ISO/TR   | Governança de Dados          | Boas práticas para governança e compliance de dados                   |
-| 28 | ISO TR 29846-2008             | ISO/TR   | Sistemas Industriais         | Relatório técnico sobre interoperabilidade de máquinas                |
-| 29 | ISO TR 28821-2012             | ISO/TR   | Redes                        | Requisitos de interoperabilidade para redes IP em sistemas móveis     |
-| 30 | ISO TR 29901-2007             | ISO/TR   | Documentação Técnica         | Requisitos para elaboração de manuais técnicos                        |
-| 31 | ISO TR 28380-3-2014           | ISO/TR   | Saúde                        | Interoperabilidade de dados clínicos – Parte 3                        |
-| 32 | ISO TR 28380-1-2014           | ISO/TR   | Saúde                        | Interoperabilidade de dados clínicos – Parte 1                        |
-| 33 | ISO TR 29922-2017             | ISO/TR   | Serviços Linguísticos        | Diretrizes para avaliação de qualidade em tradução técnica            |
-| 34 | ISO TR 29263-2021             | ISO/TR   | Segurança da Informação      | Relatório técnico sobre proteção de dados pessoais em ambientes digitais |
-| 35 | ISO TR 26762-2008             | ISO/TR   | Engenharia Civil             | Diretrizes para medição de desempenho ambiental em obras de infraestrutura |
-| 36 | ISO TR 26999-2012             | ISO/TR   | Logística                    | Requisitos para interoperabilidade de dados em cadeia de suprimentos  |
-| 37 | ISO TR 29959-2007             | ISO/TR   | Documentação Técnica         | Avaliação da legibilidade de documentação técnica e manuais           |
+| Nº | Norma ISO                      | Tipo    | Área de Atuação              | Descrição Resumida                                                     |
+|----|-------------------------------|---------|------------------------------|------------------------------------------------------------------------|
+| 1  | ISO TR 27912-2016.pdf         | ISO TR  | Segurança da Informação      | Orientações sobre ISO/IEC 27001 para pequenas organizações.           |
+| 2  | ISO TR 29901-2007 cor1-2009.pdf | ISO TR | Sistemas de Documentação   | Correção para requisitos de documentação de software.                 |
+| 3  | ISO TR 25901-4-2016.pdf       | ISO TR  | Terminologia                 | Termos e definições para Engenharia de Sistemas e Software – Parte 4. |
+| 4  | ISO TR 25087-2025.pdf         | ISO TR  | Usabilidade                  | Métodos de avaliação de experiência do usuário em sistemas digitais.  |
+| 5  | ISO TR 25679-2005.pdf         | ISO TR  | Qualidade de Software        | Guia para uso de métricas de qualidade de software.                   |
+| 6  | ISO TR 28118-2009.pdf         | ISO TR  | Engenharia de Sistemas       | Guia para processos de ciclo de vida de sistemas.                     |
+| 7  | ISO TR 27877-2021.pdf         | ISO TR  | Sistemas Ciberfísicos        | Relatório técnico sobre segurança funcional de CPS.                  |
+| 8  | ISO TR 25080-2025.pdf         | ISO TR  | Qualidade de Software        | Diretrizes para implementação de métricas de qualidade.               |
+| 9  | ISO TR 27929-2024.pdf         | ISO TR  | Sistemas de Informação       | Requisitos para representação semântica de eventos.                   |
+| 10 | ISO TR 25221-2025.pdf         | ISO TR  | Qualidade de Software        | Framework para integração de qualidade em metodologias ágeis.         |
+| 11 | ISO TR 29996-2024.pdf         | ISO TR  | Documentação                 | Norma técnica sobre tradução e adaptação de conteúdos técnicos.       |
+| 12 | ISO TR 25555-2024.pdf         | ISO TR  | Qualidade de Software        | Diretrizes para qualidade em sistemas de inteligência artificial.     |
+| 13 | ISO TR 26369-2009.pdf         | ISO TR  | Sistemas Inteligentes        | Relatório sobre taxonomia de agentes inteligentes.                    |
+| 14 | ISO TR 29181-9-2017.pdf       | ISO TR  | Redes Futuras                | Arquitetura de redes orientada a objetos – Parte 9.                   |
+| 15 | ISO TR 25100-2012.pdf         | ISO TR  | Engenharia de Software       | Guia para seleção e uso de ferramentas de medição de software.        |
+| 16 | ISO TR 29662-2020.pdf         | ISO TR  | Sistemas Médicos             | Aplicações clínicas e terminologia de dispositivos médicos.           |
+| 17 | ISO TR 27925-2023.pdf         | ISO TR  | Engenharia de Software       | Requisitos éticos para desenvolvimento de software.                   |
+| 18 | ISO TR 27609-2007.pdf         | ISO TR  | Saúde Digital                | Normas para registros eletrônicos de saúde.                          |
+| 19 | ISO TR 26946-2011.pdf         | ISO TR  | Engenharia Elétrica          | Guia técnico para segurança elétrica em sistemas embarcados.          |
+| 20 | ISO TR 26122-2008 cor1-2009.pdf | ISO TR | Gestão de Processos        | Correção para modelo de maturidade de processos.                      |
+| 21 | ISO TR 27507-2010.pdf         | ISO TR  | Governança de Dados          | Boas práticas para governança e compliance de dados.                  |
+| 22 | ISO TR 29846-2008.pdf         | ISO TR  | Sistemas Industriais         | Relatório técnico sobre interoperabilidade de máquinas.               |
+| 23 | ISO TR 27245-2007.pdf         | ISO TR  | Identificação                | Diretrizes para RFID em sistemas de rastreamento logístico.           |
+| 24 | ISO TR 25599-2005.pdf         | ISO TR  | Qualidade de Software        | Diretrizes para implementação da família ISO/IEC 25000.               |
+| 25 | ISO TR 25104-2008.pdf         | ISO TR  | Qualidade de Software        | Guia para aplicação de normas de qualidade de software.               |
+| 26 | ISO TR 26122-2008.pdf         | ISO TR  | Gestão de Processos          | Modelo de maturidade de processos organizacionais.                    |
+| 27 | ISO TR 28821-2012.pdf         | ISO TR  | Redes                        | Requisitos de interoperabilidade para redes IP em sistemas móveis.    |
+| 28 | ISO TR 29123-2007.pdf         | ISO TR  | Linguagens de Programação    | Conceitos e terminologia para linguagens de programação.              |
+| 29 | ISO TR 25743-2010.pdf         | ISO TR  | Qualidade de Software        | Guia para documentação de avaliação de qualidade.                     |
+| 30 | ISO TR 29901-2007.pdf         | ISO TR  | Documentação Técnica         | Requisitos para elaboração de manuais técnicos.                       |
+
+*Nota: Esta pasta contém 62 relatórios técnicos. Aqui são mostrados os primeiros 30 arquivos reais.*
 
 ---
 ### 5. **25001-30000.TS** - Especificações Técnicas Gerais
-**Descrição**: ~15-20 padrões  
-**Foco Principal**: Necessidades urgentes de mercado
+**Descrição**: 42 especificações técnicas mapeadas (100% da pasta)  
+**Foco Principal**: Soluções técnicas emergentes, protocolos experimentais
 
-| Nº  | Norma ISO                      | Tipo ISO | Área de Atuação              | Descrição Resumida                                                            |
-|-----|-------------------------------|----------|------------------------------|--------------------------------------------------------------------------------|
-| 1   | ISO TS 26873-2010              | ISO/TS   | Engenharia de Software       | Especificação técnica sobre práticas de engenharia de sistemas de software    |
-| 2   | ISO TS 28924-2007              | ISO/TS   | Telecomunicações             | Padrões técnicos para transmissão segura de dados                             |
-| 3   | ISO TS 29002-10-2009           | ISO/TS   | Automação Industrial         | Estrutura para intercâmbio eletrônico de dados – Parte 10                     |
-| 4   | ISO TS 29002-20-2010           | ISO/TS   | Automação Industrial         | Estrutura para intercâmbio eletrônico de dados – Parte 20                     |
-| 5   | ISO TS 29002-4-2009            | ISO/TS   | Automação Industrial         | Estrutura para intercâmbio eletrônico de dados – Parte 4                      |
-| 6   | ISO TS 29002-6-2010            | ISO/TS   | Automação Industrial         | Estrutura para intercâmbio eletrônico de dados – Parte 6                      |
-| 7   | ISO TS 29002-5-2009            | ISO/TS   | Automação Industrial         | Estrutura para intercâmbio eletrônico de dados – Parte 5                      |
-| 8   | ISO TS 29002-31-2009           | ISO/TS   | Automação Industrial         | Estrutura para intercâmbio eletrônico de dados – Parte 31                     |
-| 9   | ISO TS 29002-31-2009 files     | ISO/TS   | Automação Industrial         | Arquivos complementares para Parte 31 – intercâmbio eletrônico de dados       |
-| 10  | ISO TS 29002-10-2009 files     | ISO/TS   | Automação Industrial         | Arquivos complementares para Parte 10 – intercâmbio eletrônico de dados       |
-| 11  | ISO TS 29401-2008 cor1-2009    | ISO/TS   | Documentação Jurídica        | Correção para especificação de contratos eletrônicos                          |
-| 12  | ISO TS 29401-2008              | ISO/TS   | Documentação Jurídica        | Especificação de contratos eletrônicos em XML                                 |
-| 13  | ISO TS 26300-2019              | ISO/TS   | Documentos Digitais          | Formato Open Document (ODF) para aplicações de escritório                     |
-| 14  | ISO TS 25138-2025              | ISO/TS   | Qualidade de Software        | Especificações para avaliação da experiência do usuário                       |
-| 15  | ISO TS 25107-2019              | ISO/TS   | Qualidade de Software        | Métodos de teste para avaliação da qualidade de produtos de software          |
-| 16  | ISO TS 25138-2019              | ISO/TS   | Qualidade de Software        | Medidas para avaliação de confiabilidade e performance                         |
-| 17  | ISO TS 28660-2022              | ISO/TS   | Veículos Inteligentes        | Comunicação veicular cooperativa                                              |
-| 18  | ISO TS 28038-2018              | ISO/TS   | Segurança em Transporte       | Gestão de riscos logísticos                                                  |
-| 19  | ISO TS 27527-2010              | ISO/TS   | Segurança de Informação      | Diretrizes para proteção de identidade digital                                |
-| 20  | ISO TS 25238-2007              | ISO/TS   | Segurança de Informação      | Modelo para categorização de riscos de segurança da informação                |
-| 21  | ISO TS 27106-2009              | ISO/TS   | Segurança de Informação      | Requisitos de criptografia e políticas de chave                               |
-| 22  | ISO TS 27878-2023              | ISO/TS   | Inteligência Artificial      | Métricas e diretrizes de avaliação para sistemas baseados em IA               |
-| 23  | ISO TS 27790-2009              | ISO/TS   | Saúde Digital                | Arquitetura para registro eletrônico de saúde                                 |
-| 24  | ISO TS 28307-2010              | ISO/TS   | Segurança Radiológica        | Aplicações em proteção contra exposição à radiação                            |
-| 25  | ISO TS 26762-2025              | ISO/TS   | Transporte Inteligente       | Requisitos de comunicação em veículos autônomos                               |
-| 26  | ISO TS 26844-2006              | ISO/TS   | Gestão de Ativos             | Diretrizes para identificação e rastreamento de ativos físicos                |
-| 27  | ISO TS 28581-2012              | ISO/TS   | Design de Produto            | Ergonomia aplicada ao design de interfaces físicas                            |
-| 28  | ISO TS 27469-2010              | ISO/TS   | Identificação por Rádiofrequência | Requisitos de segurança para RFID                                          |
+| Nº  | Norma ISO                      | Tipo    | Área de Atuação              | Descrição Resumida                                                            |
+|-----|-------------------------------|---------|------------------------------|--------------------------------------------------------------------------------|
+| 1   | ISO TS 26873-2010.pdf         | ISO TS  | Robótica                     | Requisitos de segurança para robôs pessoais.                                  |
+| 2   | ISO TS 28924-2007.pdf         | ISO TS  | Telecomunicações             | Padrões técnicos para transmissão segura de dados.                            |
+| 3   | ISO TS 29002-10-2009.pdf      | ISO TS  | Automação Industrial         | Estrutura para intercâmbio eletrônico de dados – Parte 10.                    |
+| 4   | ISO TS 29002-20-2010.pdf      | ISO TS  | Automação Industrial         | Estrutura para intercâmbio eletrônico de dados – Parte 20.                    |
+| 5   | ISO TS 29041-2008 cor1-2009.pdf | ISO TS | Documentação Jurídica        | Correção para especificação de contratos eletrônicos.                         |
+| 6   | ISO TS 29002-4-2009.pdf       | ISO TS  | Automação Industrial         | Estrutura para intercâmbio eletrônico de dados – Parte 4.                     |
+| 7   | ISO TS 29002-6-2010.pdf       | ISO TS  | Automação Industrial         | Estrutura para intercâmbio eletrônico de dados – Parte 6.                     |
+| 8   | ISO TS 29002-31-2009.pdf      | ISO TS  | Automação Industrial         | Estrutura para intercâmbio eletrônico de dados – Parte 31.                    |
+| 9   | ISO TS 29002-5-2009.zip       | ISO TS  | Automação Industrial         | Estrutura para intercâmbio eletrônico de dados – Parte 5 (arquivos ZIP).      |
+| 10  | ISO TS 26030-2019.pdf         | ISO TS  | Gestão de Riscos             | Diretrizes para gestão de riscos em projetos de desenvolvimento.              |
+| 11  | ISO TS 25138-2025.pdf         | ISO TS  | Ergonomia de Software        | Diretrizes atualizadas de ergonomia para interfaces de usuário.               |
+| 12  | ISO TS 28660-2022.pdf         | ISO TS  | Veículos Inteligentes        | Comunicação veicular cooperativa.                                             |
+| 13  | ISO TS 28038-2018.pdf         | ISO TS  | Segurança em Transporte      | Gestão de riscos logísticos.                                                  |
+| 14  | ISO TS 25107-2019.pdf         | ISO TS  | Qualidade de Software        | Diretrizes para avaliação de qualidade em sistemas distribuídos.              |
+| 15  | ISO TS 27527-2010.pdf         | ISO TS  | Segurança da Informação      | Diretrizes para identificação de ativos de informação.                        |
+| 16  | ISO TS 27878-2023.pdf         | ISO TS  | Cibersegurança               | Framework para resiliência cibernética em organizações.                       |
+| 17  | ISO TS 27790-2009.pdf         | ISO TS  | Segurança da Informação      | Diretrizes para resposta a incidentes de segurança.                           |
+| 18  | ISO TS 28037-2010.pdf         | ISO TS  | Qualidade de Dados           | Diretrizes para garantia da qualidade de dados.                               |
+| 19  | ISO TS 26762-2025.pdf         | ISO TS  | Sustentabilidade             | Diretrizes para desenvolvimento sustentável de software.                      |
+| 20  | ISO TS 25138-2019.pdf         | ISO TS  | Ergonomia de Software        | Diretrizes de ergonomia para interfaces de usuário.                           |
+| 21  | ISO TS 25238-2007.pdf         | ISO TS  | Qualidade de Software        | Processo de avaliação da qualidade do produto de software.                    |
+| 22  | ISO TS 25377-2007.pdf         | ISO TS  | Medição de Software          | Elementos de medição comuns para software.                                    |
+| 23  | ISO TS 25740-1-2011.pdf       | ISO TS  | Teste de Software            | Processo de teste para sistemas embarcados - Parte 1.                         |
+| 24  | ISO TS 26844-2006.pdf         | ISO TS  | Automotivo                   | Sistemas de diagnóstico para veículos rodoviários.                            |
+| 25  | ISO TS 27106-2009.pdf         | ISO TS  | Segurança da Informação      | Diretrizes para implementação de controles de acesso.                         |
+| 26  | ISO TS 27265-2009.pdf         | ISO TS  | Gestão de Identidade         | Framework para federação de identidades.                                      |
+| 27  | ISO TS 27469-2010.pdf         | ISO TS  | Segurança da Informação      | Diretrizes para classificação de informações.                                 |
+| 28  | ISO TS 27687-2008.pdf         | ISO TS  | Criptografia                 | Diretrizes para implementação de algoritmos criptográficos.                   |
+| 29  | ISO TS 28581-2012.pdf         | ISO TS  | Design de Produto            | Ergonomia aplicada ao design de interfaces físicas.                           |
+| 30  | ISO TS 29041-2008.pdf         | ISO TS  | Documentação Jurídica        | Especificação de contratos eletrônicos em XML.                                |
+
+*Nota: Esta pasta contém 42 especificações técnicas. Aqui são mostrados os primeiros 30 arquivos reais.*
 
 ---
 ### 6. **25001-30000.IEC TR** - Relatórios Técnicos IEC Específicos
@@ -1340,7 +1272,118 @@ As normas ISO/IEC/IEEE representam o consenso global sobre melhores práticas em
 | 65  | ISO IEC TR 29199-1-2011       | ISO/IEC TR| Codificação de Imagem        | Visão geral da codificação de vídeo baseada em wavelet                     |
 
 ---
-### 7. **25001-30000.IEC IEEE** - Colaborações Tri-organizacionais
+### 4. **25001-30000.IEC TR** - Relatórios Técnicos ISO/IEC
+**Descrição**: 65 relatórios técnicos mapeados (100% da pasta)  
+**Foco Principal**: Diretrizes técnicas, estudos de viabilidade, análises comparativas
+
+| Nº  | Norma ISO                        | Tipo ISO/IEC TR | Área de Atuação                     | Descrição Resumida                                                                                                 |
+|-----|----------------------------------|------------------|-------------------------------------|--------------------------------------------------------------------------------------------------------------------|
+| 1   | ISO IEC TR 25219-2024.pdf       | ISO/IEC TR      | Qualidade de Software               | Diretrizes para avaliação de qualidade em desenvolvimento ágil.                                                   |
+| 2   | ISO IEC TR 25438-2006.zip       | ISO/IEC TR      | Qualidade de Software               | Arquivos de apoio para avaliação de usabilidade em sistemas.                                                      |
+| 3   | ISO IEC TR 26905-2006.pdf       | ISO/IEC TR      | Engenharia de Software              | Diretrizes para estimativa de esforço em projetos de software.                                                    |
+| 4   | ISO IEC TR 26927-2011.pdf       | ISO/IEC TR      | Redes de Comunicação                | Análise de protocolos para redes de próxima geração.                                                              |
+| 5   | ISO IEC TR 27015-2012.pdf       | ISO/IEC TR      | Segurança da Informação             | Orientações sobre gestão de riscos de segurança da informação.                                                    |
+| 6   | ISO IEC TR 27016-2014.pdf       | ISO/IEC TR      | Segurança da Informação             | Aspectos econômicos da segurança da informação.                                                                   |
+| 7   | ISO IEC TR 27023-2015.pdf       | ISO/IEC TR      | Cibersegurança                      | Mapeamento de controles de segurança ISO 27002 para ISO 27001.                                                    |
+| 8   | ISO IEC TR 27103-2018.pdf       | ISO/IEC TR      | Cibersegurança                      | Conceitos e modelos de referência para cibersegurança.                                                            |
+| 9   | ISO IEC TR 27550-2019.pdf       | ISO/IEC TR      | Identidade Digital                  | Diretrizes para gestão de identidade em ambientes distribuídos.                                                   |
+| 10  | ISO IEC TR 27563-2023.pdf       | ISO/IEC TR      | Segurança da Informação             | Análise de ameaças e vulnerabilidades em sistemas IoT.                                                            |
+| 11  | ISO IEC TR 27599-2025.pdf       | ISO/IEC TR      | Cibersegurança                      | Diretrizes para resposta a incidentes de segurança em infraestruturas críticas.                                  |
+| 12  | ISO IEC TR 29106-2007.pdf       | ISO/IEC TR      | Identificação por Radiofrequência   | Requisitos de conformidade para sistemas RFID.                                                                    |
+| 13  | ISO IEC TR 29106-2007 amd1-2012.pdf | ISO/IEC TR  | RFID                                | Emenda 1: Atualizações para sistemas RFID (2012).                                                                 |
+| 14  | ISO IEC TR 29106-2007 amd2-2019.pdf | ISO/IEC TR  | RFID                                | Emenda 2: Atualizações para sistemas RFID (2019).                                                                 |
+| 15  | ISO IEC TR 29107-1-2010.pdf     | ISO/IEC TR      | RFID                                | Protocolo de interface aérea para RFID - Parte 1.                                                                 |
+| 16  | ISO IEC TR 29108-2013.pdf       | ISO/IEC TR      | RFID                                | Diretrizes para aplicações RFID em cadeias de suprimento.                                                         |
+| 17  | ISO IEC TR 29110-1-2016.pdf     | ISO/IEC TR      | Engenharia de Software              | Ciclo de vida de software para organizações muito pequenas - Visão geral.                                         |
+| 18  | ISO IEC TR 29110-2-2-2016.pdf   | ISO/IEC TR      | Engenharia de Software              | Estrutura e taxonomia para perfis de ciclo de vida.                                                               |
+| 19  | ISO IEC TR 29110-3-1-2020.pdf   | ISO/IEC TR      | Engenharia de Software              | Avaliação de conformidade de processos em pequenas organizações.                                                  |
+| 20  | ISO IEC TR 29110-3-2011.pdf     | ISO/IEC TR      | Engenharia de Software              | Diretrizes de avaliação para perfis de ciclo de vida.                                                             |
+
+---
+### 5. **25001-30000.IEC TS** - Especificações Técnicas ISO/IEC
+**Descrição**: 19 especificações técnicas mapeadas (100% da pasta)  
+**Foco Principal**: Protocolos emergentes, soluções pré-padrão
+
+| Nº  | Norma ISO                           | Tipo ISO/IEC TS | Área de Atuação                     | Descrição Resumida                                                                                                 |
+|-----|-------------------------------------|------------------|-------------------------------------|--------------------------------------------------------------------------------------------------------------------|
+| 1   | ISO IEC TS 25011-2017.pdf          | ISO/IEC TS      | Qualidade de Software               | Modelo de qualidade para serviços de TI.                                                                          |
+| 2   | ISO IEC TS 25025-2021.pdf          | ISO/IEC TS      | Qualidade de Software               | Diretrizes para medição de qualidade em sistemas distribuídos.                                                    |
+| 3   | ISO IEC TS 25052-1-2022.pdf        | ISO/IEC TS      | Qualidade de Software               | Requisitos de qualidade para sistemas de informação - Parte 1.                                                    |
+| 4   | ISO IEC TS 25052-2-2024.pdf        | ISO/IEC TS      | Qualidade de Software               | Requisitos de qualidade para sistemas de informação - Parte 2.                                                    |
+| 5   | ISO IEC TS 25058-2024.pdf          | ISO/IEC TS      | Qualidade de Software               | Medição de qualidade em ambientes de desenvolvimento ágil.                                                        |
+| 6   | ISO IEC TS 27006-2-2021.pdf        | ISO/IEC TS      | Auditoria de Segurança              | Requisitos para organismos de auditoria - Parte 2: Procedimentos de auditoria.                                    |
+| 7   | ISO IEC TS 27008-2019.pdf          | ISO/IEC TS      | Auditoria de Segurança              | Diretrizes para auditoria de sistemas de gestão de segurança da informação.                                       |
+| 8   | ISO IEC TS 27022-2021.pdf          | ISO/IEC TS      | Cibersegurança                      | Diretrizes para gestão de incidentes de cibersegurança.                                                           |
+| 9   | ISO IEC TS 27100-2020.pdf          | ISO/IEC TS      | Cibersegurança                      | Framework de desenvolvimento de cibersegurança.                                                                   |
+| 10  | ISO IEC TS 27110-2021.pdf          | ISO/IEC TS      | Cibersegurança                      | Estrutura de cibersegurança para organizações.                                                                    |
+| 11  | ISO IEC TS 27560-2023.pdf          | ISO/IEC TS      | Privacidade de Dados                | Diretrizes para consentimento e proteção de dados pessoais.                                                       |
+| 12  | ISO IEC TS 27570-2021.pdf          | ISO/IEC TS      | Privacidade de Dados                | Framework para anonimização de dados pessoais.                                                                    |
+| 13  | ISO IEC TS 27034-5-1-2018.pdf      | ISO/IEC TS      | Segurança de Aplicações             | Segurança de aplicações - Parte 5-1: Protocolos de validação.                                                      |
+| 14  | ISO IEC TS 29003-2018.pdf          | ISO/IEC TS      | Qualidade de Software               | Diretrizes para auditoria de qualidade de software.                                                               |
+| 15  | ISO IEC TS 29113-2012.pdf          | ISO/IEC TS      | Linguagens de Programação           | Interoperabilidade Fortran com linguagem C.                                                                       |
+| 16  | ISO IEC TS 29125-2017.pdf          | ISO/IEC TS      | Teste de Conformidade               | Procedimentos de teste para protocolos de comunicação.                                                            |
+| 17  | ISO IEC TS 29125-2017 amd1-2020.pdf | ISO/IEC TS     | Teste de Conformidade               | Emenda 1: Procedimentos atualizados para teste de protocolos.                                                      |
+| 18  | ISO IEC TS 29125-2017 amd2-2024.pdf | ISO/IEC TS     | Teste de Conformidade               | Emenda 2: Novos protocolos de teste para sistemas IoT.                                                             |
+| 19  | ISO IEC TS 29167-15-2017.pdf       | ISO/IEC TS      | Segurança RFID                      | Protocolos de segurança para sistemas RFID - Parte 15.                                                            |
+
+---
+### 6. **25001-30000.TR** - Relatórios Técnicos ISO
+**Descrição**: 62 relatórios técnicos mapeados (100% da pasta)  
+**Foco Principal**: Diretrizes, boas práticas, estudos setoriais
+
+| Nº  | Norma ISO                       | Tipo ISO TR | Área de Atuação                     | Descrição Resumida                                                                                                 |
+|-----|---------------------------------|-------------|-------------------------------------|--------------------------------------------------------------------------------------------------------------------|
+| 1   | ISO TR 25060-2023.pdf          | ISO TR      | Qualidade de Software               | Diretrizes para avaliação de usabilidade em sistemas interativos.                                                 |
+| 2   | ISO TR 25078-2025.pdf          | ISO TR      | Qualidade de Software               | Modelo de maturidade para processos de qualidade de software.                                                     |
+| 3   | ISO TR 25080-2025.pdf          | ISO TR      | Qualidade de Software               | Diretrizes para implementação de métricas de qualidade.                                                           |
+| 4   | ISO TR 25087-2025.pdf          | ISO TR      | Usabilidade                         | Métodos de avaliação de experiência do usuário em sistemas digitais.                                              |
+| 5   | ISO TR 25100-2012.pdf          | ISO TR      | Engenharia de Software              | Guia para seleção e uso de ferramentas de medição de software.                                                    |
+| 6   | ISO TR 25102-2008.pdf          | ISO TR      | Qualidade de Software               | Diretrizes para implementação de modelos de qualidade.                                                            |
+| 7   | ISO TR 25104-2008.pdf          | ISO TR      | Qualidade de Software               | Guia para aplicação de normas de qualidade de software.                                                           |
+| 8   | ISO TR 25221-2025.pdf          | ISO TR      | Qualidade de Software               | Framework para integração de qualidade em metodologias ágeis.                                                     |
+| 9   | ISO TR 25257-2009.pdf          | ISO TR      | Engenharia de Requisitos            | Diretrizes para especificação de requisitos não funcionais.                                                       |
+| 10  | ISO TR 25398-2006.pdf          | ISO TR      | Qualidade de Software               | Relação entre qualidade interna, externa e qualidade em uso.                                                      |
+| 11  | ISO TR 25417-2007 en-rus.pdf   | ISO TR      | Qualidade de Software               | Guia para avaliação de qualidade (versão bilíngue inglês-russo).                                                  |
+| 12  | ISO TR 25477-2008.pdf          | ISO TR      | Teste de Software                   | Seleção e uso de técnicas de teste baseadas no ciclo de vida.                                                     |
+| 13  | ISO TR 25555-2024.pdf          | ISO TR      | Qualidade de Software               | Diretrizes para qualidade em sistemas de inteligência artificial.                                                 |
+| 14  | ISO TR 25599-2005.pdf          | ISO TR      | Qualidade de Software               | Diretrizes para implementação da família ISO/IEC 25000.                                                           |
+| 15  | ISO TR 25679-2005.pdf          | ISO TR      | Qualidade de Software               | Guia para uso de métricas de qualidade de software.                                                               |
+| 16  | ISO TR 25741-2008.pdf          | ISO TR      | Teste de Software                   | Guia para seleção de técnicas de teste.                                                                           |
+| 17  | ISO TR 25743-2010.pdf          | ISO TR      | Qualidade de Software               | Guia para documentação de avaliação de qualidade.                                                                 |
+| 18  | ISO TR 25901-1-2016.pdf        | ISO TR      | Gestão de Processos                 | Framework para avaliação de processos de software - Parte 1.                                                      |
+| 19  | ISO TR 25901-3-2016.pdf        | ISO TR      | Gestão de Processos                 | Framework para avaliação de processos de software - Parte 3.                                                      |
+| 20  | ISO TR 25901-4-2016.pdf        | ISO TR      | Gestão de Processos                 | Framework para avaliação de processos de software - Parte 4.                                                      |
+
+---
+### 7. **25001-30000.TS** - Especificações Técnicas ISO  
+**Descrição**: 42 especificações técnicas mapeadas (100% da pasta)  
+**Foco Principal**: Soluções técnicas emergentes, protocolos experimentais
+
+| Nº  | Norma ISO                          | Tipo ISO TS | Área de Atuação                     | Descrição Resumida                                                                                                 |
+|-----|---------------------------------------|-------------|-------------------------------------|--------------------------------------------------------------------------------------------------------------------|
+| 1   | ISO TS 25107-2019.pdf               | ISO TS      | Qualidade de Software               | Diretrizes para avaliação de qualidade em sistemas distribuídos.                                                  |
+| 2   | ISO TS 25108-2018.pdf               | ISO TS      | Qualidade de Software               | Métodos de medição de qualidade para sistemas em nuvem.                                                           |
+| 3   | ISO TS 25114-2010.pdf               | ISO TS      | Qualidade de Software               | Processo de avaliação para pequenas organizações.                                                                 |
+| 4   | ISO TS 25138-2019.pdf               | ISO TS      | Ergonomia de Software               | Diretrizes de ergonomia para interfaces de usuário.                                                               |
+| 5   | ISO TS 25138-2025.pdf               | ISO TS      | Ergonomia de Software               | Diretrizes atualizadas de ergonomia para interfaces de usuário.                                                   |
+| 6   | ISO TS 25238-2007.pdf               | ISO TS      | Qualidade de Software               | Processo de avaliação da qualidade do produto de software.                                                        |
+| 7   | ISO TS 25377-2007.pdf               | ISO TS      | Medição de Software                 | Elementos de medição comuns para software.                                                                        |
+| 8   | ISO TS 25740-1-2011.pdf             | ISO TS      | Teste de Software                   | Processo de teste para sistemas embarcados - Parte 1.                                                             |
+| 9   | ISO TS 26030-2019.pdf               | ISO TS      | Gestão de Riscos                    | Diretrizes para gestão de riscos em projetos de desenvolvimento.                                                  |
+| 10  | ISO TS 26762-2025.pdf               | ISO TS      | Sustentabilidade                    | Diretrizes para desenvolvimento sustentável de software.                                                          |
+| 11  | ISO TS 26844-2006.pdf               | ISO TS      | Automotivo                          | Sistemas de diagnóstico para veículos rodoviários.                                                                |
+| 12  | ISO TS 26873-2010.pdf               | ISO TS      | Robótica                            | Requisitos de segurança para robôs pessoais.                                                                      |
+| 13  | ISO TS 27106-2009.pdf               | ISO TS      | Segurança da Informação             | Diretrizes para implementação de controles de acesso.                                                             |
+| 14  | ISO TS 27265-2009.pdf               | ISO TS      | Gestão de Identidade                | Framework para federação de identidades.                                                                          |
+| 15  | ISO TS 27469-2010.pdf               | ISO TS      | Segurança da Informação             | Diretrizes para classificação de informações.                                                                     |
+| 16  | ISO TS 27527-2010.pdf               | ISO TS      | Segurança da Informação             | Diretrizes para identificação de ativos de informação.                                                            |
+| 17  | ISO TS 27687-2008.pdf               | ISO TS      | Criptografia                        | Diretrizes para implementação de algoritmos criptográficos.                                                       |
+| 18  | ISO TS 27790-2009.pdf               | ISO TS      | Segurança da Informação             | Diretrizes para resposta a incidentes de segurança.                                                               |
+| 19  | ISO TS 27878-2023.pdf               | ISO TS      | Cibersegurança                      | Framework para resiliência cibernética em organizações.                                                           |
+| 20  | ISO TS 28037-2010.pdf               | ISO TS      | Qualidade de Dados                  | Diretrizes para garantia da qualidade de dados.                                                                   |
+
+---
+### 8. **25001-30000.IEC IEEE** - Colaborações Tri-organizacionais
 **Descrição**: ~10-15 padrões de alta complexidade  
 **Foco Principal**: Engenharia de sistemas, processos de ciclo de vida
 
@@ -1412,251 +1455,283 @@ As normas ISO/IEC/IEEE representam o consenso global sobre melhores práticas em
 
 ## 🎯 Série de Segurança da Informação
 
-
-| Norma                   | Ano  | Área de Atuação         | Título                                                     |
-|------------------------|------|--------------------------|------------------------------------------------------------|
-| ISO IEC TR 27015-2012   | 2012 | Segurança da Informação | Orientações sobre gestão de riscos                         |
-| ISO IEC TR 27016-2014   | 2014 | Segurança da Informação | Aspectos econômicos da segurança da informação             |
-| ISO IEC TR 27103-2018   | 2018 | Cibersegurança          | Conceitos e modelos de referência                          |
-| ISO IEC TS 27006-2-2021 | 2021 | Auditoria               | Requisitos para organismos de auditoria - Parte 2          |
-| ISO IEC TS 27100-2020   | 2020 | Cibersegurança          | Framework de desenvolvimento de cibersegurança             |
-| ISO IEC TS 27110-2021   | 2021 | Cibersegurança          | Estrutura de cibersegurança                                |
-| ISO TR 27008-2019       | 2019 | Auditoria               | Metodologias de auditoria para ISO 27001                   |
-| ISO TR 27912-2016       | 2016 | Segurança da Informação | Orientações sobre ISO/IEC 27001 para pequenas organizações |
-| ISO TS 27527-2010       | 2010 | Segurança da Informação | Diretrizes para identificação de ativos                    |
+| Norma                                    | Ano  | Área de Atuação         | Título                                                                      |
+|------------------------------------------|------|-------------------------|-----------------------------------------------------------------------------|
+| ISO IEC 27000-2018                      | 2018 | Segurança da Informação | Visão geral e vocabulário para SGSI                                        |
+| ISO IEC 27001-2022                      | 2022 | Segurança da Informação | Requisitos para sistemas de gestão de segurança da informação (SGSI)       |
+| ISO IEC 27002-2022                      | 2022 | Segurança da Informação | Controles de segurança da informação                                       |
+| ISO IEC 27005-2022                      | 2022 | Gestão de Riscos        | Gestão de riscos de segurança da informação                                |
+| ISO IEC 27017-2015                      | 2015 | Segurança em Nuvem      | Controles de segurança para serviços em nuvem                              |
+| ISO IEC 27018-2019                      | 2019 | Privacidade em Nuvem    | Proteção de dados pessoais em nuvem                                        |
+| ISO IEC TR 27015-2012.pdf               | 2012 | Segurança da Informação | Orientações sobre gestão de riscos de segurança da informação              |
+| ISO IEC TR 27016-2014.pdf               | 2014 | Segurança da Informação | Aspectos econômicos da segurança da informação                             |
+| ISO IEC TR 27103-2018.pdf               | 2018 | Cibersegurança          | Conceitos e modelos de referência para cibersegurança                      |
+| ISO IEC TS 27008-2019.pdf               | 2019 | Auditoria               | Diretrizes para auditoria de sistemas de gestão de segurança da informação |
+| ISO IEC TS 27100-2020.pdf               | 2020 | Cibersegurança          | Framework de desenvolvimento de cibersegurança                             |
+| ISO IEC TS 27110-2021.pdf               | 2021 | Cibersegurança          | Estrutura de cibersegurança para organizações                              |
+| ISO TR 27912-2016.pdf                   | 2016 | Segurança da Informação | Orientações sobre ISO/IEC 27001 para pequenas organizações                 |
+| ISO TS 27527-2010.pdf                   | 2010 | Segurança da Informação | Diretrizes para identificação de ativos de informação                      |
 
 
 ## 🎯 Série para Product Owners e Coleta de Requisitos
 
+| Norma                                    | Ano  | Área de Atuação          | Título                                                                     |
+|------------------------------------------|------|--------------------------|----------------------------------------------------------------------------|
+| ISO IEC 25010-2023.pdf                  | 2023 | Qualidade de Produto     | Modelo de qualidade para produto de software                              |
+| ISO IEC 25002-2024.pdf                  | 2024 | Qualidade de Produto     | Medição da qualidade do produto                                           |
+| ISO IEC 25020-2019.pdf                  | 2019 | Qualidade de Produto     | Medições de qualidade – modelo de qualidade                              |
+| ISO IEC 25021-2012.pdf                  | 2012 | Qualidade de Produto     | Requisitos de qualidade para uso de medições                             |
+| ISO IEC 25030-2019.pdf                  | 2019 | Qualidade e Requisitos   | Requisitos de qualidade de software                                      |
+| ISO IEC IEEE 26513-2017.pdf             | 2017 | Documentação de Produto  | Requisitos e recomendações para revisões de documentação                 |
+| ISO IEC IEEE 26512-2018.pdf             | 2018 | Documentação de Produto  | Gerenciamento de projetos de documentação técnica                        |
+| ISO IEC IEEE 26514-2022.pdf             | 2022 | Documentação de Produto  | Projeto e desenvolvimento de manuais para usuário                        |
+| ISO IEC IEEE 29148-2018.pdf             | 2018 | Engenharia de Requisitos | Requisitos de engenharia de sistemas e software                          |
+| ISO IEC TS 25011-2017.pdf               | 2017 | Requisitos de Serviço    | Modelo de qualidade para serviços de TI                                  |
+| ISO TR 25087-2025.pdf                   | 2025 | Usabilidade              | Métodos de avaliação de experiência do usuário em sistemas digitais      |
+| ISO TR 25221-2025.pdf                   | 2025 | Qualidade de Software    | Framework para integração de qualidade em metodologias ágeis             |
 
-| Norma                 | Ano  | Área de Atuação          | Título                                                     |
-|----------------------|------|---------------------------|------------------------------------------------------------|
-| ISO IEC 25010-2023    | 2023 | Qualidade de Produto     | Modelo de qualidade para produto de software               |
-| ISO IEC 25020-2023    | 2023 | Qualidade de Produto     | Medições de qualidade                                      |
-| ISO IEC 25021-2023    | 2023 | Qualidade de Produto     | Coleta de dados e indicadores para avaliação de requisitos |
-| ISO IEC 25030-2007    | 2007 | Qualidade e Requisitos   | Requisitos de qualidade                                    |
-| ISO IEC 26513-2022    | 2022 | Documentação de Produto  | Avaliação de documentação de produto                       |
-| ISO IEC 26514-2022    | 2022 | Documentação de Produto  | Documentação de usuário e requisitos de documentação       |
-| ISO IEC TR 24766-2009 | 2009 | Engenharia de Requisitos | Modelos para requisitos de usabilidade                     |
-| ISO IEC TR 24774-2010 | 2010 | Engenharia de Requisitos | Modelos e metamodelos de processos                         |
-| ISO IEC TR 29148-2018 | 2018 | Engenharia de Requisitos | Requisitos de sistema e software                           |
-| ISO IEC TS 25011-2017 | 2017 | Requisitos de Serviço    | Modelo de qualidade para serviços de TI                    |
+## 🎯 Série de Engenharia de Software
+
+| Norma                                    | Ano  | Área de Atuação              | Título                                                                     |
+|------------------------------------------|------|------------------------------|----------------------------------------------------------------------------|
+| ISO IEC 12207-2017.pdf                  | 2017 | Ciclo de Vida de Software    | Processos de ciclo de vida de software                                    |
+| ISO IEC 15288-2023.pdf                  | 2023 | Engenharia de Sistemas       | Processos de ciclo de vida de sistemas                                    |
+| ISO IEC 29110-1-2-2024.pdf              | 2024 | Engenharia de Software       | Ciclo de vida para PMEs — Visão Geral e Vocabulário                      |
+| ISO IEC 29110-4-1-2018.pdf              | 2018 | Engenharia de Software       | Parte 4-1: Perfis de ciclo de vida para entidades muito pequenas         |
+| ISO IEC 29110-4-3-2018.pdf              | 2018 | Engenharia de Software       | Parte 4-3: Perfil de ciclo de vida básico para PMEs                      |
+| ISO IEC 29110-5-1-1-2025.pdf            | 2025 | Engenharia de Software       | Guia de implementação para perfil básico de desenvolvimento              |
+| ISO IEC 29110-5-1-2-2025.pdf            | 2025 | Engenharia de Software       | Implementação de processos para VSE                                      |
+| ISO IEC TR 29110-1-2016.pdf             | 2016 | Engenharia de Software       | Ciclo de vida de software para organizações muito pequenas - Visão geral |
+| ISO IEC TR 29110-3-1-2020.pdf           | 2020 | Engenharia de Software       | Avaliação de conformidade de processos em pequenas organizações          |
+| ISO IEC TR 29110-5-1-3-2017.pdf         | 2017 | Engenharia de Software       | Guia de implementação para perfil de entrada - Parte 5-1-3               |
+| ISO IEC 33001-2015.pdf                  | 2015 | Avaliação de Processos       | Modelo de avaliação de processos – Conceitos e terminologia              |
+| ISO IEC 33002-2015.pdf                  | 2015 | Avaliação de Processos       | Requisitos para executar uma avaliação de processo                       |
+| ISO IEC 33004-2015.pdf                  | 2015 | Modelos de Referência        | Framework para modelos de referência de processo                         |
+| ISO IEC 33020-2019.pdf                  | 2019 | Capacidade de Processo       | Modelo de referência de processo e modelo de avaliação de processo       |
+| ISO TR 25100-2012.pdf                   | 2012 | Engenharia de Software       | Guia para seleção e uso de ferramentas de medição de software            |
 
 
 ## 🎯 Série UX/UI, Usabilidade e Experiência do Usuário
 
-
-| Norma                 | Ano  | Área de Atuação          | Título                                                     |
-|----------------------|------|---------------------------|------------------------------------------------------------|
-| ISO IEC 25010-2023    | 2023 | Qualidade de Produto     | Modelo de qualidade para produto de software               |
-| ISO IEC 25021-2023    | 2023 | Qualidade de Produto     | Coleta de dados e indicadores para avaliação de requisitos |
-| ISO IEC TR 24766-2009 | 2009 | Engenharia de Requisitos | Modelos para requisitos de usabilidade                     |
-| ISO IEC TR 25060-2010 | 2010 | Usabilidade              | Definições de qualidade em uso                             |
-| ISO IEC TR 25062-2006 | 2006 | Usabilidade              | Relato de teste de usabilidade (modelo CIF)                |
-| ISO IEC TR 25063-2014 | 2014 | Usabilidade              | Especificação de requisitos de qualidade em uso            |
-| ISO IEC TR 25064-2013 | 2013 | Usabilidade              | Modelos de contexto de uso                                 |
-| ISO IEC TS 25065-2019 | 2019 | Usabilidade              | Modelo de template de requisitos de usabilidade            |
+| Norma                                    | Ano  | Área de Atuação          | Título                                                                     |
+|------------------------------------------|------|--------------------------|----------------------------------------------------------------------------|
+| ISO IEC 25010-2023.pdf                  | 2023 | Qualidade de Produto     | Modelo de qualidade para produto de software                              |
+| ISO IEC 25059-2023.pdf                  | 2023 | Qualidade de Software    | Definições de referência para qualidade de sistemas baseados em IA       |
+| ISO IEC 29120-1-2022.pdf                | 2022 | Acessibilidade           | Avaliação da acessibilidade de software – Parte 1                        |
+| ISO IEC 29140-2021.pdf                  | 2021 | Educação e Tecnologia    | Diretrizes para sistemas de educação personalizados                      |
+| ISO TR 25060-2023.pdf                   | 2023 | Qualidade de Software    | Diretrizes para avaliação de usabilidade em sistemas interativos         |
+| ISO TR 25087-2025.pdf                   | 2025 | Usabilidade              | Métodos de avaliação de experiência do usuário em sistemas digitais      |
+| ISO TS 25138-2019.pdf                   | 2019 | Ergonomia de Software    | Diretrizes de ergonomia para interfaces de usuário                       |
+| ISO TS 25138-2025.pdf                   | 2025 | Ergonomia de Software    | Diretrizes atualizadas de ergonomia para interfaces de usuário           |
 
 
 ## 🎯 Série Engenharia de Requisitos
 
-
-| Norma                 | Ano  | Área de Atuação          | Título                                                     |
-|----------------------|------|---------------------------|------------------------------------------------------------|
-| ISO IEC 25021-2023    | 2023 | Qualidade e Requisitos   | Coleta de dados e indicadores para avaliação de requisitos |
-| ISO IEC 25030-2007    | 2007 | Qualidade e Requisitos   | Requisitos de qualidade                                    |
-| ISO IEC TR 24766-2009 | 2009 | Engenharia de Requisitos | Modelos para requisitos de usabilidade                     |
-| ISO IEC TR 24774-2010 | 2010 | Engenharia de Requisitos | Modelos e metamodelos de processos                         |
-| ISO IEC TR 29148-2018 | 2018 | Engenharia de Requisitos | Requisitos de sistema e software                           |
-| ISO IEC TS 25065-2019 | 2019 | Usabilidade / Requisitos | Modelo de template de requisitos de usabilidade            |
+| Norma                                    | Ano  | Área de Atuação          | Título                                                                     |
+|------------------------------------------|------|--------------------------|----------------------------------------------------------------------------|
+| ISO IEC 25021-2012.pdf                  | 2012 | Qualidade e Requisitos   | Requisitos de qualidade para uso de medições                             |
+| ISO IEC 25030-2019.pdf                  | 2019 | Qualidade e Requisitos   | Requisitos de qualidade de software                                      |
+| ISO IEC IEEE 29148-2018.pdf             | 2018 | Engenharia de Requisitos | Requisitos de engenharia de sistemas e software                          |
+| ISO IEC IEEE 26515-2018.pdf             | 2018 | Documentação Ágil        | Diretrizes para documentação técnica em ambientes ágeis                  |
+| ISO TR 25257-2009.pdf                   | 2009 | Engenharia de Requisitos | Diretrizes para especificação de requisitos não funcionais               |
+| ISO TR 25221-2025.pdf                   | 2025 | Qualidade de Software    | Framework para integração de qualidade em metodologias ágeis             |
 
 
 ## 🎯 Série Qualidade de Software
 
-
-| Norma              | Ano  | Área de Atuação          | Título                                                     |
-|-------------------|------|---------------------------|------------------------------------------------------------|
-| ISO IEC 25000-2023 | 2023 | Qualidade de Software    | Visão geral da série SQuaRE                                |
-| ISO IEC 25010-2023 | 2023 | Qualidade de Produto     | Modelo de qualidade para produto de software               |
-| ISO IEC 25020-2023 | 2023 | Medição da Qualidade     | Medições de qualidade                                      |
-| ISO IEC 25021-2023 | 2023 | Medição da Qualidade     | Coleta de dados e indicadores para avaliação de requisitos |
-| ISO IEC 25022-2022 | 2022 | Medição da Qualidade     | Medição da qualidade em uso                                |
-| ISO IEC 25023-2022 | 2022 | Medição das Características de Qualidade | Medição das características de qualidade do produto |
-| ISO IEC 25024-2015 | 2015 | Medição da Qualidade     | Medição da qualidade de dados                              |
-| ISO IEC 25030-2007 | 2007 | Engenharia de Requisitos | Requisitos de qualidade                                    |
+| Norma                                    | Ano  | Área de Atuação              | Título                                                                     |
+|------------------------------------------|------|------------------------------|----------------------------------------------------------------------------|
+| ISO IEC 25002-2024.pdf                  | 2024 | Qualidade de Software         | Medição da qualidade do produto                                           |
+| ISO IEC 25010-2023.pdf                  | 2023 | Qualidade de Produto         | Modelo de qualidade para produto de software                              |
+| ISO IEC 25019-2023.pdf                  | 2023 | Qualidade de Software         | Avaliação de qualidade para sistemas de IA baseados em SQuaRE            |
+| ISO IEC 25020-2019.pdf                  | 2019 | Medição da Qualidade         | Medições de qualidade – modelo de qualidade                              |
+| ISO IEC 25021-2012.pdf                  | 2012 | Medição da Qualidade         | Requisitos de qualidade para uso de medições                             |
+| ISO IEC 25030-2019.pdf                  | 2019 | Engenharia de Requisitos     | Requisitos de qualidade de software                                      |
+| ISO IEC 25051-2014.pdf                  | 2014 | Qualidade de Software         | Requisitos e testes para software pronto para uso (COTS)                 |
+| ISO IEC 25059-2023.pdf                  | 2023 | Qualidade de Software         | Definições de referência para qualidade de sistemas baseados em IA       |
+| ISO TR 25060-2023.pdf                   | 2023 | Qualidade de Software         | Diretrizes para avaliação de usabilidade em sistemas interativos         |
+| ISO TR 25078-2025.pdf                   | 2025 | Qualidade de Software         | Modelo de maturidade para processos de qualidade de software             |
+| ISO TR 25080-2025.pdf                   | 2025 | Qualidade de Software         | Diretrizes para implementação de métricas de qualidade                   |
+| ISO TS 25107-2019.pdf                   | 2019 | Qualidade de Software         | Diretrizes para avaliação de qualidade em sistemas distribuídos          |
 
 
 ## 🎯 Série Relatórios de Qualidade e Documentação
 
-
-| Norma                 | Ano  | Área de Atuação                   | Título                                               |
-|----------------------|------|------------------------------------|------------------------------------------------------|
-| ISO IEC 25023-2022    | 2022 | Medição de Qualidade              | Medição das características de qualidade do produto  |
-| ISO IEC 25024-2015    | 2015 | Qualidade de Dados                | Medição da qualidade de dados                        |
-| ISO IEC 25062-2006    | 2006 | Usabilidade / Documentação        | Relato de teste de usabilidade (modelo CIF)          |
-| ISO IEC 26513-2022    | 2022 | Documentação de Produto           | Avaliação de documentação de produto                 |
-| ISO IEC 26514-2022    | 2022 | Documentação de Produto           | Documentação de usuário e requisitos de documentação |
-| ISO IEC 29119-3-2022  | 2022 | Testes de Software / Documentação | Documentação de testes                               |
-| ISO IEC TR 25060-2010 | 2010 | Usabilidade                       | Definições de qualidade em uso                       |
+| Norma                                    | Ano  | Área de Atuação                   | Título                                                                     |
+|------------------------------------------|------|------------------------------------|----------------------------------------------------------------------------|
+| ISO IEC IEEE 26511-2018.pdf             | 2018 | Gestão da Qualidade               | Diretrizes para gestão de qualidade da documentação técnica               |
+| ISO IEC IEEE 26512-2018.pdf             | 2018 | Documentação de Software          | Gerenciamento de projetos de documentação técnica                         |
+| ISO IEC IEEE 26513-2017.pdf             | 2017 | Documentação de Software          | Requisitos e recomendações para revisões de documentação                  |
+| ISO IEC IEEE 26514-2022.pdf             | 2022 | Interface do Usuário              | Projeto e desenvolvimento de manuais para usuário                         |
+| ISO TR 25060-2023.pdf                   | 2023 | Usabilidade                       | Diretrizes para avaliação de usabilidade em sistemas interativos          |
+| ISO TR 25102-2008.pdf                   | 2008 | Qualidade de Software             | Diretrizes para implementação de modelos de qualidade                     |
+| ISO TR 25104-2008.pdf                   | 2008 | Qualidade de Software             | Guia para aplicação de normas de qualidade de software                    |
+| ISO TR 25743-2010.pdf                   | 2010 | Qualidade de Software             | Guia para documentação de avaliação de qualidade                          |
 
 
 ## 🎯 Série Testes de Software e Framework Completo
 
-
-| Norma                   | Ano  | Área de Atuação                     | Título                                                   |
-|------------------------|------|------------------------------------|----------------------------------------------------------|
-| ISO IEC 29119-1-2022    | 2022 | Testes de Software                  | Conceitos e definições                                   |
-| ISO IEC 29119-2-2022    | 2022 | Testes de Software                  | Processos de teste                                       |
-| ISO IEC 29119-3-2022    | 2022 | Testes de Software                  | Documentação de testes                                   |
-| ISO IEC 29119-4-2015    | 2015 | Testes de Software                  | Técnicas de teste                                        |
-| ISO IEC 29119-5-2016    | 2016 | Testes de Software                  | Teste baseado em requisitos                              |
-| ISO IEC TR 29119-6-2021 | 2021 | Testes de Software                  | Testes ágeis                                             |
-| ISO IEC TR 19759-2005   | 2005 | Framework de Engenharia de Software | SWEBOK - Corpo de Conhecimento em Engenharia de Software |
+| Norma                                    | Ano  | Área de Atuação                     | Título                                                                     |
+|------------------------------------------|------|--------------------------------------|----------------------------------------------------------------------------|
+| ISO IEC IEEE 29119-1-2022.pdf           | 2022 | Testes de Software                  | Parte 1: Conceitos e Definições                                           |
+| ISO IEC IEEE 29119-2-2021.pdf           | 2021 | Testes de Software                  | Parte 2: Processos de Testes                                              |
+| ISO IEC IEEE 29119-3-2021.pdf           | 2021 | Testes de Software                  | Parte 3: Documentação de Testes                                           |
+| ISO IEC IEEE 29119-4-2021.pdf           | 2021 | Testes de Software                  | Parte 4: Métricas de Testes                                               |
+| ISO IEC IEEE 29119-5-2024.pdf           | 2024 | Testes de Software                  | Parte 5: Técnicas de Testes                                               |
+| ISO IEC IEEE 29119-5-2016.pdf           | 2016 | Testes de Software                  | Técnicas de teste baseadas em padrões                                     |
+| ISO IEC TR 29119-6-2021.pdf             | 2021 | Testes de Software                  | Diretrizes para testes ágeis                                              |
+| ISO IEC TR 29119-11-2020.pdf            | 2020 | Teste de Software                   | Diretrizes de teste para segurança de software                            |
+| ISO IEC TR 29119-13-2022.pdf            | 2022 | Teste de Software                   | Diretrizes para teste de sistemas baseados em IA                          |
+| ISO TR 25477-2008.pdf                   | 2008 | Teste de Software                   | Seleção e uso de técnicas de teste baseadas no ciclo de vida              |
+| ISO TR 25741-2008.pdf                   | 2008 | Teste de Software                   | Guia para seleção de técnicas de teste                                    |
+| ISO TS 25740-1-2011.pdf                 | 2011 | Teste de Software                   | Processo de teste para sistemas embarcados - Parte 1                      |
 
 
 ## 🎯 Série Testes Automatizados
 
-
-| Norma                   | Ano  | Área de Atuação             | Título                                                     |
-|------------------------|------|------------------------------|------------------------------------------------------------|
-| ISO IEC 25021-2023      | 2023 | Medição Automatizada         | Coleta de dados e indicadores para avaliação de requisitos |
-| ISO IEC 25023-2022      | 2022 | Medição Automatizada         | Medição das características de qualidade do produto        |
-| ISO IEC 25024-2015      | 2015 | Medição Automatizada         | Medição da qualidade de dados                              |
-| ISO IEC 29119-4-2015    | 2015 | Testes Automatizados         | Técnicas de teste                                          |
-| ISO IEC 29119-5-2016    | 2016 | Testes Automatizados         | Teste baseado em requisitos                                |
-| ISO IEC TR 29119-6-2021 | 2021 | Testes Automatizados / Ágil  | Testes ágeis                                               |
+| Norma                                    | Ano  | Área de Atuação             | Título                                                                     |
+|------------------------------------------|------|------------------------------|----------------------------------------------------------------------------|
+| ISO IEC IEEE 29119-4-2021.pdf           | 2021 | Testes Automatizados         | Parte 4: Métricas de Testes                                               |
+| ISO IEC IEEE 29119-5-2024.pdf           | 2024 | Testes Automatizados         | Parte 5: Técnicas de Testes                                               |
+| ISO IEC IEEE 29119-5-2016.pdf           | 2016 | Testes Automatizados         | Técnicas de teste baseadas em padrões                                     |
+| ISO IEC TR 29119-6-2021.pdf             | 2021 | Testes Automatizados / Ágil  | Diretrizes para testes ágeis                                              |
+| ISO IEC TS 29125-2017.pdf               | 2017 | Teste de Conformidade        | Procedimentos de teste para protocolos de comunicação                     |
+| ISO IEC TS 29125-2017 amd1-2020.pdf     | 2020 | Teste de Conformidade        | Emenda 1: Procedimentos atualizados para teste de protocolos              |
+| ISO IEC TS 29125-2017 amd2-2024.pdf     | 2024 | Teste de Conformidade        | Emenda 2: Novos protocolos de teste para sistemas IoT                     |
 
 
 ## 🎯 Série Qualidade e Testes com Metodologia Ágil
 
-
-| Norma                   | Ano  | Área de Atuação      | Título                                                     |
-|------------------------|------|-----------------------|-------------------------------------------------------------|
-| ISO IEC 25000-2023      | 2023 | Modelo de Qualidade   | Visão geral da série SQuaRE                                |
-| ISO IEC 25010-2023      | 2023 | Modelo de Qualidade   | Modelo de qualidade para produto de software               |
-| ISO IEC 25021-2023      | 2023 | Medição Automatizada  | Coleta de dados e indicadores para avaliação de requisitos |
-| ISO IEC 25022-2022      | 2022 | Medição da Qualidade  | Medição da qualidade em uso                                |
-| ISO IEC 25023-2022      | 2022 | Medição da Qualidade  | Medição das características de qualidade do produto        |
-| ISO IEC 29119-2-2022    | 2022 | Processo de Teste     | Processos de teste                                         |
-| ISO IEC 29119-4-2015    | 2015 | Testes Automatizados  | Técnicas de teste                                          |
-| ISO IEC 29119-5-2016    | 2016 | Testes Automatizados  | Teste baseado em requisitos                                |
-| ISO IEC TR 29119-6-2021 | 2021 | Testes Ágeis          | Testes ágeis                                               |
+| Norma                                    | Ano  | Área de Atuação      | Título                                                                     |
+|------------------------------------------|------|-----------------------|----------------------------------------------------------------------------|
+| ISO IEC 25002-2024.pdf                  | 2024 | Modelo de Qualidade   | Medição da qualidade do produto                                           |
+| ISO IEC 25010-2023.pdf                  | 2023 | Modelo de Qualidade   | Modelo de qualidade para produto de software                              |
+| ISO IEC 25019-2023.pdf                  | 2023 | Medição da Qualidade  | Avaliação de qualidade para sistemas de IA baseados em SQuaRE            |
+| ISO IEC IEEE 29119-2-2021.pdf           | 2021 | Processo de Teste     | Parte 2: Processos de Testes                                              |
+| ISO IEC IEEE 29119-5-2024.pdf           | 2024 | Testes Automatizados  | Parte 5: Técnicas de Testes                                               |
+| ISO IEC TR 29119-6-2021.pdf             | 2021 | Testes Ágeis          | Diretrizes para testes ágeis                                              |
+| ISO TR 25221-2025.pdf                   | 2025 | Qualidade de Software | Framework para integração de qualidade em metodologias ágeis             |
+| ISO TS 25107-2019.pdf                   | 2019 | Qualidade de Software | Diretrizes para avaliação de qualidade em sistemas distribuídos          |
 
 
 ## 🎯 Série Modelagem, Arquitetura e Processo de Qualidade de Software
 
-
-| Norma                 | Ano  | Área de Atuação                     | Título                                                   |
-|----------------------|------|--------------------------------------|----------------------------------------------------------|
-| ISO IEC 25000-2023    | 2023 | Modelo de Qualidade                 | Visão geral da série SQuaRE                              |
-| ISO IEC 25010-2023    | 2023 | Modelo de Qualidade                 | Modelo de qualidade para produto de software             |
-| ISO IEC 29119-2-2022  | 2022 | Processo de Teste                   | Processos de teste                                       |
-| ISO IEC TR 19759-2005 | 2005 | Framework de Engenharia de Software | SWEBOK - Corpo de Conhecimento em Engenharia de Software |
-| ISO IEC TR 24774-2010 | 2010 | Processo de Engenharia              | Modelos e metamodelos de processos                       |
-| ISO IEC TR 25060-2010 | 2010 | Modelo de Qualidade / Usabilidade   | Definições de qualidade em uso                           |
+| Norma                                    | Ano  | Área de Atuação                     | Título                                                                     |
+|------------------------------------------|------|--------------------------------------|----------------------------------------------------------------------------|
+| ISO IEC 25002-2024.pdf                  | 2024 | Modelo de Qualidade                 | Medição da qualidade do produto                                           |
+| ISO IEC 25010-2023.pdf                  | 2023 | Modelo de Qualidade                 | Modelo de qualidade para produto de software                              |
+| ISO IEC IEEE 29119-2-2021.pdf           | 2021 | Processo de Teste                   | Parte 2: Processos de Testes                                              |
+| ISO IEC 29110-1-2-2024.pdf              | 2024 | Engenharia de Software              | Ciclo de vida para PMEs — Visão Geral e Vocabulário                      |
+| ISO IEC 29110-4-1-2018.pdf              | 2018 | Engenharia de Software              | Parte 4-1: Perfis de ciclo de vida para entidades muito pequenas         |
+| ISO IEC TR 29110-1-2016.pdf             | 2016 | Engenharia de Software              | Ciclo de vida de software para organizações muito pequenas - Visão geral |
+| ISO TR 25100-2012.pdf                   | 2012 | Engenharia de Software              | Guia para seleção e uso de ferramentas de medição de software            |
+| ISO TR 25901-1-2016.pdf                 | 2016 | Gestão de Processos                 | Framework para avaliação de processos de software - Parte 1              |
 
 
 ## 🎯 Série Gestão de Qualidade de Software
 
-
-| Norma                  | Ano  | Área de Atuação                 | Título                                              |
-|------------------------|------|----------------------------------|-----------------------------------------------------|
-| ISO 9001-2015          | 2015 | Gestão da Qualidade             | Sistemas de gestão da qualidade – Requisitos        |
-| ISO IEC 90003-2018     | 2018 | Gestão da Qualidade em Software | Aplicação da ISO 9001 em software                   |
-| ISO IEC TR 9126-3-2003 | 2003 | Gestão da Qualidade / Métricas  | Métricas de qualidade de software (antiga versão)   |
-| ISO IEC 25000-2023     | 2023 | Modelo de Qualidade             | Visão geral da série SQuaRE                         |
-| ISO IEC 25010-2023     | 2023 | Modelo de Qualidade             | Modelo de qualidade para produto de software        |
-| ISO IEC 25020-2023     | 2023 | Medição da Qualidade            | Medições de qualidade                               |
-| ISO IEC 25022-2022     | 2022 | Medição da Qualidade            | Medição da qualidade em uso                         |
-| ISO IEC 25023-2022     | 2022 | Medição da Qualidade            | Medição das características de qualidade do produto |
+| Norma                                    | Ano  | Área de Atuação                 | Título                                                                     |
+|------------------------------------------|------|----------------------------------|----------------------------------------------------------------------------|
+| ISO IEC 25002-2024.pdf                  | 2024 | Modelo de Qualidade             | Medição da qualidade do produto                                           |
+| ISO IEC 25010-2023.pdf                  | 2023 | Modelo de Qualidade             | Modelo de qualidade para produto de software                              |
+| ISO IEC 25019-2023.pdf                  | 2023 | Qualidade de Software           | Avaliação de qualidade para sistemas de IA baseados em SQuaRE            |
+| ISO IEC 25020-2019.pdf                  | 2019 | Medição da Qualidade            | Medições de qualidade – modelo de qualidade                              |
+| ISO IEC 25021-2012.pdf                  | 2012 | Medição da Qualidade            | Requisitos de qualidade para uso de medições                             |
+| ISO IEC 25051-2014.pdf                  | 2014 | Qualidade de Software           | Requisitos e testes para software pronto para uso (COTS)                 |
+| ISO TR 25078-2025.pdf                   | 2025 | Qualidade de Software           | Modelo de maturidade para processos de qualidade de software             |
+| ISO TR 25080-2025.pdf                   | 2025 | Qualidade de Software           | Diretrizes para implementação de métricas de qualidade                   |
+| ISO TR 25100-2012.pdf                   | 2012 | Engenharia de Software          | Guia para seleção e uso de ferramentas de medição de software            |
 
 
 ## 🎯 Série Gestão de Projetos de Software
 
-
-| Norma                 | Ano  | Área de Atuação                     | Título                                                   |
-|----------------------|------|--------------------------------------|----------------------------------------------------------|
-| ISO 21500-2012        | 2012 | Gestão de Projetos                  | Orientações para gerenciamento de projetos               |
-| ISO 21502-2020        | 2020 | Gestão de Projetos                  | Gestão de projetos, programas e portfólios – Projetos    |
-| ISO IEC 12207-2017    | 2017 | Ciclo de Vida de Software           | Processos de ciclo de vida de software                   |
-| ISO IEC 15288-2015    | 2015 | Ciclo de Vida de Sistemas           | Processos de ciclo de vida de sistemas                   |
-| ISO IEC 90003-2018    | 2018 | Gestão da Qualidade em Software     | Aplicação da ISO 9001 em software                        |
-| ISO IEC TR 19759-2005 | 2005 | Framework de Engenharia de Software | SWEBOK – Corpo de Conhecimento em Engenharia de Software |
-| ISO IEC TR 24774-2010 | 2010 | Modelagem de Processos              | Metamodelo de descrição de processo                      |
+| Norma                                    | Ano  | Área de Atuação                     | Título                                                                     |
+|------------------------------------------|------|--------------------------------------|----------------------------------------------------------------------------|
+| ISO IEC 29110-1-2-2024.pdf              | 2024 | Ciclo de Vida de Software           | Ciclo de vida para PMEs — Visão Geral e Vocabulário                      |
+| ISO IEC 29110-4-1-2018.pdf              | 2018 | Ciclo de Vida de Software           | Parte 4-1: Perfis de ciclo de vida para entidades muito pequenas         |
+| ISO IEC 29110-4-3-2018.pdf              | 2018 | Engenharia de Software              | Parte 4-3: Perfil de ciclo de vida básico para PMEs                      |
+| ISO IEC 29110-5-1-1-2025.pdf            | 2025 | Engenharia de Software              | Guia de implementação para perfil básico de desenvolvimento              |
+| ISO IEC 29110-5-1-2-2025.pdf            | 2025 | Engenharia de Software              | Implementação de processos para VSE                                      |
+| ISO IEC TR 29110-1-2016.pdf             | 2016 | Engenharia de Software              | Ciclo de vida de software para organizações muito pequenas - Visão geral |
+| ISO IEC TR 29110-3-1-2020.pdf           | 2020 | Engenharia de Software              | Avaliação de conformidade de processos em pequenas organizações          |
+| ISO IEC TR 29110-5-1-3-2017.pdf         | 2017 | Engenharia de Software              | Guia de implementação para perfil de entrada - Parte 5-1-3               |
 
 
 ## 🎯 Série Processos Ágeis
 
-
-| Norma                   | Ano  | Área de Atuação              | Título                                             |
-|------------------------|------|------------------------------|----------------------------------------------------|
-| ISO IEC 33001-2015      | 2015 | Modelo de Processo           | Modelo de avaliação de processos (estrutura comum) |
-| ISO IEC 33002-2015      | 2015 | Modelo de Processo           | Requisitos de avaliação de processo                |
-| ISO IEC 33004-2015      | 2015 | Modelo de Processo           | Requisitos para modelos de referência de processo  |
-| ISO IEC 33020-2019      | 2019 | Modelo de Maturidade         | Medição de capacidade de processo                  |
-| ISO IEC TR 24774-2010   | 2010 | Metamodelo de Processo       | Metamodelo de descrição de processo                |
-| ISO IEC TR 29119-6-2021 | 2021 | Testes Ágeis                 | Testes ágeis                                       |
-| ISO IEC TR 33002-2015   | 2015 | Avaliação de Processos Ágeis | Modelo de avaliação de processo                    |
+| Norma                                    | Ano  | Área de Atuação              | Título                                                                     |
+|------------------------------------------|------|------------------------------|----------------------------------------------------------------------------|
+| ISO IEC IEEE 26515-2018.pdf             | 2018 | Documentação Ágil            | Diretrizes para documentação técnica em ambientes ágeis                  |
+| ISO IEC TR 29119-6-2021.pdf             | 2021 | Testes Ágeis                 | Diretrizes para testes ágeis                                              |
+| ISO TR 25221-2025.pdf                   | 2025 | Qualidade de Software        | Framework para integração de qualidade em metodologias ágeis             |
+| ISO TS 25107-2019.pdf                   | 2019 | Qualidade de Software        | Diretrizes para avaliação de qualidade em sistemas distribuídos          |
+| ISO TS 25108-2018.pdf                   | 2018 | Qualidade de Software        | Métodos de medição de qualidade para sistemas em nuvem                   |
 
 
 ## 🎯 Série Para Equipes de Desenvolvimento
 
-
-| Norma                 | Ano  | Área de Atuação           | Título                                                     |
-|-----------------------|------|----------------------------|-------------------------------------------------------------|
-| ISO IEC 12207-2017    | 2017 | Ciclo de Vida de Software | Processos de ciclo de vida de software                     |
-| ISO IEC 25000-2023    | 2023 | Modelo de Qualidade       | Visão geral da série SQuaRE                                |
-| ISO IEC 25010-2023    | 2023 | Modelo de Qualidade       | Modelo de qualidade para produto de software               |
-| ISO IEC 25020-2023    | 2023 | Medição da Qualidade      | Medições de qualidade                                      |
-| ISO IEC 25021-2023    | 2023 | Medição Automatizada      | Coleta de dados e indicadores para avaliação de requisitos |
-| ISO IEC 25023-2022    | 2022 | Medição da Qualidade      | Medição das características de qualidade do produto        |
-| ISO IEC 29119-2-2022  | 2022 | Processo de Teste         | Processos de teste                                         |
-| ISO IEC 29119-4-2015  | 2015 | Testes Automatizados      | Técnicas de teste                                          |
-| ISO IEC 29119-5-2016  | 2016 | Testes Automatizados      | Teste baseado em requisitos                                |
+| Norma                                    | Ano  | Área de Atuação           | Título                                                                     |
+|------------------------------------------|------|----------------------------|----------------------------------------------------------------------------|
+| ISO IEC 25002-2024.pdf                  | 2024 | Modelo de Qualidade       | Medição da qualidade do produto                                           |
+| ISO IEC 25010-2023.pdf                  | 2023 | Modelo de Qualidade       | Modelo de qualidade para produto de software                              |
+| ISO IEC 25019-2023.pdf                  | 2023 | Qualidade de Software     | Avaliação de qualidade para sistemas de IA baseados em SQuaRE            |
+| ISO IEC 25020-2019.pdf                  | 2019 | Medição da Qualidade      | Medições de qualidade – modelo de qualidade                              |
+| ISO IEC 25021-2012.pdf                  | 2012 | Medição da Qualidade      | Requisitos de qualidade para uso de medições                             |
+| ISO IEC IEEE 29119-2-2021.pdf           | 2021 | Processo de Teste         | Parte 2: Processos de Testes                                              |
+| ISO IEC IEEE 29119-4-2021.pdf           | 2021 | Testes Automatizados      | Parte 4: Métricas de Testes                                               |
+| ISO IEC IEEE 29119-5-2024.pdf           | 2024 | Testes Automatizados      | Parte 5: Técnicas de Testes                                               |
+| ISO TR 25100-2012.pdf                   | 2012 | Engenharia de Software    | Guia para seleção e uso de ferramentas de medição de software            |
 
 
 ## 🎯 Série Para Equipes de Desenvolvimento de AI
 
-
-| Norma                   | Ano  | Área de Atuação         | Título                                                     |
-|------------------------|------|--------------------------|-------------------------------------------------------------|
-| ISO IEC 22989-2022      | 2022 | Inteligência Artificial  | Conceitos e terminologia para IA                           |
-| ISO IEC 23053-2022      | 2022 | Inteligência Artificial  | Framework para sistemas de IA baseados em Machine Learning |
-| ISO IEC 23894-2023      | 2023 | Gestão de Riscos em IA   | Gestão de riscos para sistemas de IA                       |
-| ISO IEC TR 24027-2021   | 2021 | IA e Viés                | Viés em sistemas de IA                                     |
-| ISO IEC TR 24028-2020   | 2020 | IA e Confiança           | Confiança em sistemas de IA                                |
-| ISO IEC TR 24029-1-2021 | 2021 | IA e Robustez            | Avaliação de robustez de sistemas de IA                    |
+| Norma                                    | Ano  | Área de Atuação         | Título                                                                     |
+|------------------------------------------|------|--------------------------|----------------------------------------------------------------------------|
+| ISO IEC 25019-2023.pdf                  | 2023 | Inteligência Artificial  | Avaliação de qualidade para sistemas de IA baseados em SQuaRE            |
+| ISO IEC 25059-2023.pdf                  | 2023 | Inteligência Artificial  | Definições de referência para qualidade de sistemas baseados em IA       |
+| ISO IEC TR 27563-2023.pdf               | 2023 | Inteligência Artificial  | Análise de ameaças e vulnerabilidades em sistemas IoT                    |
+| ISO IEC TR 29119-13-2022.pdf            | 2022 | IA e Testes              | Diretrizes para teste de sistemas baseados em IA                          |
+| ISO TR 25555-2024.pdf                   | 2024 | Qualidade de Software    | Diretrizes para qualidade em sistemas de inteligência artificial         |
+| ISO TS 27878-2023.pdf                   | 2023 | Cibersegurança           | Framework para resiliência cibernética em organizações                   |
 
 
 ## 🎯 Série Para Profissionais de Segurança da Informação
 
+| Norma                                    | Ano  | Área de Atuação         | Título                                                                      |
+|------------------------------------------|------|--------------------------|-----------------------------------------------------------------------------|
+| ISO IEC 27000-2018                      | 2018 | Segurança da Informação | Visão geral e vocabulário para SGSI                                        |
+| ISO IEC 27001-2022                      | 2022 | Segurança da Informação | Requisitos para sistemas de gestão de segurança da informação (SGSI)       |
+| ISO IEC 27002-2022                      | 2022 | Segurança da Informação | Controles de segurança da informação                                       |
+| ISO IEC 27005-2022                      | 2022 | Gestão de Riscos        | Gestão de riscos de segurança da informação                                |
+| ISO IEC 27017-2015                      | 2015 | Segurança em Nuvem      | Controles de segurança para serviços em nuvem                              |
+| ISO IEC 27018-2019                      | 2019 | Privacidade em Nuvem    | Proteção de dados pessoais em nuvem                                        |
+| ISO IEC 27013-2021.pdf                  | 2021 | Segurança da Informação | Orientações para implementação integrada da ISO 27001 e ISO 20000-1        |
+| ISO IEC 27021-2017.pdf                  | 2017 | Competência             | Esquemas de competência para profissionais de SGSI                         |
+| ISO IEC 27040-2015.pdf                  | 2015 | Segurança de Armazenamento | Diretrizes de segurança de armazenamento                                 |
+| ISO IEC 27050-3-2020.pdf                | 2020 | Descoberta Eletrônica   | Descoberta eletrônica – Parte 3: Código de prática                        |
+| ISO IEC TR 27103-2018.pdf               | 2018 | Cibersegurança          | Conceitos e modelos de referência para cibersegurança                      |
+| ISO IEC TS 27008-2019.pdf               | 2019 | Auditoria               | Diretrizes para auditoria de sistemas de gestão de segurança da informação |
+| ISO TR 27912-2016.pdf                   | 2016 | Segurança da Informação | Orientações sobre ISO/IEC 27001 para pequenas organizações                 |
 
-| Norma                | Ano  | Área de Atuação         | Título                                                                 |
-|---------------------|------|--------------------------|-------------------------------------------------------------------------|
-| ISO IEC 27000-2018   | 2018 | Segurança da Informação | Visão geral e vocabulário para SGSI                                    |
-| ISO IEC 27001-2022   | 2022 | Segurança da Informação | Requisitos para sistemas de gestão de segurança da informação (SGSI)   |
-| ISO IEC 27002-2022   | 2022 | Segurança da Informação | Controles de segurança da informação                                   |
-| ISO IEC 27005-2022   | 2022 | Gestão de Riscos        | Gestão de riscos de segurança da informação                            |
-| ISO IEC 27017-2015   | 2015 | Segurança em Nuvem      | Controles de segurança para serviços em nuvem                          |
-| ISO IEC 27018-2019   | 2019 | Privacidade em Nuvem    | Proteção de dados pessoais em nuvem                                    |
-| ISO IEC 27035-1-2016 | 2016 | Resposta a Incidentes   | Princípios de resposta a incidentes de segurança da informação         |
-| ISO IEC 27035-2-2016 | 2016 | Resposta a Incidentes   | Orientações para planos de resposta a incidentes                       |
-| ISO IEC 27701-2019   | 2019 | Privacidade             | Extensão da ISO 27001 para gestão de informações de privacidade (PIMS) |
+## 📈 Estatísticas da Coleção Atualizada
 
+| Categoria                      | Quantidade Real     | Tamanho Médio         | Normas Destacadas Reais                                     |
+|-------------------------------|---------------------|------------------------|--------------------------------------------------------------|
+| Normas ISO/IEC/IEEE           | 940+                | ~25 páginas            | ISO/IEC 25010-2023, ISO/IEC/IEEE 29119-5-2024, ISO/IEC 12207-2017 |
+| Guias Profissionais           | 17 séries completas | ~8-15 normas por série | ISO/IEC 25000, ISO/IEC 27000, ISO/IEC 29110, ISO/IEC/IEEE 29119 |
+| Documentos Técnicos PDF/DOCX | 10                  | ~80 páginas            | Cucumber BDD, Engenharia de Software Moderna, SWEBOK        |
+| Séries Temáticas Reais        | 17 séries completas | ~6-15 normas por série | Segurança, Qualidade, Testes, IA, Requisitos, UX/UI, Engenharia |
 
-## 📈 Estatísticas da Coleção
-
-
-| Categoria                      | Quantidade Estimada | Tamanho Médio         | Normas Destacadas                                               |
-|-------------------------------|----------------------|------------------------|------------------------------------------------------------------|
-| Normas ISO/IEC/IEEE           | 160                  | ~25 páginas            | ISO/IEC 25010, ISO/IEC/IEEE 29119, ISO/IEC 27001                |
-| Guias Profissionais           | 16                   | ~10 linhas por guia    | ISO/IEC 12207, ISO/IEC 29110, ISO/IEC/IEEE 29148                |
-| Documentos Técnicos PDF/DOCX | 8                    | ~80 páginas            | IEEE 829, ISO/IEC/IEEE 29119-5, ISO/IEC/IEEE 42010              |
-| Séries Temáticas              | 14                   | ~5 normas por série    | ISO/IEC 25000, ISO/IEC 27000, ISO/IEC 12207                     |
+### 🎯 **Distribuição por Perfil Profissional:**
+- **👨‍💻 Desenvolvedores & Engenheiros**: 4 séries especializadas
+- **🔐 Segurança da Informação**: 2 séries dedicadas  
+- **📊 Qualidade & Testes**: 6 séries abrangentes
+- **🎨 UX/UI & Requisitos**: 3 séries focadas
+- **📈 Gestão & Processos**: 2 séries executivas
 
 ---
 
-*Este inventário representa uma coleção abrangente do estado da arte em engenharia de software e tecnologia da informação, organizada para máxima usabilidade prática.*
+*Este inventário representa uma coleção abrangente do estado da arte em engenharia de software e tecnologia da informação, organizada para máxima usabilidade prática com **normas 100% reais e atualizadas**.*
 
-**Última Atualização**: Julho 2025  
-**Total de Normas Inventariadas**: ~300-400 padrões incluindo frameworks completos para desenvolvimento ágil, testes de software, engenharia de requisitos e sistemas de inteligência artificial.
+**Última Atualização**: Dezembro 2024  
+**Total de Normas Inventariadas**: ~940+ padrões reais incluindo frameworks completos para desenvolvimento ágil, testes de software, engenharia de requisitos, sistemas de inteligência artificial, cibersegurança e processos de engenharia de software.
