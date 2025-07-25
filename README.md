@@ -1222,7 +1222,6 @@ As normas ISO/IEC/IEEE representam o consenso global sobre melhores práticas em
 | 16  | ISO IEC TR 29110-5-6-3-2019   | ISO/IEC TR| Engenharia de Software       | Requisitos adicionais de ferramenta para VSEs                              |
 | 17  | ISO IEC TR 26905-2006         | ISO/IEC TR| Telecomunicações             | Relatório técnico sobre redes IP em ambientes de missão crítica             |
 | 18  | ISO IEC TR 26927-2011         | ISO/IEC TR| Engenharia de Software       | Diretrizes para arquitetura de sistemas de software distribuído             |
-
 | 19  | ISO IEC TR 27023-2015         | ISO/IEC TR| Segurança da Informação      | Mapeamento entre ISO/IEC 27001 e 27002                                      |
 | 20  | ISO IEC TR 27015-2012         | ISO/IEC TR| Segurança Financeira         | Aplicação da ISO/IEC 27001 para organizações financeiras                    |
 | 21  | ISO IEC TR 27016-2014         | ISO/IEC TR| Governança de TI             | Diretrizes sobre valor econômico da segurança da informação                 |
