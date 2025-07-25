@@ -687,353 +687,369 @@ As normas ISO/IEC/IEEE representam o consenso global sobre melhores práticas em
 | 603 | ISO 31111-2022          | ISO          | Gestão de facilities                | Diretrizes para gestão de facilities em ambientes híbridos.                                                        |
 | 604 | ISO 32000-1-2008        | ISO          | Gestão de documentos                | Especificação do formato PDF - Parte 1: PDF 1.7.                                                                   |
 | 605 | ISO 32000-2-2020        | ISO          | Gestão de documentos                | Especificação do formato PDF - Parte 2: PDF 2.0.                                                                   |
+
 ---
 ### 2. **25001-30000.IEC** - Normas ISO/IEC Conjuntas (Pasta Principal)
-**Descrição**: ~180-220 normas (85% da coleção)  
+**Descrição**: 87 arquivos/normas mapeados (100% da pasta)  
 **Foco Principal**: Tecnologia da informação, qualidade de software, cibersegurança
 
-| Nº  | Norma ISO              | Tipo ISO | Área de Atuação                    | Descrição Resumida                          |
-|-----|------------------------|----------|------------------------------------|---------------------------------------------|
-| 01  | ISO IEC 26131-2024     | ISO/IEC  | Arquivamento                       | Padrões de metadados audiovisuais           |
-| 02  | ISO IEC 26132-2024     | ISO/IEC  | Arquivamento Digital               | Requisitos para preservação de conteúdo em longo prazo |
-| 03  | ISO IEC 26133-2024     | ISO/IEC  | Arquivamento Digital               | Preservação de informações digitais em longo prazo |
-| 04  | ISO IEC 26300-1-2015   | ISO/IEC  | Documentação                       | ODF – formato de documentos abertos         |
-| 05  | ISO IEC 26300-2-2015   | ISO/IEC  | Documentação Aberta                | Formato aberto para documentos de escritório (ODF) – Parte 2 |
-| 06  | ISO IEC 26300-3-2015   | ISO/IEC  | Documentação Aberta                | ODF – Parte 3: Embalagem de documentos      |
-| 07  | ISO IEC 29500-1:2016   | ISO/IEC  | Documentos Office Open XML         | Parte 1: Fundamentos e marcas principais (Office Open XML) |
-| 08  | ISO IEC 29500-2:2012   | ISO/IEC  | Documentos e Arquivos              | Open Document Format – Parte 2: Requisitos de conformidade |
-| 09  | ISO IEC 29500-2:2021   | ISO/IEC  | Documentos e Arquivos              | Open Document Format – Parte 2: Requisitos de conformidade (versão atualizada) |
-| 10  | ISO IEC 29500-3:2015   | ISO/IEC  | Documentos e Arquivos              | Parte 3: Mapeamentos de pacote para Open Document Format |
-| 11  | ISO IEC 29500-4:2016   | ISO/IEC  | Documentação Office Open XML       | Parte 4: Conformidade e especificações do padrão de arquivos Office XML |
-| 12  | ISO IEC 29794-1:2016   | ISO/IEC  | Biometria                          | Parte 1: Estrutura e requisitos de qualidade para dados biométricos |
-| 13  | ISO IEC 29794-1:2024   | ISO/IEC  | Biometria                          | Parte 1: Estrutura para especificação de requisitos de qualidade biométrica atualizada |
-| 14  | ISO IEC 29794-4:2024   | ISO/IEC  | Biometria                          | Parte 4: Qualidade de imagens de íris para identificação biométrica |
-| 15  | ISO IEC 29794-5:2025   | ISO/IEC  | Biometria                          | Parte 5: Qualidade de imagens de palma da mão |
-| 16  | ISO IEC 29794-6:2015   | ISO/IEC  | Biometria                          | Parte 6: Avaliação da qualidade de imagens de face |
-| 17  | ISO IEC 25001-2014     | ISO/IEC  | Qualidade de Produto               | Requisitos e avaliação da qualidade         |
-| 18  | ISO IEC 25002-2024     | ISO/IEC  | Qualidade de Produto               | Medição da Qualidade do Produto             |
-| 19  | ISO IEC 25010-2023     | ISO/IEC  | Qualidade de Produto               | Modelo de qualidade e características de software |
-| 20  | ISO IEC 25018-2023     | ISO/IEC  | Qualidade de Software              | Guias de avaliação de qualidade com base na série SQuaRE |
-| 21  | ISO IEC 25020-2019     | ISO/IEC  | Qualidade de Software              | Medições de qualidade – modelo de qualidade |
-| 22  | ISO IEC 25022-2016     | ISO/IEC  | Qualidade de Software              | Medição da qualidade com foco em qualidade em uso |
-| 23  | ISO IEC 25023-2016     | ISO/IEC  | Qualidade de Software              | Medição da qualidade com foco em características internas do produto |
-| 24  | ISO IEC 25051-2014     | ISO/IEC  | Qualidade de Software              | Requisitos e testes para software pronto para uso (COTS) |
-| 25  | ISO IEC 25059-2023     | ISO/IEC  | Qualidade de Software              | Definições de referência para qualidade de sistemas baseados em IA |
-| 26  | ISO IEC 25012-2008     | ISO/IEC  | Qualidade de Dados                 | Modelo de qualidade de dados para sistemas de informação |
-| 27  | ISO IEC 25021-2012     | ISO/IEC  | Qualidade de Software              | Requisitos de qualidade para uso de medições |
-| 28  | ISO IEC 25024-2015     | ISO/IEC  | Métricas de Qualidade              | Medição de dados e indicadores              |
-| 29  | ISO IEC 25030-2019     | ISO/IEC  | Requisitos de Qualidade            | Requisitos de qualidade de software         |
-| 30  | ISO IEC 25040-2011     | ISO/IEC  | Avaliação de Produto               | Processo de avaliação da qualidade de produto |
-| 31  | ISO IEC 25040-2024     | ISO/IEC  | Avaliação de Produto               | Processo atualizado para avaliação da qualidade de software |
-| 32  | ISO IEC 25041-2012     | ISO/IEC  | Qualidade de Produto               | Processo de avaliação da qualidade de software |
-| 33  | ISO IEC 25045-2010     | ISO/IEC  | Qualidade de Dados                 | Métricas para avaliação de qualidade de dados |
-| 34  | ISO IEC 25062-2006     | ISO/IEC  | Usabilidade                        | Relato de testes de usabilidade             |
-| 35  | ISO IEC 25064-2013     | ISO/IEC  | Usabilidade                        | Medidas de usabilidade para software e sistemas interativos |
-| 36  | ISO IEC 25066-2016     | ISO/IEC  | Usabilidade                        | Métricas de usabilidade e experiência do usuário |
-| 37  | ISO IEC 25437-2012     | ISO/IEC  | Engenharia de Sistemas             | Requisitos para sistemas automotivos        |
-| 38  | ISO IEC 26550-2015     | ISO/IEC  | Engenharia de Sistemas             | Requisitos para desenvolvimento baseado em produto |
-| 39  | ISO IEC 26702-2007     | ISO/IEC  | Engenharia de Sistemas             | Processos para ciclo de vida de engenharia de sistemas |
-| 40  | ISO IEC 26139-2024     | ISO/IEC  | Avaliação de Software              | Diretrizes para avaliação de qualidade      |
-| 41  | ISO IEC 26555-2015     | ISO/IEC  | Engenharia de Software             | Desenvolvimento ágil de software            |
-| 42  | ISO IEC 26556-2018     | ISO/IEC  | Engenharia de Software             | Documentação de sistemas e software         |
-| 43  | ISO IEC 26557-2016     | ISO/IEC  | Engenharia de Software             | Padrões de documentação técnica de sistemas e software |
-| 44  | ISO IEC 26558-2017     | ISO/IEC  | Engenharia de Software             | Requisitos para desenvolvimento baseado em modelos |
-| 45  | ISO IEC 26559-2017     | ISO/IEC  | Engenharia de Software             | Avaliação de conformidade de processos e ferramentas |
-| 46  | ISO IEC 26551-2016     | ISO/IEC  | Engenharia de Software             | Requisitos para reuso em linhas de produto de software |
-| 47  | ISO IEC 26552-2019     | ISO/IEC  | Engenharia de Software             | Processos de ciclo de vida de reuso de software |
-| 48  | ISO IEC 26553-2018     | ISO/IEC  | Engenharia de Software             | Processos de desenvolvimento de linha de produto |
-| 49  | ISO IEC 26554-2018     | ISO/IEC  | Engenharia de Software             | Processo de ciclo de vida para linha de produto |
-| 50  | ISO IEC 26560-2019     | ISO/IEC  | Engenharia de Software             | Processo de verificação e validação para reutilização |
-| 51  | ISO IEC 26561-2019     | ISO/IEC  | Engenharia de Software             | Estrutura de processos de linha de produtos de software |
-| 52  | ISO IEC 26562-2019     | ISO/IEC  | Engenharia de Software             | Integração de ferramentas e processos reutilizáveis |
-| 53  | ISO IEC 26564-2022     | ISO/IEC  | Ciclo de Vida                      | Gerenciamento da informação do produto      |
-| 54  | ISO IEC 26580-2021     | ISO/IEC  | Documentação e DevOps              | Documentação de fluxos contínuos de entrega |
-| 55  | ISO IEC 27001-2022     | ISO/IEC  | Segurança da Informação            | Sistema de gestão de segurança da informação |
-| 56  | ISO IEC 27002-2022     | ISO/IEC  | Segurança da Informação            | Código de práticas para controles de segurança |
-| 57  | ISO IEC 27003-2017     | ISO/IEC  | Segurança da Informação            | Diretrizes para implementação do SGSI       |
-| 58  | ISO IEC 27004-2016     | ISO/IEC  | Segurança da Informação            | Medição da eficácia do SGSI                 |
-| 59  | ISO IEC 27005-2022     | ISO/IEC  | Segurança da Informação            | Gestão de riscos de segurança da informação |
-| 60  | ISO IEC 27006-2015     | ISO/IEC  | Certificação de SGSI               | Requisitos para organismos que realizam auditoria e certificação |
-| 61  | ISO IEC 27007-2020     | ISO/IEC  | Auditoria de SGSI                  | Diretrizes para auditoria de sistemas de gestão de segurança da info |
-| 62  | ISO IEC 27009-2020     | ISO/IEC  | Segurança da Informação            | Setor específico para SGSI                  |
-| 63  | ISO IEC 27010-2015     | ISO/IEC  | Segurança da Informação            | Comunicação entre organizações             |
-| 64  | ISO IEC 27014-2020     | ISO/IEC  | Governança de Segurança Info       | Estrutura de governança da segurança da informação |
-| 65  | ISO IEC 27021-2017     | ISO/IEC  | Gestão de Segurança da Info        | Competência de profissionais em sistemas de gestão de segurança |
-| 66  | ISO IEC 27031-2011     | ISO/IEC  | Continuidade de Negócio            | Diretrizes para prontidão de TIC em continuidade |
-| 67  | ISO IEC 27032-2023     | ISO/IEC  | Segurança Cibernética              | Diretrizes para segurança no ciberespaço    |
-| 68  | ISO IEC 27102-2019     | ISO/IEC  | Segurança da Informação            | Diretrizes para resiliência cibernética     |
-| 69  | ISO IEC 27017-2015     | ISO/IEC  | Segurança em Nuvem                 | Diretrizes para controles de segurança      |
-| 70  | ISO IEC 27033-1-2015   | ISO/IEC  | Segurança de Redes                 | Visão geral e conceitos                     |
-| 71  | ISO IEC 27033-2-2012   | ISO/IEC  | Segurança de Redes                 | Design e implementação de segurança para redes |
-| 72  | ISO IEC 27033-3-2010   | ISO/IEC  | Segurança de Redes                 | Requisitos de segurança de redes para conexões entre redes |
-| 73  | ISO IEC 27033-4-2014   | ISO/IEC  | Segurança de Redes                 | Proteção para conexões em redes públicas    |
-| 74  | ISO IEC 27033-5-2013   | ISO/IEC  | Segurança de Redes                 | Segurança de redes – Parte 5: redes seguras |
-| 75  | ISO IEC 27033-6-2016   | ISO/IEC  | Segurança de Redes                 | Parte 6: VPNs IP                            |
-| 76  | ISO IEC 27034-1-2011   | ISO/IEC  | Segurança de Aplicações            | Visão geral da segurança em aplicações      |
-| 77  | ISO IEC 27034-2-2015   | ISO/IEC  | Segurança de Aplicações            | Referencial organizacional                 |
-| 78  | ISO IEC 27034-3-2018   | ISO/IEC  | Segurança de Aplicações            | Framework de segurança de aplicações - parte 3 |
-| 79  | ISO IEC 27034-5-2017   | ISO/IEC  | Segurança de Aplicações            | Guia para segurança de aplicações baseadas em processos |
-| 80  | ISO IEC 27034-6-2016   | ISO/IEC  | Segurança de Aplicações            | Verificação de segurança no ciclo de vida de software |
-| 81  | ISO IEC 27034-7-2018   | ISO/IEC  | Segurança de Aplicações            | Diretrizes de segurança para aplicações comerciais |
-| 82  | ISO IEC 27036-1-2021   | ISO/IEC  | Segurança na Cadeia de Suprimentos | Visão geral e conceitos                     |
-| 83  | ISO IEC 27036-2-2022   | ISO/IEC  | Cadeia de Suprimentos              | Requisitos para segurança em aquisições     |
-| 84  | ISO IEC 27036-3-2023   | ISO/IEC  | Segurança de Fornecedores          | Requisitos para relações com fornecedores externos |
-| 85  | ISO IEC 27036-4-2016  | ISO/IEC  | Segurança de Fornecedores          | Segurança nas relações com fornecedores (nível organizacional) |
-| 86  | ISO IEC 27041-2015     | ISO/IEC  | Forense Digital                    | Diretrizes de segurança para coleta de evidências |
-| 87  | ISO IEC 27042-2015   | ISO/IEC  | Forense Digital                    | Análise de evidência digital                |
-| 88  | ISO/IEC 27043-2015    | ISO/IEC  | Forense Digital                    | Diretrizes para investigações de incidentes |
-| 89  | ISO/IEC 27050-1-2019  | ISO/IEC  | Forense Digital                    | Visão geral de coleta e análise de evidência digital |
-| 90  | ISO/IEC 27050-2-2018  | ISO/IEC  | Forense Digital                    | Diretrizes para e-discovery – coleta de evidências digitais |
-| 91  | ISO/IEC 27050-3-2020  | ISO/IEC  | Forense Digital                    | E-discovery – Parte 3: análise e produção   |
-| 92  | ISO/IEC 27037-2012    | ISO/IEC  | Forense Digital                    | Diretrizes para coleta e preservação de evidência digital |
-| 93  | ISO/IEC 27039-2015    | ISO/IEC  | Forense Digital                    | Seleção, implantação e operação de ferramentas de detecção |
-| 94  | ISO/IEC 27400-2022    | ISO/IEC  | IoT (Internet das Coisas)          | Diretrizes de segurança para sistemas baseados em IoT |
-| 95  | ISO/IEC 27402-2023    | ISO/IEC  | IoT                                | Especificações para privacidade e segurança em ambientes IoT |
-| 96  | ISO/IEC 27403-2024    | ISO/IEC  | IoT                                | Segurança e interoperabilidade em dispositivos inteligentes |
-| 97  | ISO/IEC 26907-2009    | ISO/IEC  | RFID e Código de Barras            | Codificação de tags RFID                    |
-| 98  | ISO/IEC 26908-2009    | ISO/IEC  | RFID                               | Tecnologia e codificação para RFID          |
-| 99  | ISO/IEC 26925-2009    | ISO/IEC  | RFID e Identificação               | Diretrizes para sistemas de RFID            |
-| 100 | ISO/IEC 27018-2019    | ISO/IEC  | Segurança e Privacidade            | Proteção de dados pessoais na nuvem        |
-| 101 | ISO/IEC 27011-2016    | ISO/IEC  | Segurança em Telecom                | Aplicação do SGSI em telecomunicações      |
-| 102 | ISO/IEC 27019-2017    | ISO/IEC  | Energia e Automação                | SGSI para o setor de energia elétrica      |
-| 103 | ISO/IEC 25185-1-2016  | ISO/IEC  | Saúde – Dispositivos Médicos       | Arquitetura e requisitos para dispositivos médicos |
-| 104 | ISO/IEC 25390-2025    | ISO/IEC  | TI – Sustentabilidade              | Diretrizes de sustentabilidade em tecnologias de informação |
-| 105 | ISO/IEC 26135-2024    | ISO/IEC  | TI – Acessibilidade                | Diretrizes sobre acessibilidade para documentos digitais |
-| 106 | ISO/IEC 25434-2008    | ISO/IEC  | Gestão de Documentos               | Padrão para sistemas de imagem de documentos |
-| 107 | ISO/IEC 25435-2006    | ISO/IEC  | Imagem de Documentos               | Testes para scanners de documentos         |
-| 108 | ISO/IEC 25436-2006    | ISO/IEC  | Imagem de Documentos               | Teste de scanners para avaliação de desempenho |
-| 109 | ISO/IEC 26136-2024    | ISO/IEC  | Tecnologia da Informação           | Requisitos de acessibilidade em conteúdos digitais |
-| 110 | ISO/IEC 26137-2024    | ISO/IEC  | Tecnologia da Informação           | Diretrizes de acessibilidade e conteúdo eletrônico inclusivo |
-| 111 | ISO/IEC 26138-2024    | ISO/IEC  | Acessibilidade e Inclusão          | Diretrizes para usabilidade de tecnologia assistiva |
-| 112 | ISO/IEC 27000-2018    | ISO/IEC  | Segurança da Informação            | Visão geral e vocabulário do sistema de gestão de segurança da info |
-| 113 | ISO/IEC 27013-2021    | ISO/IEC  | Integração de Normas SGSI          | Orientações para integração de ISO/IEC 27001 e 20000-1 |
-| 114 | ISO/IEC 27040-2015    | ISO/IEC  | Segurança de Armazenamento         | Requisitos de segurança para armazenamento de dados |
-| 115 | ISO/IEC 27070-2021    | ISO/IEC  | Serviços de Segurança              | Gestão de serviços de segurança para nuvem |
-| 116 | ISO/IEC 27551-2021    | ISO/IEC  | Identidade Digital                 | Requisitos de proteção de privacidade para provedores de identidade |
-| 117 | ISO/IEC 27554-2024    | ISO/IEC  | Privacidade de Dados               | Orientações de implementação para proteção de dados pessoais |
-| 118 | ISO/IEC 27555-2021    | ISO/IEC  | Privacidade de Dados               | Eliminação de dados pessoais com base em objetivos de controle |
-| 119 | ISO/IEC 27556-2022    | ISO/IEC  | Privacidade de Dados               | Diretrizes para consentimento e gestão de informações pessoais |
-| 120 | ISO/IEC 29100-2011    | ISO/IEC  | Segurança da Informação            | Estrutura para proteção da privacidade     |
-| 121 | ISO/IEC 29101-2018    | ISO/IEC  | Arquitetura de Privacidade         | Estrutura de referência para arquitetura de privacidade |
-| 122 | ISO/IEC 29109-4-2010  | ISO/IEC  | Biometria                          | Testes de conformidade biométrica – Parte 4 |
-| 123 | ISO/IEC 29109-5-2019  | ISO/IEC  | Biometria                          | Testes de conformidade – Parte 5: Iris     |
-| 124 | ISO/IEC 29109-6-2011  | ISO/IEC  | Biometria                          | Teste de conformidade biométrica – Parte 6: Vein pattern |
-| 125 | ISO/IEC 29109-7-2011  | ISO/IEC  | Biometria                          | Teste de conformidade – Parte 7: Reconhecimento da íris |
-| 126 | ISO/IEC 29109-8-2011  | ISO/IEC  | Biometria                          | Teste de conformidade biométrica – Parte 8: Reconhecimento de padrão vascular da palma da mão |
-| 127 | ISO/IEC 29110-1-2-2024| ISO/IEC  | Engenharia de Software             | Ciclo de vida para PMEs — Visão Geral e Vocabulário |
-| 128 | ISO/IEC 29110-2-1-2015| ISO/IEC  | Engenharia de Software             | Ciclo de vida para VSE - Parte 2-1         |
-| 129 | ISO/IEC 29110-2-2-2011| ISO/IEC  | Engenharia de Software             | Gerenciamento de ciclo de vida para pequenas empresas – Parte 2-2 |
-| 130 | ISO/IEC 29110-3-2-2018| ISO/IEC  | Engenharia de Software             | Ciclo de vida de software para VSE – Parte 3-2 |
-| 131 | ISO/IEC 29110-3-3-2016| ISO/IEC  | Engenharia de Software             | Ciclo de vida de software para pequenas entidades – Parte 3-3 |
-| 132 | ISO/IEC 29110-4-1-2018| ISO/IEC  | Engenharia de Software             | Parte 4-1: Perfiles de ciclo de vida para entidades muito pequenas |
-| 133 | ISO/IEC 29110-4-3-2018| ISO/IEC  | Engenharia de Software             | Parte 4-3: Perfil de ciclo de vida básico para PMEs |
-| 134 | ISO/IEC 29110-5-1-1-2025| ISO/IEC | Engenharia de Software             | Guia de implementação para perfil básico de desenvolvimento |
-| 135 | ISO/IEC 29110-5-1-2-2025| ISO/IEC | Engenharia de Software             | Implementação de processos para VSE        |
-| 136 | ISO/IEC 29110-5-6-4-2025| ISO/IEC | Engenharia de Software             | Guia de implementação de requisitos – Parte 5-6-4 |
-| 137 | ISO/IEC 29112-2018    | ISO/IEC  | Linguagens de Programação          | Requisitos para suporte de software de precisão aumentada |
-| 138 | ISO/IEC 29115-2013    | ISO/IEC  | Autenticação e Identidade          | Estrutura de garantia de autenticação      |
-| 139 | ISO/IEC 29116-1-2008  | ISO/IEC  | Comunicação de Dados               | Funções básicas para comunicação em redes de sensores |
-| 140 | ISO/IEC 29120-1-2022  | ISO/IEC  | Acessibilidade e Usabilidade       | Avaliação da acessibilidade de software – Parte 1 |
-| 141 | ISO/IEC 29120-4-2-2021| ISO/IEC  | Acessibilidade e Testes            | Framework para acessibilidade – Parte 4-2: Requisitos de teste |
-| 142 | ISO/IEC 29121-2021    | ISO/IEC  | Serviços de Rede                   | Framework para gerenciamento de conteúdos multimídia |
-| 143 | ISO/IEC 29124-2010    | ISO/IEC  | Teste de Software                  | Linguagens de programação – Técnicas para cobertura de teste estrutural |
-| 144 | ISO/IEC 29128-1-2023  | ISO/IEC  | Segurança de Informação            | Avaliação de esquemas criptográficos — Parte 1: Requisitos de segurança |
-| 145 | ISO/IEC 29133-2010    | ISO/IEC  | Vigilância                         | Detecção de intrusão em vigilância digital |
-| 146 | ISO/IEC 29134-2023    | ISO/IEC  | Privacidade                        | Diretrizes para avaliações de impacto de privacidade |
-| 147 | ISO/IEC 29136-2012    | ISO/IEC  | Acessibilidade                     | Requisitos para produtos de TI acessíveis  |
-| 148 | ISO/IEC 29138-1-2018  | ISO/IEC  | Acessibilidade                     | Catálogo de normas relacionadas à acessibilidade – Parte 1 |
-| 149 | ISO/IEC 29138-3-2022  | ISO/IEC  | Acessibilidade                     | Catálogo de normas relacionadas – Parte 3: Glossário |
-| 150 | ISO/IEC 29140-2021    | ISO/IEC  | Educação e Tecnologia              | Diretrizes para sistemas de educação personalizados |
-| 151 | ISO/IEC 29141-2009    | ISO/IEC  | Segurança da Informação            | Framework de autenticação baseada em biometria |
-| 152 | ISO/IEC 29142-1-2021  | ISO/IEC  | Dispositivos de Impressão          | Medição de rendimento de cartuchos de jato de tinta |
-| 153 | ISO/IEC 29142-2-2013  | ISO/IEC  | Tecnologia de Impressão            | Métodos de medição de rendimento para dispositivos de cópia e impressão |
-| 154 | ISO/IEC 29142-3-2013  | ISO/IEC  | Impressão                          | Testes de rendimento de cartuchos – Parte 3 |
-| 155 | ISO/IEC 29143-2011    | ISO/IEC  | Teste de Software                  | Requisitos para testes de aplicativos móveis |
-| 156 | ISO/IEC 29145-1-2014  | ISO/IEC  | RFID / Segurança                   | Métodos criptográficos baseados em ECC – Parte 1 |
-| 157 | ISO/IEC 29145-2-2014  | ISO/IEC  | Segurança                          | Algoritmos de criptografia baseados em curvas elípticas – Parte 2 |
-| 158 | ISO/IEC 29145-3-2014  | ISO/IEC  | Segurança                          | Algoritmos de criptografia baseados em curvas elípticas – Parte 3 |
-| 159 | ISO/IEC 29146-2016    | ISO/IEC  | Gerenciamento de Identidade        | Controle de acesso federado baseado em identidades |
-| 160 | ISO/IEC 29147-2018    | ISO/IEC  | Vulnerabilidade de Software        | Divulgação de vulnerabilidades             |
-| 161 | ISO/IEC 29150-2011    | ISO/IEC  | Criptografia                       | Mecanismos para controle de acesso criptográfico |
-| 162 | ISO/IEC 29151-2017    | ISO/IEC  | Segurança da Informação            | Diretrizes para proteção de informação pessoal identificável (PII) |
-| 163 | ISO/IEC 29155-1-2017  | ISO/IEC  | Medição e Avaliação de Software    | Medição de desempenho de projeto – Parte 1: Conceitos e terminologia |
-| 164 | ISO/IEC 29155-2-2013  | ISO/IEC  | Medição e Avaliação de Software    | Medição do desempenho do projeto – Parte 2: Processo de medição |
-| 165 | ISO/IEC 29155-3-2015  | ISO/IEC  | Medição de Desempenho              | Medição de desempenho de projetos – Parte 3 |
-| 166 | ISO/IEC 29155-4-2016  | ISO/IEC  | Medição e Avaliação de Projetos    | Medição de desempenho de projetos – Parte 4 |
-| 167 | ISO/IEC 29157-2015    | ISO/IEC  | Redes de Comunicação               | Avaliação de qualidade de comunicação sem fio de curto alcance |
-| 168 | ISO/IEC 29158-2020    | ISO/IEC  | Reconhecimento Automático          | Qualidade ótica de leitura de código de barras |
-| 169 | ISO/IEC 29159-1-2010  | ISO/IEC  | Biometria                          | Avaliação de desempenho de sistemas biométricos – Parte 1 |
-| 170 | ISO/IEC 29160-2020    | ISO/IEC  | RFID                               | Símbolo de privacidade para RFID           |
-| 171 | ISO/IEC 29161-2016    | ISO/IEC  | Identificação Automática           | Estrutura para identificação única de itens com tecnologias AIDC |
-| 172 | ISO/IEC 29164-2011    | ISO/IEC  | Redes e Comunicação                | Comunicação inter-rede de redes de sensores |
-| 173 | ISO/IEC 29167-1-2014  | ISO/IEC  | RFID e Criptografia                | Métodos criptográficos para RFID – Parte 1: Arquitetura geral |
-| 174 | ISO/IEC 29167-10-2017 | ISO/IEC  | RFID e Criptografia                | Métodos criptográficos – Parte 10: AES-128 |
-| 175 | ISO/IEC 29167-11-2023 | ISO/IEC  | Identificação por Rádio Frequência (RFID) | Criptografia leve baseada em PRESENT para RFID |
-| 176 | ISO/IEC 29167-12-2015 | ISO/IEC  | RFID                               | Criptografia para RFID – Parte 12          |
-| 177 | ISO/IEC 29167-13-2015 | ISO/IEC  | RFID                               | Criptografia para RFID – Parte 13          |
-| 178 | ISO/IEC 29167-14-2015 | ISO/IEC  | RFID                               | Mecanismo de segurança para RFID – Parte 14 |
-| 179 | ISO/IEC 29167-16-2022 | ISO/IEC  | Segurança RFID                     | Métodos criptográficos para RFID – Parte 16 |
-| 180 | ISO/IEC 29167-17-2015 | ISO/IEC  | Segurança RFID                     | Métodos criptográficos para RFID – Parte 17: RAMON |
-| 181 | ISO/IEC 29167-19-2019 | ISO/IEC  | RFID e Segurança                   | Métodos criptográficos para RFID – Parte 19: CipherTune |
-| 182 | ISO/IEC 29167-21-2018 | ISO/IEC  | RFID e Segurança                   | Métodos criptográficos – Parte 21: RAMON   |
-| 183 | ISO/IEC 29167-22-2018 | ISO/IEC  | RFID e Criptografia                | Métodos criptográficos – Parte 22: ECDSA   |
-| 184 | ISO/IEC 29168-1-2023  | ISO/IEC  | Serviços Web para Dispositivos     | Visão geral e requisitos para interoperabilidade |
-| 185 | ISO/IEC 29168-2-2011  | ISO/IEC  | RFID                               | Arquitetura de comunicação – Parte 2       |
-| 186 | ISO/IEC 29169-2016    | ISO/IEC  | Codificação de Vídeo               | Medição de qualidade de vídeo digital      |
-| 187 | ISO/IEC 29170-1-2013  | ISO/IEC  | Avaliação de Imagem                | Parte 1: Avaliação objetiva de qualidade de imagem |
-| 188 | ISO/IEC 29170-2-2015  | ISO/IEC  | Compressão de Imagem               | Avaliação subjetiva da qualidade de imagem |
-| 189 | ISO/IEC 29173-1-2012  | ISO/IEC  | RFID e Comunicação                 | Troca de mensagens em sistemas RFID – Parte 1 |
-| 190 | ISO/IEC 29175-2012    | ISO/IEC  | Acessibilidade e Serviços Móveis   | Diretrizes para serviços móveis acessíveis |
-| 191 | ISO/IEC 29176-2011    | ISO/IEC  | Transporte e Mobilidade            | Informações para interoperabilidade de bilhetagem eletrônica |
-| 192 | ISO/IEC 29177-2016    | ISO/IEC  | Segurança para IoT                 | Estrutura de segurança de rede para sensores |
-| 193 | ISO/IEC 29178-2012    | ISO/IEC  | Infraestrutura de Mensagens        | Comunicação com segurança e interoperabilidade |
-| 194 | ISO/IEC 29179-2012    | ISO/IEC  | Documentação Técnica               | Requisitos de conteúdo para documentação de produtos de TI |
-| 195 | ISO/IEC 29180-2012    | ISO/IEC  | Rede de Comunicação                | Interconexão de dispositivos de redes domésticas |
-| 196 | ISO/IEC 29182-1-2013  | ISO/IEC  | Internet das Coisas (IoT)          | Arquitetura de Referência Sensor Web Enablement – Parte 1 |
-| 197 | ISO/IEC 29182-2-2013  | ISO/IEC  | Internet das Coisas (IoT)          | Parte 2: Visão geral da arquitetura de referência |
-| 198 | ISO/IEC 29182-3-2014  | ISO/IEC  | Internet das Coisas (IoT)          | Parte 3: Descrição detalhada de referência funcional |
-| 199 | ISO/IEC 29182-4-2013  | ISO/IEC  | Internet das Coisas (IoT)          | Sensor Network Reference Architecture – Parte 4 |
-| 200 | ISO/IEC 29182-5-2013  | ISO/IEC  | Sensoriamento de Contexto          | Estrutura de aplicação e requisitos        |
-| 201 | ISO/IEC 29182-6-2014  | ISO/IEC  | Internet das Coisas (IoT)          | Sensor Network – Requisitos de arquitetura |
-| 202 | ISO/IEC 29182-7-2015  | ISO/IEC  | IoT / Redes de Sensores            | Arquitetura para redes de sensores – Parte 7 |
-| 203 | ISO/IEC 29183-2021    | ISO/IEC  | Impressão e Fluxo de Trabalho      | Interface de usuário para digitalização de documentos |
-| 204 | ISO/IEC 29184-2020    | ISO/IEC  | Privacidade e Transparência        | Informações para consentimento online      |
-| 205 | ISO/IEC 29190-2015    | ISO/IEC  | Privacidade                        | Diretrizes de avaliação de impacto à privacidade |
-| 206 | ISO/IEC 29191-2012    | ISO/IEC  | Privacidade e Autenticação         | Diretrizes de autenticação anônima         |
-| 207 | ISO/IEC 29192-1-2012  | ISO/IEC  | Criptografia Leve                  | Parte 1: Visão geral e requisitos para algoritmos leves |
-| 208 | ISO/IEC 29192-2-2019  | ISO/IEC  | Criptografia Leve                  | Algoritmos de bloco leves para dispositivos com recursos limitados |
-| 209 | ISO/IEC 29192-3-2012  | ISO/IEC  | Criptografia                       | Algoritmos leves – Parte 3: MAC            |
-| 210 | ISO/IEC 29192-4-2013  | ISO/IEC  | Criptografia Leve                  | Algoritmos de encriptação leves – Parte 4  |
-| 211 | ISO/IEC 29192-5-2016  | ISO/IEC  | Criptografia Leve                  | MAC (código de autenticação de mensagem) leve – Parte 5 |
-| 212 | ISO/IEC 29192-6-2019  | ISO/IEC  | Criptografia Leve                  | Algoritmos de cifra leve – Parte 6: Função de hash |
-| 213 | ISO/IEC 29192-7-2019  | ISO/IEC  | Criptografia Leve                  | Algoritmos leves – Parte 7: Funções de autenticação |
-| 214 | ISO/IEC 29192-8-2022  | ISO/IEC  | Criptografia Leve                  | Algoritmos leves – Parte 8: Assinaturas digitais |
-| 215 | ISO/IEC 29197-2015    | ISO/IEC  | Reconhecimento de Padrões          | Métodos de teste para sistemas biométricos |
-| 216 | ISO/IEC 29199-3-2010  | ISO/IEC  | Compressão de Imagem               | JPEG XR – Parte 3: Conformidade            |
-| 217 | ISO/IEC 29199-4-2010  | ISO/IEC  | Codificação de Imagem              | JPEG XR – Parte 4: Formato de arquivo      |
-| 218 | ISO/IEC 29199-5-2012  | ISO/IEC  | Codificação de Imagem              | JPEG XR – Parte 5: Conformidade e testes   |
-| 219 | ISO/IEC 29341-1-1-2011| ISO/IEC  | Redes Domésticas (UPnP)            | Arquitetura UPnP — Parte 1: Visão Geral    |
-| 220 | ISO/IEC 29341-1-2-2017| ISO/IEC  | Redes Domésticas (UPnP)            | Parte 1-2: Estrutura geral do dispositivo UPnP |
-| 221 | ISO/IEC 29341-2-2008  | ISO/IEC  | Rede Doméstica (UPnP)              | Arquitetura do dispositivo base            |
-| 222 | ISO/IEC 29341-3-1-2011| ISO/IEC  | Rede Doméstica (UPnP)              | Dispositivo de controle de renderização de mídia |
-| 223 | ISO/IEC 29341-3-2-2008| ISO/IEC  | Rede Doméstica (UPnP)              | Requisitos de serviço de renderização de mídia |
-| 224 | ISO/IEC 29341-3-3-2008| ISO/IEC  | UPnP / Redes Domésticas            | Protocolo de renderização de mídia – Parte 3 |
-| 225 | ISO/IEC 29341-3-10-2015| ISO/IEC | Redes Domésticas UPnP              | Protocolo de dispositivos de impressão – Parte 10 |
-| 226 | ISO/IEC 29341-3-11-2008| ISO/IEC | Redes Domésticas UPnP              | Protocolo de dispositivos de impressão – Parte 11 |
-| 227 | ISO/IEC 29341-3-12-2008| ISO/IEC | Redes Domésticas UPnP              | Dispositivo de impressão – Parte 3-12      |
-| 228 | ISO/IEC 29341-3-13-2008| ISO/IEC | Redes Domésticas (UPnP)            | Parte 3-13: Especificação de serviço para dispositivos de câmera |
-| 229 | ISO/IEC 29341-4-2-2011| ISO/IEC  | Redes Domésticas (UPnP)            | Parte 4-2: Serviço de controle de conexão  |
-| 230 | ISO/IEC 29341-4-3-2008| ISO/IEC  | Redes Domésticas (UPnP)            | Parte 4-3: Serviço de gerenciamento de WAN IP Connection |
-| 231 | ISO/IEC 29341-4-4-2011| ISO/IEC  | Redes Domésticas (UPnP)            | Parte 4-4: Serviço de gerenciamento de acesso remoto |
-| 232 | ISO/IEC 29341-4-10-2011| ISO/IEC | Redes Domésticas (UPnP)            | Parte 4-10: Serviço de controle remoto de mídia |
-| 233 | ISO/IEC 29341-4-11-2011| ISO/IEC | Redes Domésticas (UPnP)            | Parte 4-11: Serviço de controle de dispositivos de mídia |
-| 234 | ISO/IEC 29341-4-12-2008| ISO/IEC | Redes Domésticas (UPnP)            | Parte 4-12: Serviço de controle de sintonia (tuning) |
-| 235 | ISO/IEC 29341-4-13-2011| ISO/IEC | Redes Domésticas (UPnP)            | Parte 4-13: Serviço de sensor de sintonização |
-| 236 | ISO/IEC 29341-4-14-2011| ISO/IEC | Redes Domésticas (UPnP)            | Parte 4-14: Serviço de controle de iluminação por zona |
-| 237 | ISO/IEC 29341-5-10-2008| ISO/IEC | Redes Domésticas (UPnP)            | Parte 5-10: Serviço de alarme              |
-| 238 | ISO/IEC 29341-5-11-2008| ISO/IEC | Redes Domésticas (UPnP)            | Parte 5-11: Serviço de temperatura de alarme |
-| 239 | ISO/IEC 29341-5-12-2008| ISO/IEC | Redes Domésticas (UPnP)            | Parte 5-12: Serviço de sensor de movimento |
-| 240 | ISO/IEC 29341-6-1-2008| ISO/IEC  | Redes Domésticas (UPnP)            | Parte 6-1: Dispositivo de iluminação geral |
-| 241 | ISO/IEC 29341-6-2-2008| ISO/IEC  | Redes Domésticas (UPnP)            | Parte 6-2: Serviço de lâmpada de iluminação geral |
-| 242 | ISO/IEC 29341-6-10-2008| ISO/IEC | Redes Domésticas (UPnP)            | Parte 6-10: Serviço de controle de dimmer de luz |
-| 243 | ISO/IEC 29341-6-11-2008| ISO/IEC | Redes Domésticas (UPnP)            | Parte 6-11: Serviço de controle de luz RGB |
-| 244 | ISO/IEC 29341-6-12-2008| ISO/IEC | Redes Domésticas (UPnP)            | Parte 6-12: Serviço de controle de cor de luz |
-| 245 | ISO/IEC 29341-6-14-2008| ISO/IEC | Redes Domésticas (UPnP)            | Parte 6-14: Dispositivo de iluminação      |
-| 246 | ISO/IEC 29341-6-15-2008| ISO/IEC | Redes Domésticas (UPnP)            | Parte 6-15: Dispositivo de iluminação ambiente |
-| 247 | ISO/IEC 29341-6-16-2008| ISO/IEC | Redes Domésticas (UPnP)            | Parte 6-16: Dispositivo de iluminação RGB  |
-| 248 | ISO/IEC 29341-6-17-2008| ISO/IEC | Redes Domésticas (UPnP)            | Parte 6-17: Dispositivo de lâmpada RGB personalizada |
-| 249 | ISO/IEC 29341-7-1-2008| ISO/IEC  | Redes Domésticas (UPnP)            | Parte 7-1: Dispositivo de controle ambiental |
-| 250 | ISO/IEC 29341-7-2-2008| ISO/IEC  | Redes Domésticas (UPnP)            | Parte 7-2: Serviço de controle ambiental (controle de temperatura) |
-| 251 | ISO/IEC 29341-7-10-2008| ISO/IEC | Redes Domésticas (UPnP)            | Parte 7-10: Serviço de controle ambiental de ventilação |
-| 252 | ISO/IEC 29341-7-11-2015| ISO/IEC | Redes Domésticas (UPnP)            | Parte 7-11: Serviço de controle de persianas e cortinas |
-| 253 | ISO/IEC 29341-8-2-2008| ISO/IEC  | Redes Domésticas (UPnP)            | Parte 8-2: Dispositivo de impressão básica |
-| 254 | ISO/IEC 29341-8-3-2008| ISO/IEC  | Redes Domésticas (UPnP)            | Parte 8-3: Serviço de digitalização de imagem |
-| 255 | ISO/IEC 29341-8-4-2008| ISO/IEC  | Redes Domésticas (UPnP)            | Parte 8-4: Serviço de cópia de imagem      |
-| 256 | ISO/IEC 29341-8-5-2008| ISO/IEC  | Redes Domésticas (UPnP)            | Parte 8-5: Serviço de impressão            |
-| 257 | ISO/IEC 29341-8-10-2008| ISO/IEC | Redes Domésticas (UPnP)            | Parte 8-10: Serviço de digitalização       |
-| 258 | ISO/IEC 29341-8-11-2008| ISO/IEC | Redes Domésticas (UPnP)            | Parte 8-11: Serviço de impressão (PrintBasic) |
-| 259 | ISO/IEC 29341-8-12-2008| ISO/IEC | Redes Domésticas (UPnP)            | Parte 8-12: Serviço de digitalização de imagem (ScanEnhanced) |
-| 260 | ISO/IEC 29341-8-13-2008| ISO/IEC | Redes Domésticas (UPnP)            | Parte 8-13: Serviço de digitalização de imagem (ScanBasic) |
-| 261 | ISO/IEC 29341-8-15-2008| ISO/IEC | Redes Domésticas (UPnP)            | Parte 8-15: Dispositivo de impressão avançada |
-| 262 | ISO/IEC 29341-8-16-2008| ISO/IEC | Redes Domésticas (UPnP)            | Parte 8-16: Serviço de fax                 |
-| 263 | ISO/IEC 29341-8-17-2008| ISO/IEC | Redes Domésticas (UPnP)            | Parte 8-17: Serviço de digitalização de fax |
-| 264 | ISO/IEC 29341-8-18-2008| ISO/IEC | Redes Domésticas (UPnP)            | Parte 8-18: Serviço de digitalização de documentos |
-| 265 | ISO/IEC 29341-8-19-2008| ISO/IEC | Redes Domésticas (UPnP)            | Parte 8-19: Serviço de renderização de impressão |
-| 266 | ISO/IEC 29341-8-20-2008| ISO/IEC | Redes Domésticas (UPnP)            | Parte 8-20: Serviço de digitalização de imagem |
-| 267 | ISO/IEC 29341-8-21-2008| ISO/IEC | Redes Domésticas (UPnP)            | Parte 8-21: Serviço de gerenciamento de fax |
-| 268 | ISO/IEC 29341-9-1-2008| ISO/IEC  | Redes Domésticas (UPnP)            | Parte 9-1: Arquitetura de segurança de UPnP |
-| 269 | ISO/IEC 29341-9-10-2008| ISO/IEC | Redes Domésticas (UPnP)            | Parte 9-10: Serviço de status de impressão |
-| 270 | ISO/IEC 29341-9-11-2008| ISO/IEC | Redes Domésticas (UPnP)            | Parte 9-11: Serviço de gerenciamento de fila de impressão |
-| 271 | ISO/IEC 29341-9-12-2008| ISO/IEC | Redes Domésticas (UPnP)            | Parte 9-12: Serviço de gerenciamento de impressão |
-| 272 | ISO/IEC 29341-9-13-2008| ISO/IEC | Redes Domésticas (UPnP)            | Parte 9-13: Serviço de envio de fax        |
-| 273 | ISO/IEC 29341-10-1-2008| ISO/IEC | Redes Domésticas (UPnP)            | Parte 10-1: Dispositivo de segurança doméstica |
-| 274 | ISO/IEC 29341-10-10-2008| ISO/IEC| Redes Domésticas (UPnP)            | Parte 10-10: Serviço de sensor de segurança |
-| 275 | ISO/IEC 29341-10-11-2008| ISO/IEC| Redes Domésticas (UPnP)            | Parte 10-11: Serviço de alarme de segurança |
-| 276 | ISO/IEC 29341-10-12-2008| ISO/IEC| Redes Domésticas (UPnP)            | Parte 10-12: Serviço de gerenciamento de câmera IP |
-| 277 | ISO/IEC 29341-11-2-2008| ISO/IEC | Redes Domésticas (UPnP)            | Parte 11-2: Dispositivo de energia         |
-| 278 | ISO/IEC 29341-11-10-2008| ISO/IEC| Redes Domésticas (UPnP)            | Parte 11-10: Dispositivo de medição de energia |
-| 279 | ISO/IEC 29341-11-11-2008| ISO/IEC| Redes Domésticas (UPnP)            | Parte 11-11: Dispositivo de sensor de energia |
-| 280 | ISO/IEC 29341-11-12-2008| ISO/IEC| Redes Domésticas (UPnP)            | Parte 11-12: Serviço de monitoramento de energia |
-| 281 | ISO/IEC 29341-12-1-2015| ISO/IEC | Redes Domésticas (UPnP)            | Parte 12-1: Visão geral de rede para segurança de dispositivos domésticos |
-| 282 | ISO/IEC 29341-12-2-2015| ISO/IEC | Redes Domésticas (UPnP)            | Parte 12-2: Arquitetura de segurança de rede doméstica |
-| 283 | ISO/IEC 29341-12-10-2011| ISO/IEC| Redes Domésticas (UPnP)            | Parte 12-10: Serviço de configuração de segurança de rede |
-| 284 | ISO/IEC 29341-12-11-2015| ISO/IEC| Redes Domésticas (UPnP)| Parte 12-11: Serviço de configuração segura de rede doméstica |
-| 285 | ISO/IEC 29341-13-11-2013| ISO/IEC | Redes Domésticas (UPnP)| Parte 13-11: Serviço de diagnóstico |
-| 286 | ISO/IEC 29341-14-3-2011| ISO/IEC | Redes Domésticas (UPnP)| Parte 14-3: Serviço de gerenciamento de clima |
-| 287 | ISO/IEC 29341-14-12-2016| ISO/IEC | Redes Domésticas (UPnP)| Parte 14-12: Dispositivo de controle climático |
-| 288 | ISO/IEC 29341-15-10-2011| ISO/IEC | Redes Domésticas (UPnP)| Parte 15-10: Serviço de controle de refrigeração |
-| 289 | ISO/IEC 29341-16-1-2016 | ISO/IEC | Redes Domésticas (UPnP)| Parte 16: Visão geral para dispositivos inteligentes |
-| 290 | ISO/IEC 29341-16-10-2011| ISO/IEC | Redes Domésticas (UPnP)| Parte 16-10: Serviço de monitoramento de consumo elétrico |
-| 291 | ISO/IEC 29341-16-11-2011| ISO/IEC | Redes Domésticas (UPnP)| Parte 16-11: Serviço de relatório de consumo elétrico |
-| 292 | ISO/IEC 29341-17-1-2011| ISO/IEC | Redes Domésticas (UPnP)| Parte 17-1: Dispositivo de cuidados pessoais de emergência |
-| 293 | ISO/IEC 29341-17-11-2011| ISO/IEC | Redes Domésticas (UPnP)| Parte 17-11: Dispositivo de sensor ambiental |
-| 294 | ISO/IEC 29341-17-12-2011| ISO/IEC | Redes Domésticas (UPnP)| Parte 17-12: Dispositivo de controle de ambiente |
-| 295 | ISO/IEC 29341-17-13-2011| ISO/IEC | Redes Domésticas (UPnP)| Parte 17-13: Serviço de controle de ventilação |
-| 296 | ISO/IEC 29341-18-1-2011| ISO/IEC | Redes Domésticas (UPnP)| Parte 18-1: Introdução ao gerenciamento de dispositivos médicos UPnP |
-| 297 | ISO/IEC 29341-18-2-2011| ISO/IEC | Redes Domésticas (UPnP)| Parte 18-2: Serviço de monitoramento de sinais médicos |
-| 298 | ISO/IEC 29341-18-3-2011| ISO/IEC | Redes Domésticas (UPnP)| Parte 18-3: Serviço de alarme médico pessoal |
-| 299 | ISO/IEC 29341-18-4-2011| ISO/IEC | Redes Domésticas (UPnP)| Parte 18-4: Serviço de botão de emergência (PERS) |
-| 300 | ISO/IEC 29341-18-10-2011| ISO/IEC | Redes Domésticas (UPnP)| Parte 18-10: Serviço de botão de emergência |
-| 301 | ISO/IEC 29341-18-12-2011| ISO/IEC | Redes Domésticas (UPnP)| Parte 18-12: Serviço de armazenamento de conteúdo digital |
-| 302 | ISO/IEC 29341-18-13-2016| ISO/IEC | Redes Domésticas (UPnP)| Parte 18-13: Serviço de armazenamento avançado digital |
-| 303 | ISO/IEC 29341-19-1-2016| ISO/IEC | Redes Domésticas (UPnP)| Parte 19-1: Visão geral dos serviços de gerenciamento de dispositivos médicos |
-| 304 | ISO/IEC 29341-19-10-2016| ISO/IEC | Redes Domésticas (UPnP)| Parte 19-10: Serviço de monitoramento contínuo digital |
-| 305 | ISO/IEC 29341-20-1-2015| ISO/IEC | Redes Domésticas (UPnP)| Parte 20-1: Introdução ao sistema de controle térmico |
-| 306 | ISO/IEC 29341-20-2-2017| ISO/IEC | Redes Domésticas (UPnP)| Parte 20-2: Serviço de controle de válvula térmica |
-| 307 | ISO/IEC 29341-20-3-2017| ISO/IEC | Redes Domésticas (UPnP)| Parte 20-3: Serviço de gerenciamento de válvula de aquecimento |
-| 308 | ISO/IEC 29341-20-4-2017| ISO/IEC | Redes Domésticas (UPnP)| Parte 20-4: Serviço de controle de válvula de água |
-| 309 | ISO/IEC 29341-20-11-2013| ISO/IEC | Redes Domésticas (UPnP)| Parte 20-11: Serviço de termostato |
-| 310 | ISO/IEC 29341-20-12-2017| ISO/IEC | Redes Domésticas (UPnP)| Parte 20-12: Serviço de controle de temperatura |
-| 311 | ISO/IEC 29341-20-13-2017| ISO/IEC | Redes Domésticas (UPnP)| Parte 20-13: Serviço de controle térmico com alarmes |
-| 312 | ISO/IEC 29341-20-14-2017| ISO/IEC | Redes Domésticas (UPnP)| Parte 20-14: Serviço de alarmes térmicos detalhados |
-| 313 | ISO/IEC 29341-322-1-2017| ISO/IEC | Redes Domésticas (UPnP)| Parte 22-1: Arquitetura de controle de dispositivos médicos |
-| 314 | ISO/IEC 29341-322-2-2017| ISO/IEC | Redes Domésticas (UPnP)| Parte 22-322: Requisitos gerais para dispositivos médicos UPnP |
-| 315 | ISO/IEC 29341-322-3-2017| ISO/IEC | Redes Domésticas (UPnP)| Parte 22-3: Aplicações para interoperabilidade de dispositivos médicos UPnP |
-| 316 | ISO/IEC 29341-322-10-2017| ISO/IEC | Redes Domésticas (UPnP)| Parte 22-10: Conformidade de interoperabilidade em saúde |
-| 317 | ISO/IEC 29341-322-11-2017| ISO/IEC | Redes Domésticas (UPnP)| Parte 22-11: Monitoramento de sinais biométricos |
-| 318 | ISO/IEC 29341-322-12-2017| ISO/IEC | Redes Domésticas (UPnP)| Parte 22-12: Serviço de monitoramento de sinais fisiológicos |
-| 319 | ISO/IEC 29341-322-13-2018| ISO/IEC | Redes Domésticas (UPnP)| Parte 322-13: Serviço de sinais fisiológicos – temperatura corporal |
-| 320 | ISO/IEC 29341-322-14-2017| ISO/IEC | Redes Domésticas (UPnP)| Parte 322-14: Serviço de sinais fisiológicos – ECG |
-| 321 | ISO/IEC 29341-322-17-2017| ISO/IEC | Redes Domésticas (UPnP)| Parte 322-17: Serviço de gestão de oxímetro de pulso |
-| 322 | ISO/IEC 29341-24-1-2013 | ISO/IEC | Redes Domésticas (UPnP)| Parte 24-1: Arquitetura de controle digital de som |
-| 323 | ISO/IEC 29341-23-2-2017| ISO/IEC | Redes Domésticas (UPnP)| Parte 23-2: Serviço de configuração de som digital |
-| 324 | ISO/IEC 29341-23-3-2017| ISO/IEC | Redes Domésticas (UPnP)| Parte 23-3: Serviço de áudio digital multiambiente |
-| 325 | ISO/IEC 29341-23-10-2010| ISO/IEC | Redes Domésticas (UPnP)| Parte 10: Serviço de amplificação multicanal |
-| 326 | ISO/IEC 29341-24-2017 | ISO/IEC   | Redes Domésticas (UPnP)        | Parte 24: Requisitos para gerenciamento de perfil multimídia         |
-| 327 | ISO/IEC 29341-28-1:2017 | ISO/IEC   | Redes Domésticas (UPnP)        | Parte 28-1: Visão geral de gerenciamento de energia            |
-| 328 | ISO/IEC 29341-28-2:2017 | ISO/IEC   | Redes Domésticas (UPnP)        | Parte 28-2: Gerenciamento de carga energética              |
-| 329 | ISO/IEC 29341-28-10:2017 | ISO/IEC   | Redes Domésticas (UPnP)        | Parte 28-10: Sistema de medição e resposta a consumo         |
-| 330 | ISO/IEC 29341-2:2017 | ISO/IEC       | Redes Domésticas (UPnP)        | Parte 2: Arquitetura de dispositivos para agricultura urbana      |
-| 331 | ISO/IEC 29341-30-10:2017 | ISO/IEC   | Redes Domésticas (UPnP)        | Parte 30-10: Dispositivo de controle climático            |
-| 332 | ISO/IEC 29341-30-11:2017 | ISO/IEC   | Redes Domésticas (UPnP)        | Parte 30-11: Dispositivo de controle de energia            |
-| 333 | ISO/IEC 29341-30-12:2017 | ISO/IEC   | Redes Domésticas (UPnP)        | Parte 30-12: Serviço de controle energético digital de ambientes |
-| 334 | ISO/IEC 29341-31-1:2017 | ISO/IEC   | Redes Domésticas (UPnP)        | Parte 31-1: Visão geral da arquitetura de controle climático avançado digital |
-| 335 | ISO/IEC 29360:2008 | ISO/IEC       | Comunicação em Transporte     | Interface de comunicação sem fio para transporte de dados         |
-| 336 | ISO/IEC 29361:2008 | ISO/IEC       | Comunicação em Transporte     | Interface de rede sem fio para dispositivos de serviços web      |
-| 337 | ISO/IEC 29362:2008 | ISO/IEC       | Transporte de Dados       | Framework para transporte seguro baseada em serviços Web        |
-| 338 | ISO/IEC 29363:2008 | ISO/IEC       | Transporte Sem Fio (NFC/RFID)     | Requisitos para Codificação de Elementos XML (EXI)         |
-| 339 | ISO/IEC 29634:2009 | ISO/IEC       | Armazenamento de Dados     | Requisitos para discos de armazenamento de dados de alta capacidade   |
-| 340 | ISO/IEC 29881:2010 | ISO/IEC       | Métricas de Software       | Indicadores de qualidade para produtividade de software        |
+| Nº   | Norma ISO                     | Tipo ISO | Área de Atuação                     | Descrição Resumida                                          |
+|------|-------------------------------|----------|-------------------------------------|-------------------------------------------------------------|
+| 1    | ISO IEC 25001-2014           | ISO/IEC  | Qualidade de Produto                | Requisitos e avaliação da qualidade                         |
+| 2    | ISO IEC 25002-2024           | ISO/IEC  | Qualidade de Produto                | Medição da Qualidade do Produto                             |
+| 3    | ISO IEC 25010-2023           | ISO/IEC  | Qualidade de Produto                | Modelo de qualidade e características de software           |
+| 4    | ISO IEC 25012-2008           | ISO/IEC  | Qualidade de Dados                  | Modelo de qualidade de dados para sistemas de informação    |
+| 5    | ISO IEC 25018-2023           | ISO/IEC  | Qualidade de Software               | Guias de avaliação de qualidade com base na série SSquaRE   |
+| 6    | ISO IEC 25019-2023           | ISO/IEC  | Qualidade de Software               | Avaliação de qualidade para sistemas de IA baseados em SQuaRE |
+| 7    | ISO IEC 25020-2019           | ISO/IEC  | Qualidade de Software               | Medições de qualidade – modelo de qualidade                 |
+| 8    | ISO IEC 25021-2012           | ISO/IEC  | Qualidade de Software               | Requisitos de qualidade para uso de medições                |
+| 9    | ISO IEC 25022-2016           | ISO/IEC  | Qualidade de Software               | Medição da qualidade com foco em qualidade em uso           |
+| 10   | ISO IEC 25023-2016           | ISO/IEC  | Qualidade de Software               | Medição da qualidade com foco em características internas do produto |
+| 11   | ISO IEC 25024-2015           | ISO/IEC  | Métricas de Qualidade               | Medição de dados e indicadores                              |
+| 12   | ISO IEC 25030-2019           | ISO/IEC  | Requisitos de Qualidade             | Requisitos de qualidade de software                         |
+| 13   | ISO IEC 25040-2011           | ISO/IEC  | Avaliação de Produto                | Processo de avaliação da qualidade de produto               |
+| 14   | ISO IEC 25040-2024           | ISO/IEC  | Avaliação de Produto                | Processo atualizado para avaliação da qualidade de software |
+| 15   | ISO IEC 25041-2012           | ISO/IEC  | Qualidade de Produto                | Processo de avaliação da qualidade de software              |
+| 16   | ISO IEC 25045-2010           | ISO/IEC  | Qualidade de Dados                  | Métricas para avaliação de qualidade de dados               |
+| 17   | ISO IEC 25051-2014           | ISO/IEC  | Qualidade de Software               | Requisitos e testes para software pronto para uso (COTS)    |
+| 18   | ISO IEC 25059-2023           | ISO/IEC  | Qualidade de Software               | Definições de referência para qualidade de sistemas baseados em IA |
+| 19   | ISO IEC 25062-2006           | ISO/IEC  | Usabilidade                         | Relato de testes de usabilidade                             |
+| 20   | ISO IEC 25064-2013           | ISO/IEC  | Usabilidade                         | Medidas de usabilidade para software e sistemas interativos |
+| 21   | ISO IEC 25066-2016           | ISO/IEC  | Usabilidade                         | Métricas de usabilidade e experiência do usuário            |
+| 22   | ISO IEC 25185-1-2016         | ISO/IEC  | Saúde – Dispositivos Médicos        | Arquitetura e requisitos para dispositivos médicos          |
+| 23   | ISO IEC 25390-2025           | ISO/IEC  | TI – Sustentabilidade               | Diretrizes de sustentabilidade em tecnologias de informação |
+| 24   | ISO IEC 25434-2008           | ISO/IEC  | Gestão de Documentos                | Padrão para sistemas de imagem de documentos                |
+| 25   | ISO IEC 25435-2006           | ISO/IEC  | Imagem de Documentos                | Testes para scanners de documentos                         |
+| 26   | ISO IEC 25436-2006           | ISO/IEC  | Imagem de Documentos                | Teste de scanners para avaliação de desempenho              |
+| 27   | ISO IEC 25437-2012           | ISO/IEC  | Engenharia de Sistemas              | Requisitos para sistemas automotivos                       |
+| 28   | ISO IEC 26131-2024           | ISO/IEC  | Arquivamento                        | Padrões de metadados audiovisuais                          |
+| 29   | ISO IEC 26132-2024           | ISO/IEC  | Arquivamento Digital                | Requisitos para preservação de conteúdo em longo prazo     |
+| 30   | ISO IEC 26133-2024           | ISO/IEC  | Arquivamento Digital                | Preservação de informações digitais em longo prazo         |
+| 31   | ISO IEC 26135-2024           | ISO/IEC  | TI – Acessibilidade                 | Diretrizes sobre acessibilidade para documentos digitais   |
+| 32   | ISO IEC 26136-2024           | ISO/IEC  | Tecnologia da Informação            | Requisitos de acessibilidade em conteúdos digitais         |
+| 33   | ISO IEC 26137-2024           | ISO/IEC  | Tecnologia da Informação            | Diretrizes de acessibilidade e conteúdo eletrônico inclusivo |
+| 34   | ISO IEC 26138-2024           | ISO/IEC  | Acessibilidade e Inclusão           | Diretrizes para usabilidade de tecnologia assistiva        |
+| 35   | ISO IEC 26139-2024           | ISO/IEC  | Avaliação de Software               | Diretrizes para avaliação de qualidade                     |
+| 36   | ISO IEC 26300-1-2015         | ISO/IEC  | Documentação                        | ODF – formato de documentos abertos                         |
+| 37   | ISO IEC 26300-2-2015         | ISO/IEC  | Documentação Aberta                 | Formato aberto para documentos de escritório (ODF) – Parte 2 |
+| 38   | ISO IEC 26300-3-2015         | ISO/IEC  | Documentação Aberta                 | ODF – Parte 3: Embalagem de documentos                      |
+| 39   | ISO IEC 26550-2015           | ISO/IEC  | Engenharia de Sistemas              | Requisitos para desenvolvimento baseado em produto          |
+| 40   | ISO IEC 26551-2016           | ISO/IEC  | Engenharia de Software              | Requisitos para reuso em linhas de produto de software      |
+| 41   | ISO IEC 26552-2019           | ISO/IEC  | Engenharia de Software              | Processos de ciclo de vida de reuso de software            |
+| 42   | ISO IEC 26553-2018           | ISO/IEC  | Engenharia de Software              | Processos de desenvolvimento de linha de produto            |
+| 43   | ISO IEC 26554-2018           | ISO/IEC  | Engenharia de Software              | Processo de ciclo de vida para linha de produto            |
+| 44   | ISO IEC 26555-2015           | ISO/IEC  | Engenharia de Software              | Desenvolvimento ágil de software                            |
+| 45   | ISO IEC 26556-2018           | ISO/IEC  | Engenharia de Software              | Documentação de sistemas e software                        |
+| 46   | ISO IEC 26557-2016           | ISO/IEC  | Engenharia de Software              | Padrões de documentação técnica de sistemas e software     |
+| 47   | ISO IEC 26558-2017           | ISO/IEC  | Engenharia de Software              | Requisitos para desenvolvimento baseado em modelos          |
+| 48   | ISO IEC 26559-2017           | ISO/IEC  | Engenharia de Software              | Avaliação de conformidade de processos e ferramentas       |
+| 49   | ISO IEC 26560-2019           | ISO/IEC  | Engenharia de Software              | Processo de verificação e validação para reutilização      |
+| 50   | ISO IEC 26561-2019           | ISO/IEC  | Engenharia de Software              | Estrutura de processos de linha de produtos de software    |
+| 51   | ISO IEC 26562-2019           | ISO/IEC  | Engenharia de Software              | Integração de ferramentas e processos reutilizáveis        |
+| 52   | ISO IEC 26563-2022           | ISO/IEC  | Engenharia de Software              | Padrões de avaliação e certificação de software            |
+| 53   | ISO IEC 26564-2022           | ISO/IEC  | Ciclo de Vida                       | Gerenciamento da informação do produto                     |
+| 54   | ISO IEC 26580-2021           | ISO/IEC  | Documentação e DevOps               | Documentação de fluxos contínuos de entrega                |
+| 55   | ISO IEC 26702-2007           | ISO/IEC  | Engenharia de Sistemas              | Processos para ciclo de vida de engenharia de sistemas     |
+| 56   | ISO IEC 26907-2009           | ISO/IEC  | RFID e Código de Barras             | Codificação de tags RFID                                   |
+| 57   | ISO IEC 26908-2009           | ISO/IEC  | RFID                                | Tecnologia e codificação para RFID                         |
+| 58   | ISO IEC 26925-2009           | ISO/IEC  | RFID e Identificação                | Diretrizes para sistemas de RFID                           |
+| 59   | ISO IEC 27000-2018           | ISO/IEC  | Segurança da Informação             | Visão geral e vocabulário do sistema de gestão de segurança da info |
+| 60   | ISO IEC 27001-2022           | ISO/IEC  | Segurança da Informação             | Sistema de gestão de segurança da informação               |
+| 61   | ISO IEC 27002-2022           | ISO/IEC  | Segurança da Informação             | Código de práticas para controles de segurança             |
+| 62   | ISO IEC 27003-2017           | ISO/IEC  | Segurança da Informação             | Diretrizes para implementação do SGSI                      |
+| 63   | ISO IEC 27004-2016           | ISO/IEC  | Segurança da Informação             | Medição da eficácia do SGSI                                |
+| 64   | ISO IEC 27005-2022           | ISO/IEC  | Segurança da Informação             | Gestão de riscos de segurança da informação                |
+| 65   | ISO IEC 27006-2015           | ISO/IEC  | Certificação de SGSI                | Requisitos para organismos que realizam auditoria e certificação |
+| 66   | ISO IEC 27007-2020           | ISO/IEC  | Auditoria de SGSI                   | Diretrizes para auditoria de sistemas de gestão de segurança da info |
+| 67   | ISO IEC 27009-2020           | ISO/IEC  | Segurança da Informação             | Setor específico para SGSI                                 |
+| 68   | ISO IEC 27010-2015           | ISO/IEC  | Segurança da Informação             | Comunicação entre organizações                            |
+| 69   | ISO IEC 27011-2016           | ISO/IEC  | Segurança em Telecom                 | Aplicação do SGSI em telecomunicações                      |
+| 70   | ISO IEC 27013-2021           | ISO/IEC  | Integração de Normas SGSI           | Orientações para integração de ISO/IEC 27001 e 20000-1     |
+| 71   | ISO IEC 27014-2020           | ISO/IEC  | Governança de Segurança Info        | Estrutura de governança da segurança da informação         |
+| 72   | ISO IEC 27017-2015           | ISO/IEC  | Segurança em Nuvem                  | Diretrizes para controles de segurança                     |
+| 73   | ISO IEC 27018-2019           | ISO/IEC  | Segurança e Privacidade             | Proteção de dados pessoais na nuvem                        |
+| 74   | ISO IEC 27019-2017           | ISO/IEC  | Energia e Automação                 | SGSI para o setor de energia elétrica                      |
+| 75   | ISO IEC 27021-2017           | ISO/IEC  | Gestão de Segurança da Info         | Competência de profissionais em sistemas de gestão de segurança |
+| 76   | ISO IEC 27031-2011           | ISO/IEC  | Continuidade de Negócio             | Diretrizes para prontidão de TIC em continuidade            |
+| 77   | ISO IEC 27032-2023           | ISO/IEC  | Segurança Cibernética               | Diretrizes para segurança no ciberespaço                   |
+| 78   | ISO IEC 27033-1-2015         | ISO/IEC  | Segurança de Redes                  | Visão geral e conceitos                                    |
+| 79   | ISO IEC 27033-2-2012         | ISO/IEC  | Segurança de Redes                  | Design e implementação de segurança para redes             |
+| 80   | ISO IEC 27033-3-2010         | ISO/IEC  | Segurança de Redes                  | Requisitos de segurança de redes para conexões entre redes |
+| 81   | ISO IEC 27033-4-2014         | ISO/IEC  | Segurança de Redes                  | Proteção para conexões em redes públicas                   |
+| 82   | ISO IEC 27033-5-2013         | ISO/IEC  | Segurança de Redes                  | Segurança de redes – Parte 5: redes seguras                |
+| 83   | ISO IEC 27033-6-2016         | ISO/IEC  | Segurança de Redes                  | Parte 6: VPNs IP                                           |
+| 84   | ISO IEC 27034-1-2011         | ISO/IEC  | Segurança de Aplicações             | Visão geral da segurança em aplicações                     |
+| 85   | ISO IEC 27034-2-2015         | ISO/IEC  | Segurança de Aplicações             | Referencial organizacional                                |
+| 86   | ISO IEC 27034-3-2018         | ISO/IEC  | Segurança de Aplicações             | Framework de segurança de aplicações - parte 3             |
+| 87   | ISO IEC 27034-5-2017         | ISO/IEC  | Segurança de Aplicações             | Guia para segurança de aplicações baseadas em processos    |
+| 88   | ISO IEC 27034-6-2016         | ISO/IEC  | Segurança de Aplicações             | Verificação de segurança no ciclo de vida de software      |
+| 89   | ISO IEC 27034-7-2018         | ISO/IEC  | Segurança de Aplicações             | Diretrizes de segurança para aplicações comerciais         |
+| 90   | ISO IEC 27036-1-2021         | ISO/IEC  | Segurança na Cadeia de Suprimentos  | Visão geral e conceitos                                    |
+| 91   | ISO IEC 27036-2-2022         | ISO/IEC  | Cadeia de Suprimentos               | Requisitos para segurança em aquisições                    |
+| 92   | ISO IEC 27036-3-2023         | ISO/IEC  | Segurança de Fornecedores           | Requisitos para relações com fornecedores externos         |
+| 93   | ISO IEC 27036-4-2016         | ISO/IEC  | Segurança de Fornecedores           | Segurança nas relações com fornecedores (nível organizacional) |
+| 94   | ISO IEC 27037-2012           | ISO/IEC  | Forense Digital                     | Diretrizes para coleta e preservação de evidência digital  |
+| 95   | ISO IEC 27039-2015           | ISO/IEC  | Forense Digital                     | Seleção, implantação e operação de ferramentas de detecção |
+| 96   | ISO IEC 27040-2015           | ISO/IEC  | Segurança de Armazenamento          | Requisitos de segurança para armazenamento de dados        |
+| 97   | ISO IEC 27041-2015           | ISO/IEC  | Forense Digital                     | Diretrizes de segurança para coleta de evidências          |
+| 98   | ISO IEC 27042-2015           | ISO/IEC  | Forense Digital                     | Análise de evidência digital                               |
+| 99   | ISO IEC 27043-2015           | ISO/IEC  | Forense Digital                     | Diretrizes para investigações de incidentes                |
+| 100  | ISO IEC 27050-1-2019         | ISO/IEC  | Forense Digital                     | Visão geral de coleta e análise de evidência digital       |
+| 101  | ISO IEC 27050-2-2018         | ISO/IEC  | Forense Digital                     | Diretrizes para e-discovery – coleta de evidências digitais |
+| 102  | ISO IEC 27050-3-2020         | ISO/IEC  | Forense Digital                     | E-discovery – Parte 3: análise e produção                  |
+| 103  | ISO IEC 27050-4-2021         | ISO/IEC  | Forense Digital                     | E-discovery – Parte 4: fluxo de trabalho de descoberta eletrônica |
+| 104  | ISO IEC 27070-2021           | ISO/IEC  | Serviços de Segurança               | Gestão de serviços de segurança para nuvem                |
+| 105  | ISO IEC 27099-2022           | ISO/IEC  | Segurança da Informação             | Framework de políticas e práticas para infraestrutura de chave pública (PKI) |
+| 106  | ISO IEC 27102-2019           | ISO/IEC  | Segurança da Informação             | Diretrizes para resiliência cibernética                    |
+| 107  | ISO IEC 27400-2022           | ISO/IEC  | IoT (Internet das Coisas)           | Diretrizes de segurança para sistemas baseados em IoT      |
+| 108  | ISO IEC 27402-2023           | ISO/IEC  | IoT                                 | Especificações para privacidade e segurança em ambientes IoT |
+| 109  | ISO IEC 27403-2024           | ISO/IEC  | IoT                                 | Segurança e interoperabilidade em dispositivos inteligentes |
+| 110  | ISO IEC 27551-2021           | ISO/IEC  | Identidade Digital                  | Requisitos de proteção de privacidade para provedores de identidade |
+| 111  | ISO IEC 27554-2024           | ISO/IEC  | Privacidade de Dados                | Orientações de implementação para proteção de dados pessoais |
+| 112  | ISO IEC 27555-2021           | ISO/IEC  | Privacidade de Dados                | Eliminação de dados pessoais com base em objetivos de controle |
+| 113  | ISO IEC 27556-2022           | ISO/IEC  | Privacidade de Dados                | Diretrizes para consentimento e gestão de informações pessoais |
+| 114  | ISO IEC 27559-2022           | ISO/IEC  | Privacidade de Dados                | Framework de privacidade para sistemas de inteligência artificial |
+| 115  | ISO IEC 27561-2024           | ISO/IEC  | Identidade Digital                  | Requisitos de segurança para provedores de identidade baseados em nuvem |
+| 116  | ISO IEC 27562-2024           | ISO/IEC  | Segurança da Informação             | Diretrizes de segurança cibernética para dados de saúde    |
+| 117  | ISO IEC 28360-1-2021         | ISO/IEC  | Comunicação Digital                 | Interface de comunicação digital avançada – Parte 1        |
+| 118  | ISO IEC 28361-2007           | ISO/IEC  | Telecomunicações                    | Interface de comunicação para dispositivos eletrônicos     |
+| 119  | ISO IEC 29100-2011           | ISO/IEC  | Segurança da Informação             | Estrutura para proteção da privacidade                     |
+| 120  | ISO IEC 29101-2018           | ISO/IEC  | Arquitetura de Privacidade          | Estrutura de referência para arquitetura de privacidade    |
+| 121  | ISO IEC 29103-2011           | ISO/IEC  | Linguagens de Programação           | Linguagem de programação C++                               |
+| 122  | ISO IEC 29109-4-2010         | ISO/IEC  | Biometria                           | Testes de conformidade biométrica – Parte 4                |
+| 123  | ISO IEC 29109-5-2019         | ISO/IEC  | Biometria                           | Testes de conformidade – Parte 5: Iris                     |
+| 124  | ISO IEC 29109-6-2011         | ISO/IEC  | Biometria                           | Teste de conformidade biométrica – Parte 6: Vein pattern   |
+| 125  | ISO IEC 29109-7-2011         | ISO/IEC  | Biometria                           | Teste de conformidade – Parte 7: Reconhecimento da íris    |
+| 126  | ISO IEC 29109-8-2011         | ISO/IEC  | Biometria                           | Teste de conformidade biométrica – Parte 8: Reconhecimento de padrão vascular da palma da mão |
+| 127  | ISO IEC 29110-1-2-2024       | ISO/IEC  | Engenharia de Software              | Ciclo de vida para PMEs — Visão Geral e Vocabulário        |
+| 128  | ISO IEC 29110-2-1-2015       | ISO/IEC  | Engenharia de Software              | Ciclo de vida para VSE - Parte 2-1                         |
+| 129  | ISO IEC 29110-2-1-2015 amd1-2022 | ISO/IEC | Engenharia de Software         | Emenda 1 à Parte 2-1: Ciclo de vida para VSE               |
+| 130  | ISO IEC 29110-2-2-2011       | ISO/IEC  | Engenharia de Software              | Gerenciamento de ciclo de vida para pequenas empresas – Parte 2-2 |
+| 131  | ISO IEC 29110-3-2-2018       | ISO/IEC  | Engenharia de Software              | Ciclo de vida de software para VSE – Parte 3-2             |
+| 132  | ISO IEC 29110-3-3-2016       | ISO/IEC  | Engenharia de Software              | Ciclo de vida de software para pequenas entidades – Parte 3-3 |
+| 133  | ISO IEC 29110-4-1-2018       | ISO/IEC  | Engenharia de Software              | Parte 4-1: Perfis de ciclo de vida para entidades muito pequenas |
+| 134  | ISO IEC 29110-4-3-2018       | ISO/IEC  | Engenharia de Software              | Parte 4-3: Perfil de ciclo de vida básico para PMEs        |
+| 135  | ISO IEC 29110-5-1-1-2025     | ISO/IEC  | Engenharia de Software              | Guia de implementação para perfil básico de desenvolvimento |
+| 136  | ISO IEC 29110-5-1-2-2025     | ISO/IEC  | Engenharia de Software              | Implementação de processos para VSE                        |
+| 137  | ISO IEC 29110-5-6-4-2025     | ISO/IEC  | Engenharia de Software              | Guia de implementação de requisitos – Parte 5-6-4          |
+| 138  | ISO IEC 29112-2018           | ISO/IEC  | Linguagens de Programação          /arequisitos para suporte de software de precisão aumentada |
+| 139  | ISO IEC 29115-2013           | ISO/IEC  | Autenticação e Identidade           | Estrutura de garantia de autenticação                      |
+| 140  | ISO IEC 29116-1-2008         | ISO/IEC  | Comunicação de Dados                | Funções básicas para comunicação em redes de sensores      |
+| 141  | ISO IEC 29120-1-2022         | ISO/IEC  | Acessibilidade e Usabilidade        | Avaliação da acessibilidade de software – Parte 1          |
+| 142  | ISO IEC 29120-4-2-2021       | ISO/IEC  | Acessibilidade e Testes             | Framework para acessibilidade – Parte 4-2: Requisitos de teste |
+| 143  | ISO IEC 29121-2021           | ISO/IEC  | Serviços de Rede                    | Framework para gerenciamento de conteúdos multimídia       |
+| 144  | ISO IEC 29124-2010           | ISO/IEC  | Teste de Software                   | Linguagens de programação – Técnicas para cobertura de teste estrutural |
+| 145  | ISO IEC 29128-1-2023         | ISO/IEC  | Segurança de Informação             | Avaliação de esquemas criptográficos — Parte 1: Requisitos de segurança |
+| 146  | ISO IEC 29133-2010           | ISO/IEC  | Vigilância                          | Detecção de intrusão em vigilância digital                 |
+| 147  | ISO IEC 29134-2023           | ISO/IEC  | Privacidade                         | Diretrizes para avaliações de impacto de privacidade       |
+| 148  | ISO IEC 29136-2012           | ISO/IEC  | Acessibilidade                      | Requisitos para produtos de TI acessíveis                  |
+| 149  | ISO IEC 29138-1-2018         | ISO/IEC  | Acessibilidade                      | Catálogo de normas relacionadas à acessibilidade – Parte 1 |
+| 150  | ISO IEC 29138-3-2022         | ISO/IEC  | Acessibilidade                      | Catálogo de normas relacionadas – Parte 3: Glossário       |
+| 151  | ISO IEC 29140-2021           | ISO/IEC  | Educação e Tecnologia               | Diretrizes para sistemas de educação personalizados        |
+| 152  | ISO IEC 29141-2009           | ISO/IEC  | Segurança da Informação             | Framework de autenticação baseada em biometria             |
+| 153  | ISO IEC 29142-1-2021         | ISO/IEC  | Dispositivos de Impressão           | Medição de rendimento de cartuchos de jato de tinta        |
+| 154  | ISO IEC 29142-2-2013         | ISO/IEC  | Tecnologia de Impressão             | Métodos de medição de rendimento para dispositivos de cópia e impressão |
+| 155  | ISO IEC 29142-3-2013         | ISO/IEC  | Impressão                           | Testes de rendimento de cartuchos – Parte 3                |
+| 156  | ISO IEC 29143-2011           | ISO/IEC  | Teste de Software                   | Requisitos para testes de aplicativos móveis               |
+| 157  | ISO IEC 29145-1-2014         | ISO/IEC  | RFID / Segurança                    | Métodos criptográficos baseados em ECC – Parte 1           |
+| 158  | ISO IEC 29145-2-2014         | ISO/IEC  | Segurança                           | Algoritmos de criptografia baseados em curvas elípticas – Parte 2 |
+| 159  | ISO IEC 29145-3-2014         | ISO/IEC  | Segurança                           | Algoritmos de criptografia baseados em curvas elípticas – Parte 3 |
+| 160  | ISO IEC 29146-2016           | ISO/IEC  | Gerenciamento de Identidade         | Controle de acesso federado baseado em identidades         |
+| 161  | ISO IEC 29147-2018           | ISO/IEC  | Vulnerabilidade de Software         | Divulgação de vulnerabilidades                             |
+| 162  | ISO IEC 29150-2011           | ISO/IEC  | Criptografia                        | Mecanismos para controle de acesso criptográfico           |
+| 163  | ISO IEC 29151-2017           | ISO/IEC  | Segurança da Informação             | Diretrizes para proteção de informação pessoal identificável (PII) |
+| 164  | ISO IEC 29155-1-2017         | ISO/IEC  | Medição e Avaliação de Software     | Medição de desempenho de projeto – Parte 1: Conceitos e terminologia |
+| 165  | ISO IEC 29155-2-2013         | ISO/IEC  | Medição e Avaliação de Software     | Medição do desempenho do projeto – Parte 2: Processo de medição |
+| 166  | ISO IEC 29155-3-2015         | ISO/IEC  | Medição de Desempenho               | Medição de desempenho de projetos – Parte 3                |
+| 167  | ISO IEC 29155-4-2016         | ISO/IEC  | Medição e Avaliação de Projetos     | Medição de desempenho de projetos – Parte 4                |
+| 168  | ISO IEC 29157-2015           | ISO/IEC  | Redes de Comunicação                | Avaliação de qualidade de comunicação sem fio de curto alcance |
+| 169  | ISO IEC 29158-2020           | ISO/IEC  | Reconhecimento Automático           | Qualidade ótica de leitura de código de barras              |
+| 170  | ISO IEC 29159-1-2010         | ISO/IEC  | Biometria                           | Avaliação de desempenho de sistemas biométricos – Parte 1  |
+| 171  | ISO IEC 29160-2020           | ISO/IEC  | RFID                                | Símbolo de privacidade para RFID                           |
+| 172  | ISO IEC 29161-2016           | ISO/IEC  | Identificação Automática            | Estrutura para identificação única de itens com tecnologias AIDC |
+| 173  | ISO IEC 29164-2011           | ISO/IEC  | Redes e Comunicação                 | Comunicação inter-rede de redes de sensores                |
+| 174  | ISO IEC 29167-1-2014         | ISO/IEC  | RFID e Criptografia                 | Métodos criptográficos para RFID – Parte 1: Arquitetura geral |
+| 175  | ISO IEC 29167-10-2017        | ISO/IEC  | RFID e Criptografia                 | Métodos criptográficos – Parte 10: AES-128                 |
+| 176  | ISO IEC 29167-11-2023        | ISO/IEC  | Identificação por Rádio Frequência (RFID) | Criptografia leve baseada em PRESENT para RFID         |
+| 177  | ISO IEC 29167-12-2015        | ISO/IEC  | RFID                                | Criptografia para RFID – Parte 12                          |
+| 178  | ISO IEC 29167-13-2015        | ISO/IEC  | RFID                                | Criptografia para RFID – Parte 13                          |
+| 179  | ISO IEC 29167-14-2015        | ISO/IEC  | RFID                                | Mecanismo de segurança para RFID – Parte 14                |
+| 180  | ISO IEC 29167-16-2022        | ISO/IEC  | Segurança RFID                      | Métodos criptográficos para RFID – Parte 16                |
+| 181  | ISO IEC 29167-17-2015        | ISO/IEC  | Segurança RFID                      | Métodos criptográficos para RFID – Parte 17: RAMON         |
+| 182  | ISO IEC 29167-19-2019        | ISO/IEC  | RFID e Segurança                    | Métodos criptográficos para RFID – Parte 19: CipherTune    |
+| 183  | ISO IEC 29167-21-2018        | ISO/IEC  | RFID e Segurança                    | Métodos criptográficos – Parte 21: RAMON                   |
+| 184  | ISO IEC 29167-22-2018        | ISO/IEC  | RFID e Criptografia                 | Métodos criptográficos – Parte 22: ECDSA                   |
+| 185  | ISO IEC 29168-1-2023         | ISO/IEC  | Serviços Web para Dispositivos      | Visão geral e requisitos para interoperabilidade           |
+| 186  | ISO IEC 29168-2-2011         | ISO/IEC  | RFID                                | Arquitetura de comunicação – Parte 2                       |
+| 187  | ISO IEC 29169-2016           | ISO/IEC  | Codificação de Vídeo                | Medição de qualidade de vídeo digital                      |
+| 188  | ISO IEC 29170-1-2013         | ISO/IEC  | Avaliação de Imagem                 | Parte 1: Avaliação objetiva de qualidade de imagem         |
+| 189  | ISO IEC 29170-2-2015         | ISO/IEC  | Compressão de Imagem                | Avaliação subjetiva da qualidade de imagem                 |
+| 190  | ISO IEC 29173-1-2012         | ISO/IEC  | RFID e Comunicação                  | Troca de mensagens em sistemas RFID – Parte 1              |
+| 191  | ISO IEC 29175-2012           | ISO/IEC  | Acessibilidade e Serviços Móveis    | Diretrizes para serviços móveis acessíveis                 |
+| 192  | ISO IEC 29176-2011           | ISO/IEC  | Transporte e Mobilidade             | Informações para interoperabilidade de bilhetagem eletrônica |
+| 193  | ISO IEC 29177-2016           | ISO/IEC  | Segurança para IoT                  | Estrutura de segurança de rede para sensores               |
+| 194  | ISO IEC 29178-2012           | ISO/IEC  | Infraestrutura de Mensagens         | Comunicação com segurança e interoperabilidade            |
+| 195  | ISO IEC 29179-2012           | ISO/IEC  | Documentação Técnica                | Requisitos de conteúdo para documentação de produtos de TI |
+| 196  | ISO IEC 29180-2012           | ISO/IEC  | Rede de Comunicação                 | Interconexão de dispositivos de redes domésticas           |
+| 197  | ISO IEC 29182-1-2013         | ISO/IEC  | Internet das Coisas (IoT)           | Arquitetura de Referência Sensor Web Enablement – Parte 1  |
+| 198  | ISO IEC 29182-2-2013         | ISO/IEC  | Internet das Coisas (IoT)           | Parte 2: Visão geral da arquitetura de referência          |
+| 199  | ISO IEC 29182-3-2014         | ISO/IEC  | Internet das Coisas (IoT)           | Parte 3: Descrição detalhada de referência funcional       |
+| 200  | ISO IEC 29182-4-2013         | ISO/IEC  | Internet das Coisas (IoT)           | Sensor Network Reference Architecture – Parte 4            |
+| 201  | ISO IEC 29182-5-2013         | ISO/IEC  | Sensoriamento de Contexto           | Estrutura de aplicação e requisitos                        |
+| 202  | ISO IEC 29182-6-2014         | ISO/IEC  | Internet das Coisas (IoT)           | Sensor Network – Requisitos de arquitetura                 |
+| 203  | ISO IEC 29182-7-2015         | ISO/IEC  | IoT / Redes de Sensores             | Arquitetura para redes de sensores – Parte 7               |
+| 204  | ISO IEC 29183-2021           | ISO/IEC  | Impressão e Fluxo de Trabalho       | Interface de usuário para digitalização de documentos       |
+| 205  | ISO IEC 29184-2020           | ISO/IEC  | Privacidade e Transparência         | Informações para consentimento online                      |
+| 206  | ISO IEC 29190-2015           | ISO/IEC  | Privacidade                         | Diretrizes de avaliação de impacto à privacidade           |
+| 207  | ISO IEC 29191-2012           | ISO/IEC  | Privacidade e Autenticação          | Diretrizes de autenticação anônima                         |
+| 208  | ISO IEC 29192-1-2012         | ISO/IEC  | Criptografia Leve                   | Parte 1: Visão geral e requisitos para algoritmos leves    |
+| 209  | ISO IEC 29192-2-2019         | ISO/IEC  | Criptografia Leve                   | Algoritmos de bloco leves para dispositivos com recursos limitados |
+| 210  | ISO IEC 29192-3-2012         | ISO/IEC  | Criptografia                        | Algoritmos leves – Parte 3: MAC                            |
+| 211  | ISO IEC 29192-4-2013         | ISO/IEC  | Criptografia Leve                   | Algoritmos de encriptação leves – Parte 4                  |
+| 212  | ISO IEC 29192-5-2016         | ISO/IEC  | Criptografia Leve                   | MAC (código de autenticação de mensagem) leve – Parte 5    |
+| 213  | ISO IEC 29192-6-2019         | ISO/IEC  | Criptografia Leve                   | Algoritmos de cifra leve – Parte 6: Função de hash         |
+| 214  | ISO IEC 29192-7-2019         | ISO/IEC  | Criptografia Leve                   | Algoritmos leves – Parte 7: Funções de autenticação        |
+| 215  | ISO IEC 29192-8-2022         | ISO/IEC  | Criptografia Leve                   | Algoritmos leves – Parte 8: Assinaturas digitais           |
+| 216  | ISO IEC 29197-2015           | ISO/IEC  | Reconhecimento de Padrões           | Métodos de teste para sistemas biométricos                 |
+| 217  | ISO IEC 29199-3-2010         | ISO/IEC  | Compressão de Imagem                | JPEG XR – Parte 3: Conformidade                            |
+| 218  | ISO IEC 29199-4-2010         | ISO/IEC  | Codificação de Imagem               | JPEG XR – Parte 4: Formato de arquivo                      |
+| 219  | ISO IEC 29199-4-2010 files   | ISO/IEC  | Codificação de Imagem               | Arquivos de teste de conformidade JPEG XR – Parte 4        |
+| 220  | ISO IEC 29199-5-2012         | ISO/IEC  | Codificação de Imagem               | JPEG XR – Parte 5: Conformidade e testes                   |
+| 221  | ISO IEC 29199-5-2012 amd1-2015 | ISO/IEC | Codificação de Imagem             | Software de referência/amendment JPEG XR – Parte 5         |
+| 222  | ISO IEC 29341-1-1-2011       | ISO/IEC  | Redes Domésticas (UPnP)             | Arquitetura UPnP — Parte 1: Visão Geral                    |
+| 223  | ISO IEC 29341-1-2-2017       | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 1-2: Estrutura geral do dispositivo UPnP             |
+| 224  | ISO IEC 29341-2-2008         | ISO/IEC  | Rede Doméstica (UPnP)               | Arquitetura do dispositivo base                            |
+| 225  | ISO IEC 29341-2-2017         | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 2: Arquitetura de dispositivos para agricultura urbana |
+| 226  | ISO IEC 29341-3-1-2011       | ISO/IEC  | Rede Doméstica (UPnP)               | Dispositivo de controle de renderização de mídia           |
+| 227  | ISO IEC 29341-3-2-2008       | ISO/IEC  | Rede Doméstica (UPnP)               | Requisitos de serviço de renderização de mídia             |
+| 228  | ISO IEC 29341-3-3-2008       | ISO/IEC  | UPnP / Redes Domésticas             | Protocolo de renderização de mídia – Parte 3               |
+| 229  | ISO IEC 29341-3-10-2015      | ISO/IEC  | Redes Domésticas UPnP               | Protocolo de dispositivos de impressão – Parte 10          |
+| 230  | ISO IEC 29341-3-11-2008      | ISO/IEC  | Redes Domésticas UPnP               | Protocolo de dispositivos de impressão – Parte 11          |
+| 231  | ISO IEC 29341-3-12-2008      | ISO/IEC  | Redes Domésticas UPnP               | Dispositivo de impressão – Parte 3-12                      |
+| 232  | ISO IEC 29341-3-13-2008      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 3-13: Especificação de serviço para dispositivos de câmera |
+| 233  | ISO IEC 29341-4-2-2011       | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 4-2: Serviço de controle de conexão                  |
+| 234  | ISO IEC 29341-4-3-2008       | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 4-3: Serviço de gerenciamento de WAN IP Connection    |
+| 235  | ISO IEC 29341-4-4-2011       | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 4-4: Serviço de gerenciamento de acesso remoto        |
+| 236  | ISO IEC 29341-4-10-2011      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 4-10: Serviço de controle remoto de mídia            |
+| 237  | ISO IEC 29341-4-11-2011      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 4-11: Serviço de controle de dispositivos de mídia    |
+| 238  | ISO IEC 29341-4-12-2008      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 4-12: Serviço de controle de sintonia (tuning)       |
+| 239  | ISO IEC 29341-4-13-2011      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 4-13: Serviço de sensor de sintonização              |
+| 240  | ISO IEC 29341-4-14-2011      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 4-14: Serviço de controle de iluminação por zona     |
+| 241  | ISO IEC 29341-5-10-2008      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 5-10: Serviço de alarme                              |
+| 242  | ISO IEC 29341-5-11-2008      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 5-11: Serviço de temperatura de alarme               |
+| 243  | ISO IEC 29341-5-12-2008      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 5-12: Serviço de sensor de movimento                 |
+| 244  | ISO IEC 29341-6-1-2008       | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 6-1: Dispositivo de iluminação geral                 |
+| 245  | ISO IEC 29341-6-2-2008       | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 6-2: Serviço de lâmpada de iluminação geral          |
+| 246  | ISO IEC 29341-6-10-2008      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 6-10: Serviço de controle de dimmer de luz           |
+| 247  | ISO IEC 29341-6-11-2008      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 6-11: Serviço de controle de luz RGB                 |
+| 248  | ISO IEC 29341-6-12-2008      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 6-12: Serviço de controle de cor de luz             |
+| 249  | ISO IEC 29341-6-14-2008      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 6-14: Dispositivo de iluminação                      |
+| 250  | ISO IEC 29341-6-15-2008      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 6-15: Dispositivo de iluminação ambiente            |
+| 251  | ISO IEC 29341-6-16-2008      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 6-16: Dispositivo de iluminação RGB                  |
+| 252  | ISO IEC 29341-6-17-2008      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 6-17: Dispositivo de lâmpada RGB personalizada      |
+| 253  | ISO IEC 29341-7-1-2008       | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 7-1: Dispositivo de controle ambiental               |
+| 254  | ISO IEC 29341-7-2-2008       | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 7-2: Serviço de controle ambiental (controle de temperatura) |
+| 255  | ISO IEC 29341-7-10-2008      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 7-10: Serviço de controle ambiental de ventilação    |
+| 256  | ISO IEC 29341-7-11-2015      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 7-11: Serviço de controle de persianas e cortinas    |
+| 257  | ISO IEC 29341-8-2-2008       | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 8-2: Dispositivo de impressão básica                 |
+| 258  | ISO IEC 29341-8-3-2008       | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 8-3: Serviço de digitalização de imagem              |
+| 259  | ISO IEC 29341-8-4-2008       | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 8-4: Serviço de cópia de imagem                      |
+| 260  | ISO IEC 29341-8-5-2008       | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 8-5: Serviço de impressão                            |
+| 261  | ISO IEC 29341-8-10-2008      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 8-10: Serviço de digitalização                       |
+| 262  | ISO IEC 29341-8-11-2008      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 8-11: Serviço de impressão (PrintBasic)              |
+| 263  | ISO IEC 29341-8-12-2008      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 8-12: Serviço de digitalização de imagem (ScanEnhanced) |
+| 264  | ISO IEC 29341-8-13-2008      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 8-13: Serviço de digitalização de imagem (ScanBasic) |
+| 265  | ISO IEC 29341-8-15-2008      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 8-15: Dispositivo de impressão avançada             |
+| 266  | ISO IEC 29341-8-16-2008      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 8-16: Serviço de fax                                 |
+| 267  | ISO IEC 29341-8-17-2008      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 8-17: Serviço de digitalização de fax                |
+| 268  | ISO IEC 29341-8-18-2008      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 8-18: Serviço de digitalização de documentos         |
+| 269  | ISO IEC 29341-8-19-2008      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 8-19: Serviço de renderização de impressão           |
+| 270  | ISO IEC 29341-8-20-2008      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 8-20: Serviço de digitalização de imagem             |
+| 271  | ISO IEC 29341-8-21-2008      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 8-21: Serviço de gerenciamento de fax                |
+| 272  | ISO IEC 29341-9-1-2008       | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 9-1: Arquitetura de segurança de UPnP               |
+| 273  | ISO IEC 29341-9-10-2008      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 9-10: Serviço de status de impressão                 |
+| 274  | ISO IEC 29341-9-11-2008      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 9-11: Serviço de gerenciamento de fila de impressão  |
+| 275  | ISO IEC 29341-9-12-2008      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 9-12: Serviço de gerenciamento de impressão          |
+| 276  | ISO IEC 29341-9-13-2008      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 9-13: Serviço de envio de fax                        |
+| 277  | ISO IEC 29341-10-1-2008      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 10-1: Dispositivo de segurança doméstica            |
+| 278  | ISO IEC 29341-10-10-2008     | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 10-10: Serviço de sensor de segurança               |
+| 279  | ISO IEC 29341-10-11-2008     | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 10-11: Serviço de alarme de segurança               |
+| 280  | ISO IEC 29341-10-12-2008     | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 10-12: Serviço de gerenciamento de câmera IP         |
+| 281  | ISO IEC 29341-11-2-2008      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 11-2: Dispositivo de energia                        |
+| 282  | ISO IEC 29341-11-10-2008     | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 11-10: Dispositivo de medição de energia            |
+| 283  | ISO IEC 29341-11-11-2008     | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 11-11: Dispositivo de sensor de energia             |
+| 284  | ISO IEC 29341-11-12-2008     | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 11-12: Serviço de monitoramento de energia          |
+| 285  | ISO IEC 29341-12-1-2015      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 12-1: Visão geral de rede para segurança de dispositivos domésticos |
+| 286  | ISO IEC 29341-12-2-2015      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 12-2: Arquitetura de segurança de rede doméstica    |
+| 287  | ISO IEC 29341-12-10-2011     | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 12-10: Serviço de configuração de segurança de rede  |
+| 288  | ISO IEC 29341-12-11-2015     | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 12-11: Serviço de configuração segura de rede doméstica |
+| 289  | ISO IEC 29341-13-11-2013     | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 13-11: Serviço de diagnóstico                       |
+| 290  | ISO IEC 29341-14-3-2011      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 14-3: Serviço de gerenciamento de clima              |
+| 291  | ISO IEC 29341-14-12-2016     | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 14-12: Dispositivo de controle climático            |
+| 292  | ISO IEC 29341-15-10-2011     | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 15-10: Serviço de controle de refrigeração          |
+| 293  | ISO IEC 29341-16-1-2016      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 16: Visão geral para dispositivos inteligentes       |
+| 294  | ISO IEC 29341-16-10-2011     | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 16-10: Serviço de monitoramento de consumo elétrico |
+| 295  | ISO IEC 29341-16-11-2011     | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 16-11: Serviço de relatório de consumo elétrico     |
+| 296  | ISO IEC 29341-17-1-2011      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 17-1: Dispositivo de cuidados pessoais de emergência |
+| 297  | ISO IEC 29341-17-11-2011     | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 17-11: Dispositivo de sensor ambiental              |
+| 298  | ISO IEC 29341-17-12-2011     | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 17-12: Dispositivo de controle de ambiente          |
+| 299  | ISO IEC 29341-17-13-2011     | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 17-13: Serviço de controle de ventilação            |
+| 300  | ISO IEC 29341-18-1-2011      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 18-1: Introdução ao gerenciamento de dispositivos médicos UPnP |
+| 301  | ISO IEC 29341-18-2-2011      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 18-2: Serviço de monitoramento de sinais médicos     |
+| 302  | ISO IEC 29341-18-3-2011      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 18-3: Serviço de alarme médico pessoal               |
+| 303  | ISO IEC 29341-18-4-2011      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 18-4: Serviço de botão de emergência (PERS)         |
+| 304  | ISO IEC 29341-18-10-2011     | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 18-10: Serviço de botão de emergência               |
+| 305  | ISO IEC 29341-18-12-2011     | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 18-12: Serviço de armazenamento de conteúdo digital |
+| 306  | ISO IEC 29341-18-13-2016     | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 18-13: Serviço de armazenamento avançado digital    |
+| 307  | ISO IEC 29341-19-1-2016      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 19-1: Visão geral dos serviços de gerenciamento de dispositivos médicos |
+| 308  | ISO IEC 29341-19-10-2016     | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 19-10: Serviço de monitoramento contínuo digital     |
+| 309  | ISO IEC 29341-20-1-2015      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 20-1: Introdução ao sistema de controle térmico     |
+| 310  | ISO IEC 29341-20-2-2017      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 20-2: Serviço de controle de válvula térmica        |
+| 311  | ISO IEC 29341-20-3-2017      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 20-3: Serviço de gerenciamento de válvula de aquecimento |
+| 312  | ISO IEC 29341-20-4-2017      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 20-4: Serviço de controle de válvula de água        |
+| 313  | ISO IEC 29341-20-11-2013     | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 20-11: Serviço de termostato                        |
+| 314  | ISO IEC 29341-20-12-2017     | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 20-12: Serviço de controle de temperatura            |
+| 315  | ISO IEC 29341-20-13-2017     | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 20-13: Serviço de controle térmico com alarmes      |
+| 316  | ISO IEC 29341-20-14-2017     | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 20-14: Serviço de alarmes térmicos detalhados       |
+| 317  | ISO IEC 29341-23-2-2017      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 23-2: Serviço de configuração de som digital         |
+| 318  | ISO IEC 29341-23-3-2017      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 23-3: Serviço de áudio digital multiambiente         |
+| 319  | ISO IEC 29341-23-10-2010     | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 10: Serviço de amplificação multicanal              |
+| 320  | ISO IEC 29341-24-2017        | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 24: Requisitos para gerenciamento de perfil multimídia |
+| 321  | ISO IEC 29341-24-1-2013      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 24-1: Arquitetura de controle digital de som         |
+| 322  | ISO IEC 29341-28-1-2017      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 28-1: Visão geral de gerenciamento de energia        |
+| 323  | ISO IEC 29341-28-2-2017      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 28-2: Gerenciamento de carga energética             |
+| 324  | ISO IEC 29341-28-10-2017     | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 28-10: Sistema de medição e resposta a consumo       |
+| 325  | ISO IEC 29341-30-1-2017      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 30-1: Visão geral da arquitetura de controle climático avançado digital |
+| 326  | ISO IEC 29341-30-2-2017      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 30-2: Serviço de controle climático digital          |
+| 327  | ISO IEC 29341-30-10-2017     | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 30-10: Dispositivo de controle climático            |
+| 328  | ISO IEC 29341-30-11-2017     | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 30-11: Dispositivo de controle de energia           |
+| 329  | ISO IEC 29341-30-12-2017     | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 30-12: Serviço de controle energético digital de ambientes |
+| 330  | ISO IEC 29341-31-1-2017      | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 31-1: Visão geral da arquitetura de controle climático avançado digital |
+| 331  | ISO IEC 29341-322-1-2017     | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 22-1: Arquitetura de controle de dispositivos médicos |
+| 332  | ISO IEC 29341-322-2-2017     | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 22-322: Requisitos gerais para dispositivos médicos UPnP |
+| 333  | ISO IEC 29341-322-3-2017     | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 22-3: Aplicações para interoperabilidade de dispositivos médicos UPnP |
+| 334  | ISO IEC 29341-322-10-2017    | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 22-10: Conformidade de interoperabilidade em saúde   |
+| 335  | ISO IEC 29341-322-11-2017    | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 22-11: Monitoramento de sinais biométricos          |
+| 336  | ISO IEC 29341-322-12-2017    | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 22-12: Serviço de monitoramento de sinais fisiológicos |
+| 337  | ISO IEC 29341-322-13-2018    | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 322-13: Serviço de sinais fisiológicos – temperatura corporal |
+| 338  | ISO IEC 29341-322-14-2017    | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 322-14: Serviço de sinais fisiológicos – ECG         |
+| 339  | ISO IEC 29341-322-17-2017    | ISO/IEC  | Redes Domésticas (UPnP)             | Parte 322-17: Serviço de gestão de oxímetro de pulso       |
+| 340  | ISO IEC 29360-2008           | ISO/IEC  | Comunicação em Transporte           | Interface de comunicação sem fio para transporte de dados |
+| 341  | ISO IEC 29361-2008           | ISO/IEC  | Comunicação em Transporte           | Interface de rede sem fio para dispositivos de serviços web |
+| 342  | ISO IEC 29362-2008           | ISO/IEC  | Transporte de Dados                 | Framework para transporte seguro baseada em serviços Web |
+| 343  | ISO IEC 29363-2008           | ISO/IEC  | Transporte Sem Fio (NFC/RFID)       | Requisitos para Codificação de Elementos XML (EXI)         |
+| 344  | ISO IEC 29500-1-2016         | ISO/IEC  | Documentos Office Open XML          | Parte 1: Fundamentos e marcas principais (Office Open XML) |
+| 345  | ISO IEC 29500-2-2012         | ISO/IEC  | Documentos e Arquivos               | Open Document Format – Parte 2: Requisitos de conformidade |
+| 346  | ISO IEC 29500-2-2021         | ISO/IEC  | Documentos e Arquivos               | Open Document Format – Parte 2: Requisitos de conformidade (versão atualizada) |
+| 347  | ISO IEC 29500-3-2015         | ISO/IEC  | Documentos e Arquivos               | Parte 3: Mapeamentos de pacote para Open Document Format   |
+| 348  | ISO IEC 29500-4-2016         | ISO/IEC  | Documentação Office Open XML        | Parte 4: Conformidade e especificações do padrão de arquivos Office XML |
+| 349  | ISO IEC 29634-2009           | ISO/IEC  | Armazenamento de Dados              | Requisitos para discos de armazenamento de dados de alta capacidade |
+| 350  | ISO IEC 29794-1-2016         | ISO/IEC  | Biometria                           | Parte 1: Estrutura e requisitos de qualidade para dados biométricos |
+| 351  | ISO IEC 29794-1-2024         | ISO/IEC  | Biometria                           | Parte 1: Estrutura para especificação de requisitos de qualidade biométrica atualizada |
+| 352  | ISO IEC 29794-4-2024         | ISO/IEC  | Biometria                           | Parte 4: Qualidade de imagens de íris (versão 2024)        |
+| 353  | ISO IEC 29794-5-2025         | ISO/IEC  | Biometria                           | Parte 5: Qualidade de imagens de palma da mão (2025)       |
+| 354  | ISO IEC 29794-6-2015         | ISO/IEC  | Biometria                           | Parte 6: Avaliação da qualidade de imagens de face         |
+| 355  | ISO IEC 29881-2010           | ISO/IEC  | Métricas de Software                | Indicadores de qualidade para produtividade de software    |
 
 ---
 ### 3. **25001-30000.IEC TS** - Especificações Técnicas IEC
