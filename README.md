@@ -45,8 +45,9 @@
 │   ├── 🎯 Série Gestão de Projetos de Software (8 normas)
 │   ├── 🔄 Série Processos Ágeis (5 normas)
 │   ├── 👥 Série Para Equipes de Desenvolvimento (9 normas)
-│   ├── 🧠 Série Para Equipes de Desenvolvimento de AI (6 normas)
-│   └── 🛡️ Série Para Profissionais de Segurança da Informação (13 normas)
+│   ├── 🧠 Série Para Equipes de Desenvolvimento de AI (9 normas)
+│   ├── 📡 Série IoT e Sistemas Conectados (10 normas)
+│   └── 🛡️ Série Para Profissionais de Segurança da Informação (25+ normas)
 └── 📈 Estatísticas da Coleção Atualizada
     ├── 📊 Estatísticas Gerais (940+ normas catalogadas)
     └── 🎯 Distribuição por Perfil Profissional
@@ -1468,8 +1469,20 @@ As normas ISO/IEC/IEEE representam o consenso global sobre melhores práticas em
 | ISO IEC TS 27008-2019.pdf               | 2019 | Auditoria               | Diretrizes para auditoria de sistemas de gestão de segurança da informação |
 | ISO IEC TS 27100-2020.pdf               | 2020 | Cibersegurança          | Framework de desenvolvimento de cibersegurança                             |
 | ISO IEC TS 27110-2021.pdf               | 2021 | Cibersegurança          | Estrutura de cibersegurança para organizações                              |
-| ISO TR 27912-2016.pdf                   | 2016 | Segurança da Informação | Orientações sobre ISO/IEC 27001 para pequenas organizações                 |
-| ISO TS 27527-2010.pdf                   | 2010 | Segurança da Informação | Diretrizes para identificação de ativos de informação                      |
+| ISO IEC TS 27022-2021.pdf               | 2021 | Cibersegurança          | Diretrizes para gestão de incidentes de cibersegurança                     |
+| ISO IEC TS 27560-2023.pdf               | 2023 | Privacidade de Dados    | Diretrizes para consentimento e proteção de dados pessoais                |
+| ISO IEC TS 27570-2021.pdf               | 2021 | Privacidade de Dados    | Framework para anonimização de dados pessoais                             |
+| ISO IEC 27019-2024.pdf                  | 2024 | Segurança Industrial    | Controles de segurança para sistemas de controle industrial               |
+| ISO IEC 27035-4-2024.pdf                | 2024 | Resposta a Incidentes   | Gestão de incidentes de segurança - Parte 4: Coordenação                  |
+| ISO IEC 27559-2022.pdf                  | 2022 | Privacidade de Dados    | Diretrizes para controles de privacidade de dados                         |
+| ISO IEC 27561-2024.pdf                  | 2024 | Segurança em Nuvem      | Controles de segurança específicos para computação em nuvem               |
+| ISO IEC 27562-2024.pdf                  | 2024 | Cibersegurança          | Framework de cibersegurança para organizações                             |
+| ISO IEC TR 27563-2023.pdf               | 2023 | IoT Security            | Análise de ameaças e vulnerabilidades em sistemas IoT                     |
+| ISO IEC TR 27599-2025.pdf               | 2025 | Segurança da Informação | Diretrizes avançadas para implementação de controles de segurança         |
+| ISO TR 27912-2016.pdf                   | 2016 | Segurança da Informação | Orientações sobre ISO/IEC 27001 para pequenas organizações                |
+| ISO TR 27929-2024.pdf                   | 2024 | Segurança da Informação | Estrutura de governança para segurança da informação                      |
+| ISO TS 27527-2010.pdf                   | 2010 | Segurança da Informação | Diretrizes para identificação de ativos de informação                     |
+| ISO TS 27878-2023.pdf                   | 2023 | Cibersegurança          | Framework para resiliência cibernética em organizações                    |
 
 
 ## 🎯 Série para Product Owners e Coleta de Requisitos
@@ -1493,20 +1506,26 @@ As normas ISO/IEC/IEEE representam o consenso global sobre melhores práticas em
 
 | Norma                                    | Ano  | Área de Atuação              | Título                                                                     |
 |------------------------------------------|------|------------------------------|----------------------------------------------------------------------------|
-| ISO IEC 12207-2017.pdf                  | 2017 | Ciclo de Vida de Software    | Processos de ciclo de vida de software                                    |
-| ISO IEC 15288-2023.pdf                  | 2023 | Engenharia de Sistemas       | Processos de ciclo de vida de sistemas                                    |
 | ISO IEC 29110-1-2-2024.pdf              | 2024 | Engenharia de Software       | Ciclo de vida para PMEs — Visão Geral e Vocabulário                      |
 | ISO IEC 29110-4-1-2018.pdf              | 2018 | Engenharia de Software       | Parte 4-1: Perfis de ciclo de vida para entidades muito pequenas         |
 | ISO IEC 29110-4-3-2018.pdf              | 2018 | Engenharia de Software       | Parte 4-3: Perfil de ciclo de vida básico para PMEs                      |
 | ISO IEC 29110-5-1-1-2025.pdf            | 2025 | Engenharia de Software       | Guia de implementação para perfil básico de desenvolvimento              |
 | ISO IEC 29110-5-1-2-2025.pdf            | 2025 | Engenharia de Software       | Implementação de processos para VSE                                      |
+| ISO IEC 29110-5-6-4-2025.pdf            | 2025 | Engenharia de Software       | Guia de implementação para gerenciamento de risco - Parte 5-6-4          |
 | ISO IEC TR 29110-1-2016.pdf             | 2016 | Engenharia de Software       | Ciclo de vida de software para organizações muito pequenas - Visão geral |
+| ISO IEC TR 29110-2-2-2016.pdf           | 2016 | Engenharia de Software       | Framework e taxonomia para entidades muito pequenas                      |
 | ISO IEC TR 29110-3-1-2020.pdf           | 2020 | Engenharia de Software       | Avaliação de conformidade de processos em pequenas organizações          |
+| ISO IEC TR 29110-3-2011.pdf             | 2011 | Engenharia de Software       | Avaliação de processo e melhoria para entidades muito pequenas           |
+| ISO IEC TR 29110-3-4-2015.pdf           | 2015 | Engenharia de Software       | Diretrizes de adaptação de práticas ágeis para pequenas organizações     |
+| ISO IEC TR 29110-5-1-1-2012.pdf         | 2012 | Engenharia de Software       | Guia de implementação para perfil básico - Parte 5-1-1                   |
+| ISO IEC TR 29110-5-1-2-2011.pdf         | 2011 | Engenharia de Software       | Guia de implementação para perfil básico - Parte 5-1-2                   |
 | ISO IEC TR 29110-5-1-3-2017.pdf         | 2017 | Engenharia de Software       | Guia de implementação para perfil de entrada - Parte 5-1-3               |
-| ISO IEC 33001-2015.pdf                  | 2015 | Avaliação de Processos       | Modelo de avaliação de processos – Conceitos e terminologia              |
-| ISO IEC 33002-2015.pdf                  | 2015 | Avaliação de Processos       | Requisitos para executar uma avaliação de processo                       |
-| ISO IEC 33004-2015.pdf                  | 2015 | Modelos de Referência        | Framework para modelos de referência de processo                         |
-| ISO IEC 33020-2019.pdf                  | 2019 | Capacidade de Processo       | Modelo de referência de processo e modelo de avaliação de processo       |
+| ISO IEC TR 29110-5-1-4-2018.pdf         | 2018 | Engenharia de Software       | Guia de implementação para perfil intermediário - Parte 5-1-4            |
+| ISO IEC TR 29110-5-2-1-2016.pdf         | 2016 | Engenharia de Software       | Guia de implementação para gerenciamento de software - Parte 5-2-1       |
+| ISO IEC TR 29110-5-3-2018.pdf           | 2018 | Engenharia de Software       | Guia de implementação para perfil avançado - Parte 5-3                   |
+| ISO IEC TR 29110-5-6-1-2015.pdf         | 2015 | Engenharia de Software       | Guia de implementação para gerenciamento de risco - Parte 5-6-1          |
+| ISO IEC TR 29110-5-6-2-2014.pdf         | 2014 | Engenharia de Software       | Guia de implementação para gerenciamento de risco - Parte 5-6-2          |
+| ISO IEC TR 29110-5-6-3-2019.pdf         | 2019 | Engenharia de Software       | Guia de implementação para gerenciamento de risco - Parte 5-6-3          |
 | ISO TR 25100-2012.pdf                   | 2012 | Engenharia de Software       | Guia para seleção e uso de ferramentas de medição de software            |
 
 
@@ -1518,6 +1537,8 @@ As normas ISO/IEC/IEEE representam o consenso global sobre melhores práticas em
 | ISO IEC 25059-2023.pdf                  | 2023 | Qualidade de Software    | Definições de referência para qualidade de sistemas baseados em IA       |
 | ISO IEC 29120-1-2022.pdf                | 2022 | Acessibilidade           | Avaliação da acessibilidade de software – Parte 1                        |
 | ISO IEC 29140-2021.pdf                  | 2021 | Educação e Tecnologia    | Diretrizes para sistemas de educação personalizados                      |
+| ISO IEC 26131-2024.pdf                  | 2024 | Interface de Usuário     | Diretrizes para design de interfaces acessíveis                          |
+| ISO IEC 26132-2024.pdf                  | 2024 | Usabilidade              | Métodos de teste de usabilidade para produtos interativos                |
 | ISO TR 25060-2023.pdf                   | 2023 | Qualidade de Software    | Diretrizes para avaliação de usabilidade em sistemas interativos         |
 | ISO TR 25087-2025.pdf                   | 2025 | Usabilidade              | Métodos de avaliação de experiência do usuário em sistemas digitais      |
 | ISO TS 25138-2019.pdf                   | 2019 | Ergonomia de Software    | Diretrizes de ergonomia para interfaces de usuário                       |
@@ -1548,10 +1569,15 @@ As normas ISO/IEC/IEEE representam o consenso global sobre melhores práticas em
 | ISO IEC 25030-2019.pdf                  | 2019 | Engenharia de Requisitos     | Requisitos de qualidade de software                                      |
 | ISO IEC 25051-2014.pdf                  | 2014 | Qualidade de Software         | Requisitos e testes para software pronto para uso (COTS)                 |
 | ISO IEC 25059-2023.pdf                  | 2023 | Qualidade de Software         | Definições de referência para qualidade de sistemas baseados em IA       |
+| ISO IEC 25040-2024.pdf                  | 2024 | Avaliação de Software         | Processo de avaliação de qualidade de produto de software                |
+| ISO IEC TR 25219-2024.pdf               | 2024 | Qualidade de Software         | Diretrizes para avaliação de qualidade em desenvolvimento ágil           |
 | ISO TR 25060-2023.pdf                   | 2023 | Qualidade de Software         | Diretrizes para avaliação de usabilidade em sistemas interativos         |
 | ISO TR 25078-2025.pdf                   | 2025 | Qualidade de Software         | Modelo de maturidade para processos de qualidade de software             |
 | ISO TR 25080-2025.pdf                   | 2025 | Qualidade de Software         | Diretrizes para implementação de métricas de qualidade                   |
+| ISO TR 25555-2024.pdf                   | 2024 | Qualidade em IA               | Diretrizes para qualidade em sistemas de inteligência artificial         |
 | ISO TS 25107-2019.pdf                   | 2019 | Qualidade de Software         | Diretrizes para avaliação de qualidade em sistemas distribuídos          |
+| ISO TS 25108-2018.pdf                   | 2018 | Qualidade de Software         | Métodos de medição de qualidade para sistemas em nuvem                   |
+| ISO TS 25114-2010.pdf                   | 2010 | Qualidade de Software         | Processo de avaliação para pequenas organizações                         |
 
 
 ## 🎯 Série Relatórios de Qualidade e Documentação
@@ -1688,10 +1714,29 @@ As normas ISO/IEC/IEEE representam o consenso global sobre melhores práticas em
 |------------------------------------------|------|--------------------------|----------------------------------------------------------------------------|
 | ISO IEC 25019-2023.pdf                  | 2023 | Inteligência Artificial  | Avaliação de qualidade para sistemas de IA baseados em SQuaRE            |
 | ISO IEC 25059-2023.pdf                  | 2023 | Inteligência Artificial  | Definições de referência para qualidade de sistemas baseados em IA       |
-| ISO IEC TR 27563-2023.pdf               | 2023 | Inteligência Artificial  | Análise de ameaças e vulnerabilidades em sistemas IoT                    |
+| ISO IEC TR 27563-2023.pdf               | 2023 | Segurança em IA          | Análise de ameaças e vulnerabilidades em sistemas IoT e IA               |
 | ISO IEC TR 29119-13-2022.pdf            | 2022 | IA e Testes              | Diretrizes para teste de sistemas baseados em IA                          |
-| ISO TR 25555-2024.pdf                   | 2024 | Qualidade de Software    | Diretrizes para qualidade em sistemas de inteligência artificial         |
+| ISO IEC 29128-1-2023.pdf                | 2023 | IA e Blockchain          | Integração de inteligência artificial com tecnologias blockchain          |
+| ISO TR 25555-2024.pdf                   | 2024 | Qualidade em IA          | Diretrizes para qualidade em sistemas de inteligência artificial         |
+| ISO TR 29996-2024.pdf                   | 2024 | IA Aplicada              | Framework para implementação de IA em sistemas empresariais              |
+| ISO 26910-1-2023.pdf                    | 2023 | Ética em IA              | Ética em inteligência artificial - Parte 1: Princípios fundamentais      |
 | ISO TS 27878-2023.pdf                   | 2023 | Cibersegurança           | Framework para resiliência cibernética em organizações                   |
+
+
+## 🎯 Série IoT e Sistemas Conectados
+
+| Norma                                    | Ano  | Área de Atuação         | Título                                                                     |
+|------------------------------------------|------|--------------------------|----------------------------------------------------------------------------|
+| ISO IEC 29167-11-2023.pdf               | 2023 | Segurança RFID          | Protocolos de segurança para sistemas RFID - Parte 11                     |
+| ISO IEC 29167-21-2018.pdf               | 2018 | Segurança RFID          | Protocolos de segurança para sistemas RFID - Parte 21                     |
+| ISO IEC 29167-22-2018.pdf               | 2018 | Segurança RFID          | Protocolos de segurança para sistemas RFID - Parte 22                     |
+| ISO IEC TS 29167-15-2017.pdf            | 2017 | Segurança RFID          | Protocolos de segurança para sistemas RFID - Parte 15                     |
+| ISO IEC 26560-2019.pdf                  | 2019 | Internet das Coisas     | Framework para interoperabilidade em sistemas IoT                         |
+| ISO IEC 26563-2022.pdf                  | 2022 | Internet das Coisas     | Requisitos de segurança para dispositivos IoT                             |
+| ISO IEC 27033-1-2015.pdf                | 2015 | Segurança de Redes      | Segurança de redes - Parte 1: Visão geral e conceitos                     |
+| ISO IEC 27033-6-2016.pdf                | 2016 | Segurança de Redes      | Segurança de redes - Parte 6: Redes sem fio                               |
+| ISO IEC TR 27563-2023.pdf               | 2023 | IoT Security            | Análise de ameaças e vulnerabilidades em sistemas IoT                     |
+| ISO 26683-3-2019.pdf                    | 2019 | Internet das Coisas     | Protocolos de comunicação para Internet das Coisas - Parte 3              |
 
 
 ## 🎯 Série Para Profissionais de Segurança da Informação
