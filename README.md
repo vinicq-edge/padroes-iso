@@ -1757,6 +1757,54 @@ As normas ISO/IEC/IEEE representam o consenso global sobre melhores práticas em
 | ISO IEC TS 27008-2019.pdf               | 2019 | Auditoria               | Diretrizes para auditoria de sistemas de gestão de segurança da informação |
 | ISO TR 27912-2016.pdf                   | 2016 | Segurança da Informação | Orientações sobre ISO/IEC 27001 para pequenas organizações                 |
 
+## 📊 Série KPIs para Qualidade de Projetos Edge
+
+### 🎯 **Série Para Medição de Qualidade em Projetos de Software**
+
+*Baseada nas normas ISO para estabelecer KPIs objetivos para workflow de qualidade*
+
+| Norma                                    | Ano  | Categoria Principal         | Aplicação para KPIs de Qualidade                                            |
+|------------------------------------------|------|-----------------------------|------------------------------------------------------------------------------|
+| ISO IEC 25010-2023.pdf                  | 2023 | Modelo de Qualidade         | KPIs baseados em características de qualidade (funcionalidade, confiabilidade, usabilidade) |
+| ISO IEC 25020-2019.pdf                  | 2019 | Medição da Qualidade        | Estrutura de medições e métricas para avaliação sistemática                 |
+| ISO IEC 25021-2012.pdf                  | 2012 | Medição da Qualidade        | Definição de indicadores quantitativos para qualidade de software           |
+| ISO IEC 25030-2019.pdf                  | 2019 | Engenharia de Requisitos    | KPIs para qualidade de histórias de usuário e critérios de aceitação        |
+| ISO IEC IEEE 29148-2018.pdf             | 2018 | Engenharia de Requisitos    | Métricas para especificação e validação de requisitos                       |
+| ISO IEC IEEE 29119-4-2021.pdf           | 2021 | Testes Automatizados        | KPIs específicos para métricas de testes e cobertura                        |
+| ISO IEC IEEE 29119-2-2021.pdf           | 2021 | Processo de Teste           | Indicadores de conformidade com processos de teste                          |
+| ISO IEC IEEE 29119-3-2021.pdf           | 2021 | Documentação de Testes      | KPIs para qualidade de casos de teste e documentação                        |
+| ISO IEC TR 29119-6-2021.pdf             | 2021 | Testes Ágeis                | Métricas específicas para projetos com metodologia ágil                     |
+| ISO IEC 29110-1-2-2024.pdf              | 2024 | Ciclo de Vida de Software   | Framework de medição para organizações pequenas e médias                    |
+| ISO IEC 29110-4-1-2018.pdf              | 2018 | Engenharia de Software      | Perfis de processo e KPIs para entidades pequenas                           |
+| ISO IEC TR 29110-3-1-2020.pdf           | 2020 | Engenharia de Software      | Avaliação de conformidade e melhoria contínua                               |
+
+### 📈 **KPIs Sugeridos por Categoria:**
+
+**🎯 Qualidade de Histórias de Usuário (baseado em ISO/IEC 25030 e 29148):**
+
+* Taxa de histórias com critérios de aceitação bem definidos (>95%)
+* Índice de clareza de requisitos (escala 1-5, meta >4.2)
+* Percentual de histórias que passam na primeira revisão (>80%)
+
+**✅ Qualidade de Casos de Teste (baseado em ISO/IEC/IEEE 29119):**
+
+* Cobertura de casos de teste por história (>90%)
+* Taxa de casos de teste executáveis automaticamente (>70%)
+* Índice de rastreabilidade requisito-teste (100%)
+
+**🔄 Conformidade com Workflow (baseado em ISO/IEC 29110):**
+
+* Percentual de projetos seguindo todas as etapas do workflow (>95%)
+* Tempo médio de ciclo por fase do processo
+* Taxa de retrabalho por não conformidade (<10%)
+
+**📊 Métricas de Processo (baseado em ISO/IEC 25020-25021):**
+
+* Índice de maturidade do processo (escala 1-5, meta >3.5)
+* Eficiência de detecção de defeitos em cada fase
+* Velocidade de entrega vs. qualidade entregue
+
+
 ## 📈 Estatísticas da Coleção Atualizada
 
 | Categoria                      | Quantidade Real     | Tamanho Médio         | Normas Destacadas Reais                                     |
@@ -1767,11 +1815,12 @@ As normas ISO/IEC/IEEE representam o consenso global sobre melhores práticas em
 | Séries Temáticas Reais        | 17 séries completas | ~6-15 normas por série | Segurança, Qualidade, Testes, IA, Requisitos, UX/UI, Engenharia |
 
 ### 🎯 **Distribuição por Perfil Profissional:**
-- **👨‍💻 Desenvolvedores & Engenheiros**: 4 séries especializadas
-- **🔐 Segurança da Informação**: 2 séries dedicadas  
-- **📊 Qualidade & Testes**: 6 séries abrangentes
-- **🎨 UX/UI & Requisitos**: 3 séries focadas
-- **📈 Gestão & Processos**: 2 séries executivas
+
+* **👨‍💻 Desenvolvedores & Engenheiros**: 4 séries especializadas
+* **🔐 Segurança da Informação**: 2 séries dedicadas  
+* **📊 Qualidade & Testes**: 6 séries abrangentes
+* **🎨 UX/UI & Requisitos**: 3 séries focadas
+* **📈 Gestão & Processos**: 2 séries executivas
 
 ---
 
